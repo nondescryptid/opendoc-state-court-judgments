@@ -1,0 +1,155 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Oliver Lim Yue Xuan  
+
+### \[2022\] SGDC 234
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No DAC-903141-2022 and One Other, Magistrate's Appeal No 9169-2022-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">03 October 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Kessler Soh</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Joseph Gwee (Attorney-General's Chambers) for the Public Prosecutor; Riko Chua Isaac (Tembusu Law LLC) for the Defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Oliver Lim Yue Xuan</td></tr></tbody></table>
+
+Criminal Procedure – Sentencing – Reformative training
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9169/2022/01.\]
+
+3 October 2022
+
+### District Judge Kessler Soh:
+
+## Introduction
+
+1       Oliver Lim Yue Xuan (“**Oliver**”) is 19 years of age.
+
+2       On 19 November 2019, he was placed on 24 months’ probation by the Youth Court for various offences, including theft, abetment of forgery, using a forged document and voluntarily causing hurt. Not long after, sometime in _early 2020_ and while he was undergoing probation, he engaged in a conspiracy to forge an identity card to show that he was three years older than he was. Later, in September 2020, he committed a further offence of engaging in a conspiracy to reproduce a false identity card.
+
+3       Two charges under s 13(2) of the National Registration Act (Cap 201, 1992 Rev Ed) (“**NRA**”) were brought against him. On 12 July 2022 he pleaded guilty to one charge, and the second charge was taken into consideration for the purposes of sentencing. Pre-sentence reports were called to assess his suitability for probation and reformative training (“**RT**”). He was no longer recommended for probation, and was found suitable to undergo RT at “Level 1 intensity”.
+
+4       On 24 August 2022, he was sentenced to undergo RT. Oliver felt that he deserved probation one more time (despite his repeat offending and not being recommended for probation). His present appeal against the sentence of RT was filed on 6 September 2022 (through a new counsel). The execution of the sentence has been stayed, and he is presently on bail pending the appeal.
+
+5       The grounds of my decision on the sentence are set out below.
+
+## Plea of Guilt
+
+### Proceeded charge
+
+6       Oliver pleaded guilty to the following charge under the NRA:
+
+> DAC-903141-2022
+
+> You \[…\] are charged that you, sometime in early 2020, in Singapore, did abet by engaging in a conspiracy with one A’xl Gabriel Toh to abet one Seth Wee Zheng Yu to forge an identity card, _to wit_, a Singapore identity card bearing your name and photograph, indicating
+
+>> a)    Your date of birth as xx.yy.2000,
+
+>> b)    Your identification number as T00XXXXXX
+
+> and in pursuance of that conspiracy the said Seth Wee Zheng Yu did forge an identity card with the abovementioned details, and you have thereby committed an offence punishable under Section 13(2)(d) of the National Registration Act (Cap 201, 1992 Rev Ed) read with Section 13(4) of the same Act.
+
+7       Section 13(2)(d) of the NRA stated:
+
+> Any person who forges, erases, alters or falsifies any entry in or tampers with an identity card, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 10 years or to both.
+
+8       Under s 13(4) of the NRA, a person who aids or abets in the commission of any offence under the Act is guilty of an offence.
+
+### Facts
+
+9       Sometime in early 2020, Oliver was informed by “A’xl” that he had engaged “Seth” to procure a forged National Registration Identity Card (“NRIC”). Upon hearing this, Oliver requested for A’xl’s assistance to engage Seth on his behalf to procure a forged NRIC with his own particulars. (At that time, Oliver was not of legal age to purchase cigarettes and liquor, and he had intended to make use of a forged NRIC to do so.)
+
+10     Oliver used his handphone to take photographs of the front and back of his NRIC, which bore the NRIC number “T03XXXXXX” and date of birth “xx.yy.2003”. He then sent the images to A’xl, who forwarded the images to Seth. Seth subsequently forged, printed and laminated a forged NRIC, with the forged NRIC indicating number “T00XXXXXX” and date of birth “xx.yy.2000”. The other details, including Oliver’s name and photograph, were unchanged. Seth then handed the forged NRIC to A’xl.
+
+11     A’xl was then instructed by Oliver to safekeep the forged NRIC on his behalf as he was, at that time, under six months’ electronic tagging and 24 months’ probation with effect from 21 November 2019 for past offences. Oliver intended to collect the forged NRIC from A’xl subsequently.
+
+12     On 21 July 2020, police officers conducted a check at a unit at 160 Bishan Street 13 for suspected illicit drug activities. Four individuals, including Oliver and A’xl, were inside the premises. A search was conducted on the individuals, and the police found two forged NRICs on A’xl, one of which reflected Oliver’s particulars.
+
+13     Oliver was subsequently arrested and referred to the Immigration and Checkpoints Authority for further investigations.
+
+## Sentencing
+
+### Charge taken into consideration
+
+14     One other charge was taken into consideration (TIC) for the purpose of sentencing. Oliver admitted that on 12 September 2020, he engaged in a conspiracy with another person to unlawfully reproduce an identity card bearing his name and photograph and indicating his date of birth as “xx.yy.2000”, and his identification number as “T00XXXXXX”, an offence punishable under s 13(2)(_c_) read with s 13(4) of the NRA. (DAC-903140-2022)
+
+### Antecedents
+
+15     Oliver had prior offences. On 19 November 2019, he was placed on 24 months’ probation by the Youth Court for various offences: theft in dwelling (s 380 Penal Code), abetment of forgery (s 465 read with s 109 Penal Code), and voluntarily causing hurt (s 323 Penal Code), with four other TIC charges (two offences of theft in dwelling and two offences of using a forged document).
+
+### Calling of pre-sentence reports
+
+16     In a brief oral submission, the prosecution agreed with the defence that rehabilitation was the dominant sentencing consideration. It was submitted, however, that further probation might not be suitable. Among other things, it was highlighted that Oliver reoffended early in his 24-month term of probation. While the present offence was less serious than his previous offences, there was a similar antecedent for forgery. It was submitted that a report should be called to assess his suitability to undergo RT, in addition to a pre-sentence report for probation.
+
+17     Counsel for Oliver urged the court to consider probation for him.[\[note: 1\]](#Ftn_1) Among other things, it was submitted that Oliver suffered from Attention Deficit Hyperactivity Disorder (ADHD) since 2010. Oliver had committed the present offences when he was only 17 to 18 years old. Rehabilitation should be the presumptive sentencing consideration. Allowing Oliver an opportunity to reform into a good law-abiding citizen would benefit the public greatly in the future. It was also submitted that although Oliver reoffended while on probation, the offence was not as serious compared to his previous offences.
+
+18     I accepted that rehabilitation remained the dominant sentencing consideration given Oliver’s young age. That said, given his prior offences and the fact that the present offences were committed very shortly after he was placed on probation, I considered an element of deterrence to be necessary as well. Accordingly, I called for pre-sentence reports both for RT and probation.
+
+19     In the _Pre-Sentencing Report for Reformative Training_ dated 19 August 2022 (the “**RT Report**”), Oliver was found to be physically and mentally fit to undergo the RT regime. It was observed in the report that: “Oliver appeared to have committed the offences because of his association with negative peers and frequent consumption of alcohol. However, he had since dissociated himself from negative peers and stopped consuming alcohol with them. In addition, Oliver had stayed away from unlawful activities and was constructively engaged in education pursuits the past two years. He also built better relationship with his parents and valued interactions with his prosocial peers.” It was recommended that Oliver undergo “Level 1 intensity of rehabilitation” if sentenced to RT.
+
+20     Oliver was not recommended for probation, however. In the _Probation Officer’s Report_ dated 22 August 2022 (the “**Probation Report**”), while it was acknowledged that positive reports from Oliver’s internship company and Polytechnic suggested his capacity to behave pro-socially when motivated and closely monitored, and his adherence to trial time restrictions showed his capacity to be responsible and self-disciplined, the probation officer highlighted a long list of risk factors. These risk factors included the following: pro-criminal attitudes and poor consequential thinking skills; repeated offending behaviours of a similar nature indicated his risk-taking attitudes, limited insight and internalization and blatant disregard for the law; poor compliance during prior stint on probation suggested that intervention had not had its intended impact; his continued association with negative peers, who endorsed his alcohol habits, resulted in an unrestrained lifestyle, and increased exposure to risky situations; Oliver’s and his parents’ unwillingness to seek help for his psychiatric and psychological concerns was a hindrance to Oliver’s rehabilitation; his parents’ permissiveness and tendency to minimise his misbehaviours resulted in the repetition of his risk-taking behaviours; his parents’ inability to influence and supervise him effectively did not bode well for his rehabilitation.[\[note: 2\]](#Ftn_2)
+
+### Prosecution’s Submissions
+
+21     The prosecution submitted that Oliver be sentenced to RT as recommended in the RT Report. There remained many risk factors, including inadequate parental supervision. There was also an element of minimisation and downplaying what had happened. It was submitted that there was not a conducive environment for him to be put through another stint of probation, and he would benefit from a structured environment that RT would be able to provide.
+
+### Defence’s Submissions
+
+22     Notwithstanding that Oliver was not recommended for probation, counsel urged that he be placed on probation. It was submitted that the court was not bound by the recommendations of the probation officer: _Praveen s/o Krishnan v PP_ <span class="citation">\[2018\] 3 SLR 1300</span> at \[64\]-\[65\]. Counsel said that Oliver's parents were able and willing to see to his supervision. Oliver was undergoing treatment for ADHD, and it was not clear if the conditions in the Reformative Training Centre would be able to give him the treatment that he required. Oliver was on an upward trend in terms of his life goals and his studies – he was going to school, undergoing an internship and offered a part-time position. If sentenced to RT, it would be highly disruptive to his current progress.
+
+23     Oliver tendered a document urging the court to place him on probation again.[\[note: 3\]](#Ftn_3) He also addressed the court, stating that he was remorseful and was putting in a lot of effort to change, that he was in a good place in his life and hoped to be given another chance at probation.[^4]
+
+### Sentencing considerations
+
+#### Framework for sentencing of young offenders
+
+24     The sentencing of a young offender such as Oliver involves two distinct but related stages, as explained by the High Court in _PP v Koh Wen Jie Boaz_ <span class="citation">\[2016\] 1 SLR 334</span> at \[28\]:
+
+> It is well established that when a court sentences a youthful offender, it approaches the task in two distinct but related stages (_PP v Mohammad Al-Ansari bin Basri_ <span class="citation"></span><span class="citation">\[2008\] 1 SLR(R) 449</span> \[…\] at \[77\]–\[78\]). At the first stage of the sentencing process, the task for the court is to identify and prioritise the primary sentencing considerations appropriate to the youth in question having regard to all the circumstances including those of the offence. This will then set the parameters for the second stage of the inquiry, which is to select the appropriate sentence that would best meet those sentencing considerations and the priority that the sentencing judge has placed upon the relevant ones.
+
+25     The two stages of the sentencing process are:
+
+> (a)     Stage 1: to identify and prioritise the primary sentencing considerations; and
+
+> (b)     Stage 2: to select the appropriate sentence that would best meet the sentencing considerations.
+
+#### Primary sentencing considerations: rehabilitation, deterrence
+
+26     I accepted that rehabilitation was a primary sentencing consideration given Oliver’s young age. Both the prosecution and defence were also aligned in this regard.
+
+27     In addition, I considered specific deterrence to be a relevant sentencing consideration. The present offences involving the forgery of an NRIC, under s 13(2) of the NRA, are serious offences. Such offences are punishable with imprisonment for a term of up to ten years, a fine of up to $10,000, or both. They are offences which are ineligible for a community sentence under the Criminal Procedure Code. Further, Oliver reoffended in early 2020, which was very soon after he had been placed on probation in November 2019 for his earlier offences. Even after the police had found his forged NRIC on 21 July 2020 (above, at \[12\]), he did not appear deterred, and committed a further offence in September 2020 (the TIC charge, at \[14\] above). These offences were committed _while he was undergoing probation_. Plainly, the interventions under that probation order did not have the desired effect of rehabilitating him.
+
+#### Appropriate sentence: reformative training
+
+28     It was therefore unsurprisingly that Oliver was no longer recommended for probation (above, at \[20\]). His counsel had the opportunity to question the probation officer at length to clarify various points in the Probation Report.[\[note: 5\]](#Ftn_5) The probation officer maintained his assessment that Oliver was not suitable for probation.
+
+29     It was apparent from the assessment of the probation officer that there had not been an environment supportive of Oliver’s rehabilitation while on probation. The probation officer said that “the evidence point to the fact that the parents have time and again shown that they are not able to supervise Oliver and has not been able to keep him out of trouble in the last probation report \[and\] there has not been any other evidence to show that their parenting style and their way of supervision has changed”[\[note: 6\]](#Ftn_6). His parents “refused to commence Functional Family Therapy (FFT) sessions in June 2020 despite their previous commitment. They remained resistant and insisted that the family relationship has improved significantly with no issues that they required intervention for.”[^7] While Oliver was doing reasonably well in school, “that did not deter him from breaking rules, from ignoring his probation conditions as well” during the last stint of probation.[^8] The probation officer added, “there is no sign of any intrinsic motivation to sustain any change” and the motivating factor to initiate some change is “_largely extrinsic_” when Oliver is facing some charges.[^9]
+
+30     Given the very detailed assessment of the probation officer in the Probation Report, which I found no reason to disagree with, I was unable to accept the submission of the defence that probation was still a viable option. In my judgment, it was plain that the appropriate sentence for the rehabilitation of Oliver, bearing in mind also the need for specific deterrence, was a stint of RT.
+
+31     As was explained in _PP v Mohammad Al-Ansari bin Basri_ <span class="citation"></span><span class="citation">\[2008\] 1 SLR(R) 449</span> (“**_Al-Ansari_**”) at \[58\], RT would provide “a middle ground that broadly encapsulates the twin principles of rehabilitation and deterrence in relation to young offenders”. In the course of seeking the right balance between rehabilitation and deterrence, “rehabilitation as a dominant consideration does not inevitably mean probation orders”: _Al-Ansari_ at \[63\]. It was further explained in _Al-Ansari_ at \[65\]:
+
+> Apart from probation orders, reformative training functions equally well to advance the dominant principle of rehabilitation, and may even represent a better balance between the need for rehabilitation and deterrence. \[…\]
+
+32     All in, I was satisfied, having regard to Oliver’s character and the circumstances of the offences, particularly his reoffending early on while on probation, that to reform him and to prevent him from committing further crime, he should undergo RT.
+
+### Sentence imposed
+
+33     Accordingly, I imposed a sentence of RT with a minimum period of detention of six months, in accordance with the recommendations in the RT Report.
+
+34     The execution of the sentence has been stayed pending the appeal, and Oliver is on bail pending the appeal.
+
+* * *
+
+[\[note: 1\]](#Ftn_1_1)Plea in Mitigation dated 8 July 2022.
+
+[^2]: Probation Report, at p 2.
+
+[^3]: Document entitled “Reasons why I feel I deserve probations one more time”.
+
+[^4]: Transcript, 24 August 2022, 22/13-30 (p 22, lines 13-30).
+
+[^5]: Transcript, 24 August 2022, 3/4-19/20.
+
+[^6]: Transcript, 24 August 2022, 4/5-13.
+
+[^7]: Probation Report, p 10.
+
+[^8]: Transcript, 24 August 2022, 15/5-11.
+
+[^9]: Transcript, 24 August 2022, 18/6-9, 23-30.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F28849-SSP.xml)

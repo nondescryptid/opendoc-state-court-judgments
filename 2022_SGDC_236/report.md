@@ -1,0 +1,554 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Sim Seng Jin _v_ Teo Chor Huan  
+
+### \[2022\] SGDC 236
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suit No 1472 of 2021, District Court Appeal No 34 of 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">10 October 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Clement Seah Chi-Ling</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Khelvin Xu Cunhan (Rajah &amp; Tann Singapore LLP) for the plaintiff; Gopal Perumal and David Parasuraman (Gopal Perumal &amp; Co) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Sim Seng Jin — Teo Chor Huan</td></tr></tbody></table>
+
+Partnership – Common ownership of property – Whether partnership relationship established – Factors to be considered – Burden of Proof 
+
+Evidence – Proof of Evidence – Allegations of secret profits – Standard of Proof – Whether legal burden discharged
+
+Evidence – Witnesses – Whether adverse inference drawn for failure to call witnesses
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in HC/DCA 34/2022.\]
+
+10 October 2022
+
+### District Judge Clement Seah Chi-Ling:
+
+## Introduction
+
+1       The Plaintiff and Defendant were co-owners of a property situated at No. 5C Hoe Chiang Road Singapore 089312 (the “**5C Property**”) from November 1995 when the property was purchased, until it was sold by way of a public auction on 20 September 2016.
+
+2       The Plaintiff’s case was that the Plaintiff and the Defendant were in a partnership relationship by reason of their agreement to jointly purchase the 5C Property, rent it out, and to eventually realize capital gains by way of a sale, redevelopment or otherwise. Given the partnership relationship, the Plaintiff asserted that the parties owed fiduciary duties to each other.
+
+3       The Plaintiff asserted further that the Defendant had breached the fiduciary duties owed to him by managing and renting out other properties in the same development in competition with the 5C Property, renting the property at an undervalue, failing to maintain the property in a reasonable condition, and making secret profits from the rental of the 5C Property.
+
+4       The Defendant denied that any such partnership relationship existed. The Defendant’s case was that the Plaintiff and the Defendant were merely co-owners of the property, which they had agreed to hold at minimum costs by renting it out on a bare and unfurnished basis, pending any _enbloc_ sale. The Defendant also denied making any secret profits in relation to the 5C Property.
+
+5       The main issues in this lawsuit were whether the Plaintiff and Defendant were in a partnership relationship; and irrespective of the answer to the first question, whether the Defendant had made secret profits and/or underpaid rents collected by the Defendant for the property.
+
+6       At the conclusion of the trial, I found that there was no intention between the parties to enter into a partnership relationship when they agreed to jointly purchase the property as co-owners in the hope of making capital gains should the property be put up for an _enbloc_ sale. Accordingly, no fiduciary duties were owed by the Defendant to the Plaintiff. I also found that the Plaintiff had not discharged his burden of proving that the Defendant had made secret profits in relation to the 5C Property by under-declaring the rent or proceeds received from the property over the years. I accordingly dismissed the bulk of the Plaintiff’s claim, save that I made various orders for distributing the monies remaining in the joint account opened at the time of the purchase of the 5C Property to the respective parties. The Plaintiff is dissatisfied with my decision and has filed the present appeal.
+
+## Procedural history
+
+7       In 2015, the Plaintiff took out an originating summons, HC/OS 1042/2015 (the “**OS**”), in the High Court seeking, inter alia, orders that:
+
+> (a)     The 5C Property be sold, and the sale proceeds be distributed in equal shares after outstanding loan amounts were paid off;
+
+> (b)     The Defendant account to the Plaintiff for a half share of all rental proceeds from the 5C Property;
+
+> (c)     The amounts in the UOB Account (which was used to service the bank loan for the purchase of the 5C Property) be distributed; and
+
+> (d)     Further or alternatively, damages in respect of the Defendant’s rental of the 5C Property to tenants at a price below prevailing market rates.
+
+8       The parties subsequently agreed to a sale of the 5C Property, which had since been sold by way of a public auction on 20 September 2016 at $1,200,000. The sale proceeds were shared equally save for an agreed sum of $102,798.55 (the “**Stakeholding Sum**”) which was, at the request of the Plaintiff, being held by the Defendant’s solicitors as stakeholders pending the resolution of the remaining matters in this action. As the parties were unable to reach an agreement on the other disputed matters, the Plaintiff applied for the mater to be transferred to the State Courts (by way of HC/SUM 3364/2016 filed on 11 July 2016). On 27 September 2016, the High Court ordered, by consent, that the matter be transferred to the District Court, and the matter was re-numbered to DC/OSS 175/2016.
+
+9       On 15 April 2021, DC/OSS 175/2016 came up for hearing, and was converted from an Originating Summons to a Writ and renumbered as DC/DC 1472/2021.
+
+10     In the Writ action, the Plaintiff sought orders for payment to him of, _inter alia_: (a) $145,150 being his share of loss of rental in respect of the 5C Property; (b) $411,962.50 being his share of the secret profits made by the Defendant; (c) $22,955 being the Plaintiff’s share of the rent received by the Defendant from the 9C Property for the period when the 5C Property was vacant; and (d) $35,328.44 being compensation for the shortfall in the price at which the 5C Property was sold in September 2016 due to the poor condition of the property. Additionally, the Plaintiff sought an order for an account of the secret profits received by the Defendant pending further discovery, and a sum of $24,584.32, being the Plaintiff’s share of the monies remaining in the UOB Joint Account[\[note: 1\]](#Ftn_1).
+
+11     In the Writ Action, the Defendant sought, by way of Counterclaim, the amount of profits she would have earned had the 5C Property been sold on an _enbloc_ basis.
+
+12     As both the claim and counterclaim exceeded the jurisdiction of the District Courts, the Plaintiff and Defendant had confirmed that they would be limiting their respective claim and counterclaim to the District Courts’ jurisdiction of $250,000 and abandoning claims over that amount.
+
+## Background Facts
+
+13     The Plaintiff and the Defendant were both qualified Chartered Accountants. They were long-time friends and had known each other since the early 1980s, when they worked in the same audit firm in Melbourne.
+
+14     The Defendant eventually started her own accounting practice in Singapore. At the request of the Plaintiff, the Defendant had also rendered professional services and assisted the Plaintiff in company matters relating to Glen Industries (Asia) Pte Ltd and Grace Technologies Pte Ltd (“**Grace Technologies**”). These companies were part of the Yenom Group (“**Yenom**”). At the time, the Plaintiff was the group financial controller of Yenom.
+
+### Purchase of the 5C Property
+
+15     In 1995, the Plaintiff and the Defendant jointly purchased the 5C Property as a joint investment. The Plaintiff and the Defendant each contributed one-half of the purchase price. The purchase price of the 5C Property was $601,880.00. A UOB loan of $420,000.00 was obtained for the purchase. The Plaintiff and the Defendant paid the difference in the purchase price in cash equally to complete the purchase.
+
+16     The 5C Property was purchased to generate rental income, and to eventually realize capital gains from its sale, redevelopment, or otherwise. After the 5C Property was purchased, it was rented out. Neither the Plaintiff nor the Defendant resided there.
+
+### Ownership of Surrounding Properties by Defendant and her family
+
+17     Even before the parties’ purchase of the 5C Property, the Defendant and her siblings had owned between them three properties in the Hoe Chiang Building (where the 5C Property is located) as well as in the neighboring Lim Teck Kim Building situated along Lim Teck Kim Road.
+
+18     The Defendant was already (and still continues to be) the sole owner of No. 7D Hoe Chiang Road (the **“7D Property”**), which was purchased on or about 24 July 1989.
+
+19     The Defendant and her brother jointly owned and continue to own another property at No. 10D in the Lim Teck Kim Building (the **“10D Property”**), which was purchased on or about 11 June 1991.
+
+20     The Defendant’s sister solely owned and continues to own the property at No. 9C in the Hoe Chiang Building (the **“9C Property”**), which was purchased on or about 14 February 1990.
+
+21     The Defendant had also looked after and managed these properties before the joint purchase of the 5C Property.
+
+### Rental Agreements entered into in respect of the 5C Property
+
+22     It was undisputed that the 5C Property was rented out or left vacant, as the case may be, during the following periods:
+
+> (a)     Rented to Excelsior/Peninsula Hotel from 1 February 1996 to 13 April 2000 as the hotel’s female staff hostel;
+
+> (b)     Left vacant from 12 May 2000 to 6 January 2001;
+
+> (c)     Rented to Excelsior/Peninsula Hotel again from 6 January 2001 to November 2003;
+
+> (d)     Left vacant from November 2003 to 30 April 2004; and
+
+> (e)     Rented to Ideal Accommodation (Singapore) Pte Ltd (“**Ideal**”), whose owner is one Tang Yong, from 1 May 2004 to 30 April 2016.
+
+### The State of the 5C Property
+
+23     The Hoe Chiang Building, in which the 5C Property is situated, is located at the southern edge of the central business district. Although surrounded by modern high-rise building on all sides at the material times, the Hoe Chiang Building is part of an old development, the only one that is still undeveloped in the vicinity.
+
+24     The said old development comprises of the Hoe Chiang Building and the Lim Teck Kim Building, each with five walk-up storeys. The first storey comprised commercial properties which are now occupied mainly by eateries. All other units (including the 5C Property) are residential properties, although some of them had been turned into offices.
+
+25     For the Hoe Chiang Building, no management committee was ever constituted to look after the maintenance of the common areas. The owners of the apartments, including the 5C Property, did and do not pay any monthly maintenance fees. The staircases were often littered, and without common staircase lights. Given their conditions, the apartments were used more for the accommodation of foreign workers, and/or used as dormitories for such persons.
+
+26     In relation to the 5C Property, it was generally undisputed that the property was in a poor physical state and condition, caused in part by the fact that the 5C Property was beset by serious and persistent water seepage and leakage issues. The problem was due to the poor maintenance of the open roofing terraces by owners of the top “D” level apartments.
+
+27     According to the Defendant, whatever remedy to the water seepage issue had to be done “top down” and not “bottom up”, i.e. by repairing and waterproofing the open terrace of the 5D unit and erecting a roof structure thereat by its owner[\[note: 2\]](#Ftn_2). Any remedy implemented from within the 5C Property would have been a temporary stop gap measure at best.
+
+28     That the 5C Property was beset by water seepage issues was also noted by the Plaintiff when he took over the management of the property in the 2001 to 2003 period: see the exchange between the Plaintiff and the Defendant at Plaintiff’s Bundle of Affidavits of Evidence-In-Chief (“**PAEIC**”) pages 321 and 323, where the Plaintiff sought the Defendant’s assistance to deal with the water seepage issues upon the tenant’s request. Consequently, what was available for tenancy were only the bare rooms with age old fixtures and fittings, affected by persistent water seepage issues.[\[note: 3\]](#Ftn_3)
+
+### Management of the 5C Property
+
+29     When the 5C Property was first purchased, the Defendant took it upon herself to rent out and manage the 5C Property. A joint bank account (the “**UOB Joint Account**”) was set up as between the Plaintiff and the Defendant. The UOB Joint Account was opened specifically to facilitate the automatic deduction of the monthly loan instalment repayments, the property tax and the fire insurance premium payments. It was agreed that the rental proceeds from the 5C Property would be paid into that account, while any expenses (including but not limited to mortgage payments, property taxes, renovation costs and maintenance expenses) would be paid out of that account. Any shortfall between the monthly rental proceeds and the monthly mortgage payments was to be borne by the Plaintiff and the Defendant equally. The Plaintiff and Defendant additionally agreed to pay into the UOB Joint Account an equal amount (to be agreed from time to time as necessary) in cash to make up the shortfalls, as well as share and pay equally all other outgoings in respect of the 5C Property.
+
+### Deterioration of relationship between the parties
+
+30     The relationship between the Plaintiff and the Defendant soured and deteriorated over the years ostensibly because of a dispute over an invoice the Defendant had billed Grace Technologies around 1998 or 1999. The Plaintiff was the managing director of Grace Technologies at that time.
+
+31     Separately, there was also a heated exchange by way of correspondence between the Plaintiff and the Defendant in or around March 1999 when the Plaintiff contacted Mr. James Loo, the Assistant General manager of Peninsula Excelsior Hotel, which was the then tenant of the 5C Property[\[note: 4\]](#Ftn_4) that the Defendant had procured. The Plaintiff had apparently complained about delays in the payment of rent by the hotel. Mr. Loo was displeased after receiving the Plaintiff’s call as the delay was due to monies being held up by the bank, and not the fault of the hotel[^5]. The Defendant was unhappy that the Plaintiff had contacted Mr. Loo directly. By a note dated 9 March 1999, the Defendant asked the Plaintiff to take over the management of the 5C Property. The Plaintiff gave no indication on his part to take over management of the property until 12 February 2001, when the Defendant forwarded to the Plaintiff all documents pertaining to the 5C Property, including the bank statements, tenancy agreements and unsigned cheques[^6]. The Defendant also wrote to Peninsula Excelsior Hotel to update the hotel that she was relinquishing the management of the property to the Plaintiff, and providing the Plaintiff’s contact details and asking that all rentals be sent to the Plaintiff[^7]. According to the Defendant, the Plaintiff took over management without any protest. In any event, no evidence was adduced before this court to suggest that the Plaintiff opposed the handing over to him of the management of the property by the Defendant.
+
+32     Furthermore, on 19 February 2014, the Plaintiff received a Dangerous Building Order from the URA which provided that the Plaintiff was liable to a fine of $10,000 or to imprisonment for a term of up to 6 months, or both, if the terms of the order were not complied with. Eventually, the Plaintiff took out an originating summons HC/OS 1042/2015 applying for, inter alia, an order that the 5C Property be sold. The 5C Property has since been sold.
+
+## The Plaintiff’s case
+
+33     The Plaintiff’s case is that the Plaintiff had _partnered_ the Defendant to purchase the 5C Property as an investment. As such, they owed each other duties as partners in this venture, including fiduciary duties. In addition, the Defendant had volunteered to rent out and manage the 5C Property on their collective behalf.
+
+34     The Plaintiff asserted that the Defendant had managed the 5C Property in a questionable manner. The Plaintiff found out, in the course of the proceedings, that the Defendant was involved in the business of renting out multiple properties, which included properties in the same development as the 5C Property. In particular, the Defendant had been managing and renting out the 9C Property and the 10D Property for herself and her siblings without the Plaintiff’s knowledge and consent, in competition with the 5C Property.
+
+35     There were further allegedly secret business dealings between the Defendant and the party that the 5C Property was rented to. According to the Plaintiff, there was a web of transactions between the Defendant on the one hand, and the principal of Ideal which leased the 5C Property from 2004 to 2016, one Tang Yong, on the other hand. In these grounds of decision, Ideal and Tang Yong will be referred to interchangeably. These transactions gave rise to suspicions on the Plaintiff’s part, and caused the Plaintiff to form the view, that the amounts at which the 5C Property was purportedly rented out were below the market rental value. The Plaintiff’s suspicions were further fueled by the fact that after the Plaintiff commenced proceedings, he found out that the Defendant had, for almost 12 years, received the rental proceeds in her sole name, and then issued her own cheques in favour of the UOB Joint Account. The Plaintiff asserted that the Defendant had, in the course of such secret business dealings, realized secret profits at the Plaintiff’s expense.
+
+36     The Plaintiff also asserted that the Defendant had rented out the 5C Property at an undervalue as part of the Defendant’s secret business dealings with the tenant, Tang Yong. The Plaintiff contended that the arrangements between the Defendant and Tang Yong and/or his associates allowed the Defendant to be remunerated by way of other payments received from Tang Yong such that the Defendant would not personally lose out from the rental of the 5C Property at an undervalue.
+
+37     Finally, the Plaintiff asserted that the Defendant did not fulfill her duty to maintain the 5C Property in a reasonable condition, and this in turn affected the value at which the 5C Property was eventually sold in September 2016.
+
+## The Defendant’s case
+
+38     The Defendant denied that there was a partnership relationship between the parties. The Defendant asserted that the only agreement between the Plaintiff and the Defendant was the co-ownership of the 5C Property as joint owners, to realize the property’s potential as and when the two blocks of buildings on Hoe Chiang Road and Lim Teck Kim Road were sold _enbloc_. Until then, the 5C Property would be rented out at minimum costs on a bare and unfurnished basis, and the rents generated would be used to service the monthly loan instalment repayments. The agreement between the parties was not in the nature of a partnership agreement and did not include any conditions or limitations on any other aspects or affairs or dealings of their lives.
+
+39     The Defendant further asserted that to the extent that the Defendant was involved in the 5C Property, her duties were only to: (a) hold the 5C Property for _enbloc_ sale; (b) in the interim, to keep and maintain the 5C Property in its original condition subject to fair wear and tear; (c) to tenant the 5C Property for residential purposes at minimum costs; (d) to tenant the 5C Property on a bare and unfurnished basis given that there were no furniture or furnishings when the property was acquired; (e) to ensure the tenancy/tenants abided by all existing laws, rules and regulations; and (f) to ensure the tenants paid their rents.
+
+40     The Defendant did not dispute that she had collected rents for the 5C Property from the tenant, Ideal, by cheques issued in her sole name. She, however, claimed she had paid into the UOB Joint Account her personal cheques for the rent amounts at the beginning of each month while waiting for the tenant, Ideal’s, cheques to be received, before reimbursing herself. She implemented this arrangement as Ideal was often late in effecting the rental payments. With such an arrangement in place, there would not be any delays in the crediting of the rent amounts into the UOB Joint Account, which would in turn ensure there would be no defaults in the mortgage loan payment deductions, and no risks of incurrence of late payment interest charges. The arrangement was, according to the Defendant, expedient and in the mutual interest and benefit of the Plaintiff and the Defendant.
+
+41     In addition, the Defendant claimed she had no duty to: (a) improve the 5C Property through renovation works; (b) furnish the 5C Property with furniture, furnishing, equipment and accessories; (c) tenant the 5C Property as a whole or room by room on a furnished basis; and (d) furnish, equip and rent bed spaces in the 5C Property and run bed space operations to generate higher rental income. The intention of acquiring the 5C Property and the agreement between the parties was always to hold it for _enbloc_, and in the interim, to tenant the property at minimum costs to generate income to service the mortgage payments.
+
+42     In this regard, the Defendant noted that the Plaintiff as a co-owner himself similarly did not seek at any time and in any way to: (a) improve the 5C Property through renovation works; (b) furnish the 5C Property with furniture, furnishing, equipment and accessories; (c) tenant the 5C Property out as a whole or room by room on a furnished basis; (d) furnish and equip the 5C Property and run a bed space operations out of it by renting out bed spaces; and/or (e) in any other way, procure what he alleged were the purported market rents on the basis of which he now sought to claim from the Defendant.
+
+## Issues
+
+43     The issues arising in the following case were as follows:
+
+> (a)     What were the obligations that the Plaintiff and Defendant owed each other? In particular, were the Plaintiff and Defendant in a partnership relationship so as to owe each other fiduciary duties as partners?
+
+> (b)     If the Plaintiff and Defendant were in a partnership relationship, did the Defendant breach her fiduciary duties by:
+
+>> (i)       Managing and renting out other properties belonging to herself and/or her siblings, namely the 9C Property and the 10D Property, in competition with the 5C Property and without the Plaintiff’s knowledge and consent;
+
+>> (ii)       Renting out the 5C Property at an undervalue;
+
+>> (iii)       Receiving secret profits from Tang Yong and/or his associates; and/or
+
+>> (iv)       Failing to maintain the 5C Property in a reasonable condition?
+
+> (c)     Even if the Plaintiff and Defendant were merely co-investors in the 5C Property, whether the Defendant had received extra rent from Ideal and/or Tang Yong for which she had not accounted to the Plaintiff in accordance with their 50-50% joint ownership?
+
+> (d)     How should the monies in the UOB Joint Account be divided?
+
+## My decision
+
+### Whether the Plaintiff and Defendant were in a partnership relationship and owed fiduciary duties to each other
+
+#### The law
+
+44     The starting point for the determination of whether a partnership relationship existed is the Partnership Act 1890 (2020 Rev Ed) (the “**Partnership Act**”). Section 1(1) of the Partnership Act provides:
+
+> “**Definition of partnership**
+
+> 1.—(1)    Partnership is the relation which subsists between persons carrying on a business in common with a view of profit.”
+
+45     Section 2 of the Partnership Act then provides:
+
+> “**Rules for determining existence of partnership**
+
+> 2.    In determining whether a partnership does or does not exist, regard shall be had to the following rules:
+
+>> (a)     _joint tenancy, tenancy in common, joint property, common property, or part ownership does not of itself create a partnership_ as to anything so held or owned, _whether the tenants or owners do or do not share any profits made_ by the use thereof;
+
+>> (b)     _the sharing of gross returns does not of itself create a partnership_, whether the persons sharing such returns have or have not a joint or common right or interest in any property from which or from the use of which the returns are derived;
+
+>> (c)     _the receipt by a person of a share of the profits of a business is prima facie evidence that he is a partner_ in the business, but the _receipt of such a share_, or of a payment contingent on or varying with the profits of a business, _does not of itself make him a partner in the business …..” (emphasis added)_
+
+46     Notwithstanding the legislative provisions, the question of whether two persons in a venture, such as the Plaintiff and the Defendant in the present case, are partners in a legal sense does not admit of a straight-forward answer. The test is often said to involve one of mixed fact and law, and all the surrounding circumstances have to be taken into account in the determination of such an issue. As the Court of Appeal noted in _Miller Freeman Exhibitions Pte Ltd v Singapore Industrial Automation Association_ <span class="citation">\[2000\] 3 SLR(R) 177</span> at \[34\]:
+
+> “\[34\]  _The question of whether two or more collaborators in a venture are partners in the legal sense is always a difficult one to answer. This is because there is no conclusive test for determining such relationship. A number of factors may be identified_. Section 2 of the Act states that the _sharing of profits_ is prima facie evidence of a partnership. Another factor is the _beneficial ownership of the assets_ by the parties involved. The _label_ used by the parties, particularly in the legal documents, is also relevant. However, it is also clear from the cases cited by both parties, as well as the relevant passages from Lindley & Banks on Partnership (17th Ed, 1995), that _while these factors are relevant, they are by no means conclusive. As such, while the respondents were able to cite authorities that state that the sharing of profits is the essence of a partnership, equally the appellants could point to authorities where it was held that no partnership existed despite the existence of a profit-sharing arrangement. The question is one of mixed fact and law and all the surrounding circumstances have to be taken into account in the determination of such an issue_: see Keith Spicer Ltd v Mansell \[1970\] 1WLR 333, Davis v Davis \[1894\] 1 Ch 393 and Chua Ka Seng v Boonchai Sompolpong <span class="citation">\[1993\] 1 SLR(R) 17</span>.” _(emphasis added)_
+
+47     Based on section 1 of the Partnership Act 1890, three elements must minimally be shown: (a) carrying on of a business, (b) between two or more persons in common, and (c) with a view to profit.
+
+48     However, while these factors are relevant, it is clear from ss 1 and 2 of the Partnership Act that they are by no means conclusive. The determination of the existence and nature of a partnership is said to hinge on the true _intention of the parties_. As the Court of Appeal noted in _Chua Ka Seng_ v. _Boonchai Sompolpong v_ <span class="citation">\[1993\] 1 SLR(R) 17</span> (”_Boonchai Sompolpong”):_
+
+> _“14_      _Lindley & Banks on Partnership_ (17th Ed) paras 5–21 comments on this rule \[ie s 2(3)(b) of the Partnership Act\] as follows:
+
+>> The effect of the rule, albeit in its non-statutory form prior to the 1890 Act, was considered by the Court of Appeal in _Badeley v Consolidated Bank_ (1888) 38 Ch Defendant 238, pp 238, 250, 258. The essence of the decision was (in Lord Lindley’s original formulation) that:
+
+>>> if all that is known is that two persons are participating in the profits of a business, this, unless explained, lends to the conclusion that the business is the joint business of the two and that they are partners. _But if the participation in profits is only one among other circumstances to be considered, it is wrong then to say that the participation in profits raises a presumption of partnership which has to be rebutted by something else;_ **_in such cases all the circumstances must be considered in order to ascertain the real intention of the parties before any conclusion is drawn_**.
+
+> 15    The same approach was adopted by North J in Davis v Davis \[1894\] 1 Ch 393 at 399 when observing:
+
+>> Adopting then the rule which was laid down before the Act, and which seems to me to be precisely what is intended by s 2 sub-s 3 of the Act, _the receipt by a person of a share of the profits of a business is prima facie evidence that he is a partner in it_, and, if the matter stops there, it is evidence upon which the court must act. _But, if there are other circumstances to be considered, they ought to be considered fairly together; not holding that a partnership is proved by the receipt of a share of the profits, unless it is rebutted by something else; but taking all the circumstances togethe_r, not attaching undue weight to any one of them_, but drawing an inference from the whole_.” _(emphasis added)_
+
+49     As Professor Yeo Hwee Ying noted in _Law of Partnerships in Singapore Including LLP and LP_ (LexisNexis 2015) (“**_Law of Partnerships_**”), at the crux of the determination of whether a partnership relationship exists is the real agreement between the parties (at p.64):
+
+> “_The intention of this global approach is ‘… to get at the_ **_real agreement_** _between the parties’_ and generally, the court is prepared to infer a partnership when two or more parties share the net profits of a business _provided that_ after taking all the facts of the case into consideration (including the circumstances by which the profits came to be shared) _there cannot be found any indications of a_ **_contrary intention_** _with regard to the conduct of the business_” . _(emphasis added)_
+
+50     Having set out the applicable principles, I turn now to the facts.
+
+#### Whether a partnership relationship existed on the facts
+
+51     The burden of proving the existence of a partnership lies with the party making such as allegation, the Plaintiff in the present case: see _Law of Partnerships_ at p. 38. Having regard to all the facts and circumstances of this case, I was not satisfied that the Plaintiff had discharged his burden of proving a partnership relationship existed between the parties on a balance of probabilities. I considered the following.
+
+##### Defendant's penchant for investing in properties
+
+52     First, the Plaintiff conceded that he was aware that the Defendant had a “penchant for investing in properties”[\[note: 8\]](#Ftn_8). A substantial portion of their conversations touched on the Defendant’s investment in properties, and renting them out, while waiting for an _enbloc_ sale or redevelopment to materialise[^9]. The Plaintiff admitted that he was aware of the Defendant’s _modus operandi[^10]_. Given the Defendant’s strong interest in investing in properties with _enbloc_/redevelopment potential, it clearly could _not_ have been her intention to enter into a partnership with the Plaintiff, with the attendant fiduciary duties that came with it. Such a relationship would severely curtail the Defendant’s pursuit of her interest in investing in properties, and indeed place her in potential breach of her fiduciary duties as she continued to manage her preexisting portfolio of properties. For example, rental of her other properties, even as she co-owned the 5C Property with the Plaintiff, would potentially put her in the direct line of business of the partnership (assuming one were entered into with the Plaintiff involving the 5C Property) and cause her to be in potential breach of her fiduciary duties to the Plaintiff.
+
+53     The Plaintiff, being a sophisticated businessman himself, and who by his own admission was informed of the Defendant’s property investments (_e.g._ in the Changi and Paya Lebar areas) [\[note: 11\]](#Ftn_11) and strong interest in property investments, must also have appreciated that the Defendant would not give up her freedom to pursue her property investment interests by assuming fiduciary duties towards him. Both parties must have understood and intended that the undertaking involving the 5C Property involved a mere co-investment _only_.
+
+##### Defendant's family’s investment in surrounding properties
+
+54     Secondly, the Plaintiff deposed in his affidavit, and in fact pleaded, that the Defendant had informed him in or around 1995 that she and her family members were interested in apartment blocks in Hoe Chiang Road because of their _enbloc_ potential[\[note: 12\]](#Ftn_12). I found it likely that the Defendant went further and informed the Plaintiff that her sister and brother did in fact acquire the properties, with the 10D Property being co-owned between the Defendant and her brother, and her sister owning the 9C Property[^13]. There was simply no reason for the Defendant to inform the Plaintiff that her family was _interested_, and then hide from the Plaintiff the fact that they had _in fact so invested_.
+
+55     The Plaintiff suggested that Defendant did not disclose her family’s interests in the neighboring properties as revealing this fact would dampen the Plaintiff’s interest in entering in a co-investment with the Defendant due to the increased competition in securing tenants during the waiting period. There were, in my view, two problems with this argument. First, if the Defendant intended to hide the fact of her siblings’ investments, the Defendant would not have mentioned to the Plaintiff her siblings’ _interest_ in the investments in the first place. It was naive to think that the Plaintiff, a sophisticated businessman, would not have probed further to find out more about the status of the Defendant’s siblings’ investments if he were truly concerned about competition. Secondly, it was, in any case, in the Defendant’s interest to disclose her family investment in the Hoe Chiang Road properties _if_ her motivation was to get the Plaintiff onboard as a co-investor of the 5C Property. This was so as the fact that her siblings owned units in the same development would improve the chances of any prospective _enbloc_ garnering the requisite votes should it progress to that stage.
+
+56     Following from my finding of fact that the Defendant did disclose her and her siblings’ ownership in the Hoe Chiang Road and the Lim Teck Kim Road apartments, this again fortified my belief that the Defendant did not intend to enter into a partnership with the Plaintiff with respect to the 5C Property. The Defendant had managed the 9C Property and the 10D Property on behalf of herself and her siblings, including by tenanting them out, even before the 5C Property was purchased jointly with the Plaintiff. Had she entered into a partnership with the Plaintiff, it would severely limit her ability to be involved in the management of her and her siblings’ properties at the risk of breaching her fiduciary duties to the Plaintiff.
+
+##### Mode in which the 5C Property was dealt with by both Plaintiff and Defendant
+
+57     Thirdly, the degree of activity and mode in which the property was dealt with was a relevant consideration on whether parties were in a partnership. Professor Yeo noted in the Law of Partnerships at p. 39-40:
+
+> “(a)  Common ownership of property
+
+> The mere fact than an occupation or activity generates income or profits _does not ipso facto signify the conduct of business. This is reflected in s 2(1) which states that common ownership of property cannot be regarded as the basis for supposing the co-owners to be partners, regardless of whether the profits arising therefrom are shared among them. The rationale is that the generation of profits (e.g. by letting out their jointly owned property) ought to be regarded as an investment rather than a business._ Likewise, a one-off sale of a jointly-owned property (even if there are profits due to capital appreciation) will not amount to a business venture.
+
+> _However, if the jointly-owned property is used for the purposes of_ **_carrying on business_** _(e.g. by renting the premises as a boarding house), it may be possible for the co-owners to be viewed as operating a partnership. Similarly the frequency of the activity can be taken into consideration as another relevant factor:_ for example, the selling of a jointly-owned piece of property can be regarded as part of a business if the co-owners had been regularly buying and selling properties together and there is every indication they will continue to do so on a frequent basis. Whilst remaining a question of fact, it does – to a certain extent - _turn on the degree of activity (whether contemplated or executed) and the mode in which the property has been dealt with_”. _Hence, mere co-ownership of property (without other attendant activities) is to be properly distinguished from a partnership.” (emphasis added)_
+
+58     On the facts before me, I found that the 5C Property had, as the Defendant testified, been maintained at minimum costs from the time of its acquisition in 1995 to the time of its sale in September 2016 to derive rental income to service the underlying mortgage. Indeed, the evidence did not point to any significant capital expenditure having ever been invested to improve the condition of the property so as to increase its rental value or marketability to prospective tenants throughout the 20 years when it was co-owned by the Plaintiff and Defendant: see _e.g._: Plaintiff’s expert, Mr. Lean Nam Bong’s, expert report at PAEIC 3016 \[3.3(e)\]). The property was for all intents and purposes let on an unfurnished basis. In this regard, the Defendant’s willingness to consider supplying certain prospective M Hotel tenants with double decker beds, six TV sets, a washing machine, a cooker and a sofa set (see PAEIC 326), when negotiating a potential lease with the M Hotel employees in January 2004, did not mark a departure from the general approach to rent out the 5C Property at minimum costs. These items were specific requests made by the M Hotel employees at a time when the Plaintiff and Defendant appeared to have had difficulties in securing tenants (see PAEIC 2697 \[83\]). They were not expensive items to begin with. In any event, the lease with the M Hotel employees fell through, and the items were never provided.
+
+59     I also noted that when the management of the property was handed over to Plaintiff from 2001 to 2003, the Plaintiff similarly did not change the way the 5C Property was tenanted out so as to suggest that the ownership of the property was part of a business venture. The 2001 to 2003 period presented the best opportunity for the Plaintiff to improve the property and/or explore other rental modes ‒ e.g. renting on a bed basis, building a roof over 5D Hoe Chiang Road (being the unit directly above the 5C Property and owned by other persons) to address the water seepage issue, applying for a change of use to use as a dormitory, renovating the 5C Property to maximise rental potential, hiring a property agent to manage the 5C Property, _etc._‒ as he claimed the Defendant should have done. However, the Plaintiff similarly did not incur such expenditure, and did nothing to evince his intention that the 5C Property was intended to be run as an active business pending the materialization of any _enbloc_ sale.
+
+60     So construed, the degree of activity and mode in which the property was dealt with during the holding period did not point to a business being carried out. Instead, the property was only intended to be held passively at minimum costs. The rental of the property at minimum costs was as mentioned, merely to generate a stream of rental income to service the mortgage while waiting for an _enbloc_ sale to materialize. The realisation of the capital gains was the primary and penultimate goal, and not the generation of an income rental stream. I am fortified in my conclusion by the fact that the rental income from the 5C Property never appeared to have been distributed over the years, causing there to be a buffer in excess of $60,000 as at the end of 2016[\[note: 14\]](#Ftn_14). This suggested that the rental aspect of the property was not run as a business.
+
+##### Passivity of the parties in managing the property
+
+61     Fourthly, the parties, especially the Plaintiff, were extremely passive during the 20 years when the property was being leased out. Although the law recognises a sleeping partner, the typical partner is expected to assume one or more aspects of such functions in line with what is the common intention of a partnership relation (Law of Partnerships at p. 87). The Plaintiff however did very little, if anything, when the Defendant turned over the management of the property to the Plaintiff in 2001 when relations soured. Despite professing to want to hire an estate agent to manage the property (this was in 2001), and making numerous complaints about the Defendant not applying to URA to change the use of the premises to maximize rents and renting the property at an undervalue, the Plaintiff himself hardly did anything during the two years when he was managing the property, and beyond, to maximize rent. There was no suggestion that he invested any time and effort to see if higher rental returns could be procured. It was only after litigation started that the Plaintiff asserted that the property was rented at an undervalue by the Defendant throughout the period of co-ownership.
+
+62     Indeed, whatever the Plaintiff complained that the Defendant failed to do, the Plaintiff himself did not do so as well. For instance, when Peninsula Hotel terminated the lease in November 2003, Plaintiff did not find a new tenant and left the 5C Property vacant (PAEIC 2696) at \[80\]. It was then that the Defendant stepped in again to find a tenant for the property, eventually renting it to Ideal from May 2004 to 2016. By parity of reasoning, if the Plaintiff were right in pursuing the current claim against the Defendant for breaching her fiduciary duties by failing to adequately maximize the returns from the 5C Property, then the Plaintiff himself ought similarly be held in breach of his fiduciary duties to the Defendant by not maximizing the earning potential of the 5C Property during the period when the 5C Property was managed by him.
+
+63     I would note that the Plaintiff was clearly aware of the rent paid from 2001 onwards as he received the bank statements. It was certainly open to him to propose other ways of renting out the 5C Property to earn higher returns if he felt the rental received was too low. This was especially so in July 2007 when he claimed in a letter to the Defendant that the rental market was “hot”[\[note: 15\]](#Ftn_15). If Plaintiff was unhappy about the rents procured by the Defendant, it was curious that he kept mum about it for more than 10 years, instead of proactively working towards procuring higher rentals for the 5C Property. To the contrary, the Plaintiff accepted the rental payments without in any way dissenting from or objecting or demurring to them. In all of the years (especially the 12 years from 2004 to 2016), the Plaintiff made no effort whatsoever to check or seek clarification from the Defendant on the said rent. He did not once question, express or complain to the Defendant that any of the rents were below market rates[^16]. The irresistible impression from the evidence was that, given that Ideal was prepared to rent the 5C Property at $1,000 per month, which rent was then increased to $1,500 per month, and thereafter to $2,000 per month, and was not complaining about the water seepage issues, the Plaintiff (as well as the Defendant) appeared content simply to rent the premises to Ideal from 2004 to 2016. Once again, this was consistent with the fact that the rental aspect of the property was not run as a business.
+
+#### Whether the Defendant agreed to assume sole responsibility for the management of the property
+
+64     I would state that I did not agree with the Plaintiff’s suggestion that the Defendant had, as part of any agreement, agreed to assume sole responsibility for the management and maintenance of the premises. Specifically, the Defendant had in 2001 turned over the management of the premises to the Plaintiff by transferring all the records to him. While Plaintiff deposed that this took him by surprise, given “his original agreement with the Defendant and the fact that he never agreed to take on the management of the 5C Property”[\[note: 17\]](#Ftn_17), the truth was that he never protested in writing or placed on record that the “original agreement” relating to his investment was that the Defendant should be solely responsible for the management of the 5C Property. Nor did he make any attempts to hold the Defendant to her alleged agreement. Instead, the Plaintiff attempted to manage the 5C Property for a while, seeking the Defendant’s assistance when needed (_e.g._ when he could not resolve the water seepage issue complained of by Peninsula). While the Plaintiff deposed that he did not have the experience in managing the property, he could have hired a property agent to assist him, which was a possibility he claimed to have mooted to the Defendant earlier on. That the management and leasing of the property was never understood to be within the _sole_ responsibility of the Defendant was evident when the Plaintiff remarked that “it was certainly not the case that I was abandoning most of the responsibilities and dumping them on the Defendant”[^18]. Accordingly, any responsibility for the property not being maintained in a good condition, or not being tenanted at a higher rental amount, could not be placed squarely on the Defendant alone. Related to this, I reject the Plaintiff’s contention that the property could have fetched a higher sale price if various repair/improvement works were undertaken by the Defendant. There was in my opinion, no reason why the Plaintiff could not have initiated such repair works himself before placing the property on public auction in 2016.
+
+65     Overall, the picture painted was one of passivity when it came to the rental aspects of the investment, especially on the Plaintiff’s part, over what was a very extended period of time (20 years). All these suggested that there was no common enterprise to maximize rents from the 5C Property as if it were carried out as a rental business. Indeed, Plaintiff appeared more concerned about finding out about the latest developments on the _enbloc_ front: see PAEIC 141, 144, 152[\[note: 19\]](#Ftn_19). Again, this pointed to the parties’ true intention, namely to co-invest for capital gains should an _enbloc_ materialise, as opposed to entering into a partnership with a view to running a business for rental income. The last sentence in Sim’s second affidavit at paragraph \[57\][^20] is especially telling. Sim said: “I disagree with the Defendant’s excuses for not entering into proper lease agreements ….. In any event, any sale would not have taken place soon or quickly, _given that, we had jointly purchased the 5C Property for the ‘purpose of realising its value as and when the two blocks of buildings are sold enbloc_’…”
+
+##### Absence of reference to partnership in the correspondences and earlier court documents
+
+66     Fifthly, that the parties never intended to enter into a partnership could be inferred from the complete absence of any mention of the parties as partners from the time the property was purchased in 1995 until right before the Plaintiff filed his first affidavit in the Writ action on 5 February 2021. Plaintiff placed much emphasis on the point that the Defendant had verbally described herself as a ‘hard to find’ “partner” in Teochew before the property was purchased[\[note: 21\]](#Ftn_21). This was disputed by the Defendant and remained a bare assertion of the Plaintiff. Even if the utterance were in fact made, the Defendant was evidently using the word “partner” very loosely, to mean a collaborator, as opposed to a partner in the legal sense. The fact that the alleged utterance was in Teochew was also material, in that it might carry a very different connotation than if the word “partner” had been conveyed in the English language.
+
+67     The fact of the matter was that no reference to the term “partner” or “partnership” surfaced in any of the correspondences between the parties or court papers after that, until the affidavit of 5 February 2021 in DC/DC 1472/2021 was filed. Even in the first OS application filed by the Plaintiff in 2015 (in HC/OS 1042/2015), there was no characterization of the parties’ relationship as involving a partnership.
+
+68     Plaintiff’s Counsel suggested that there was no need to refer to the concept of partnership then as the reliefs sought in the OS were for the sale of the property and a division of the monies in the bank account, and these were not contingent on proof of breach of fiduciary duties. I did not accept this argument. Irrespective of the reliefs sought in the OS, one would have expected the Plaintiff to properly characterize his relationship with the Defendant as one involving a partnership in the court papers if they were indeed partners. It is the nature of the relationship that must first be established _before_ the reliefs could be properly formulated and articulated, and not the other way round. The _ex post facto_ rationalisation of the relationship as one involving a partnership (_i.e._ after discovery and after ascertaining the reliefs the Plaintiff wanted to seek) suggested to me that the claim of the _existence of a partnership_ was an afterthought on the part of the Plaintiff.
+
+69     Having regard to all the above, I am of the view that the parties never had the intention to enter into a partnership relationship. In my mind, both parties were _ad idem_ that (i) this was a simple co-investment relationship; (ii) the ultimate objective of the cooperation was to realize capital gains upon an _enbloc_ sale or other redevelopment prospects; (iii) in the meantime, the 5C Property would be rented out at minimum costs to service the mortgage payments; and (iv) there was no intention to run a rental business with profit maximization in mind in the interim.
+
+#### Whether Defendant breached any fiduciary duties owed to the Plaintiff
+
+70     It followed from my conclusion above that the Plaintiff’s claims against the Defendant for (i) wrongfully receiving rental payments in her sole name; (ii) managing the 9C Property and the 10D Property without Plaintiff’s knowledge and consent; (iii) receiving secret profits from Tang Yong and/or his associates (iv) failing to maintain 5C Property in a reasonable condition[\[note: 22\]](#Ftn_22), to the extent premised on the parties being in a partnership relationship and the Defendant owing fiduciary duties to the Plaintiff, must fail.
+
+### Whether the Defendant had received extra rent from Tang Yong from 2006 to 2016 which she had not declared?
+
+71     Even if the Plaintiff and Defendant were merely co-investors in the 5C Property and did not owe fiduciary duties to each other, the Defendant was still under an obligation to account to the Plaintiff the _full_ 50% of the rent collected for the 5C Property during their period of co-ownership.
+
+72     The Plaintiff contended that the Defendant had under-declared the rent she collected from Tang Yong/Ideal, or made secret profits, in relation to the 5C Property via the following means:
+
+> (a)     Collecting rental cheques from Ideal in her sole name;
+
+> (b)     Renting the 10D Property to Tang Yong, which allowed her to obfuscate and manipulate rents attributable to the 5C Property and the 10D Property;
+
+> (c)     Engaging in a subletting business with Tang Yong at #28-01 Upper Cross Road, which was used as a vehicle to receive secret profits;
+
+> (d)     Making short term loans to Tang Yong, and earning additional pay-outs; and
+
+> (e)     Not entering into a written Tenancy Agreement with Tang Yong from 2007, which allowed her to obfuscate rents payable for the 5C Property.
+
+73     In short, Plaintiff contended that Defendant and Tang Yong were enmeshed in a complex web of transactions which the Defendant was not able to properly explain, the objective of which was to earn secret profits at the Plaintiff’s expense.
+
+74     Having found that the Defendant did not owe fiduciary duties to the Plaintiff, the Defendant was, in my view, at liberty to deal with Tang Yong as she saw fit. This included granting loans to Tang Yong even if she earned some compensation in return. However, I agreed with Plaintiff’s Counsel that the Plaintiff’s case should not be unduly narrowed so as to stand or fall in its entirety depending on whether a partnership was found. Thus, even if the parties were not partners but joint owners, the Defendant was still under a duty to account to the Plaintiff 50% of the _actual rental receipts_ paid by Ideal on the 5C Property[\[note: 23\]](#Ftn_23).
+
+#### The burden and standard of proof of fraud
+
+75     The burden of proving that the Defendant under-declared the rent collected from Tang Yong/Ideal, or made secret profits in connection with the 5C Property, fell on the Plaintiff. The allegations levied by the Plaintiff against the Defendant amounted to _fraudulent_ conduct on the Defendant’s part, or a conspiracy to _defraud_ the Plaintiff in concert with Tang Yong. It is trite law that serious allegations such as fraud had to be established by _cogent and compelling_ evidence. While the usual civil standard of proof of balance of probabilities applied, the strength and cogency of the evidence that had to be furnished before fraud could be established on this standard was higher than that in most other civil claims: see _Syed Ahmad Jamal Alsagoff v Harun bin Syed Hussain Aljunied_ <span class="citation">\[2017\] 3 SLR 386</span>; _Alwie Handoyo v Tjong Very Sumito and another and another appeal_ <span class="citation">\[2013\] SGCA 44</span>.
+
+76     In _Alwie Handoyo v Tjong Very Sumito and another and another appeal_ <span class="citation">\[2013\] SGCA 44</span>, the Court of Appeal thus noted:
+
+> “\[I\]n Tang Yoke Kheng v Lek Benedict <span class="citation">\[2005\] 3 SLR(R) 263</span> …., this court rejected (at \[14\]) that there is a third burden of proof apart from the civil burden of balance of probabilities and the criminal burden of beyond reasonable doubt. It held that _even where fraud is alleged in a civil case, the civil standard of proof applies, albeit where the allegation of fraud is serious, the party alleging the fraud has to do more to establish his case._ ….. _To summarise, the burden lies on the party asserting fraud to prove on the balance of probabilities that the fraud has taken place_. Either there is fraud or there is not; there is no room for a finding that it might have happened. _Because of the serious implications of fraud, cogent evidence is required before a court will be satisfied that the allegation of fraud is established.”  (emphasis added)_
+
+#### The adduced evidence on secret profits
+
+77     The Plaintiff, however, relied on, what was in my mind, a series of circumstantial evidence or pure speculations to assert that the transactions between Defendant and Tang Yong were suspicious on their face, and that therefore secret profits were likely to have been made by the Defendant[\[note: 24\]](#Ftn_24). Viewed holistically, I was of the view that the evidence relied upon was insufficient for the Plaintiff to discharge his burden of proof, for the following reasons.
+
+#### Defendant's alleged manipulation of the accounts in respect of rental for the 5C Property
+
+78     The Plaintiff alleged that the rental income received from the 5C Property were manipulated by the Defendant by comparing the Defendant’s own chronological tabulation of the rent cheques she had received in respect of the 5C Property (the “**TCH Listing Ledger**”)[\[note: 25\]](#Ftn_25) against the project ledger created by Ideal in respect of the 5C Property (the “**Ideal Project Ledger**”)[^26]
+
+79     I preface my discussion of the ledgers by noting that the two ledgers were maintained _separately_ by Ideal and the Defendant, ostensibly for their own internal records or reference purposes. Further, the accounting basis upon which these records were prepared were never properly established. Specifically, in relation to the Ideal Project Ledger, it was not established if the accrual basis of accounting or some other basis of accounting was used in preparing the Ideal Project Ledger. Notwithstanding this, a comparison of the two ledgers showed that the rental payments paid by Ideal and those banked in by the Defendant into the UOB Joint Account matched. In particular, they showed that the amount of rent paid from October 2007 to February 2013 to be in the amount of $1,500 per month, and thereafter, $2,000 per month. These were supplemented by cheque scans, which showed that the sums paid by or on behalf of Ideal to the Defendant in payment of the 5C Property rentals were consistently $1,500, and subsequently, $2,000. _Prima facie_, the amounts paid by Ideal were consistent with the amounts deposited into the joint bank account by the Defendant. In other words, there was no evidence of any under-declaration or under-accounting of rent paid by Ideal.
+
+80     The Plaintiff, however, argued that in the Ideal Project Ledger, there were a list of monthly items where the acronym “CR” was reflected under the “Ref” column against a number of monthly entries. The Plaintiff contended that where cheque payments/cash receipts were received, the acronym “PV” accompanied by a cheque number was entered under the “Ref” column. The Plaintiff reasoned that the “CR” entries in the Ideal Project Ledger must therefore mean that cash payments were made by Ideal for the corresponding months. More specifically, the Plaintiff’s position was that “CR” referred to “Cash Receipts”[\[note: 27\]](#Ftn_27). Comparing the Ideal Project Ledger, the TCH Listing Ledger and the cheque payments reflected in the TCH Listing Ledger, the CR entries in the Ideal Project Ledger therefore showed that additional cash receipts (i.e. on top of cheque payments) totaling $71,500 were made but not accounted for by the Defendant[^28]. This, according to the Plaintiff, was an item of the “secret profits” allegedly made by the Defendant, which the Defendant must account to the Plaintiff for.
+
+81     I did not accept the Plaintiff’s contention that “CR” in the Ideal ledger necessarily meant “Cash Receipts”. This was no more than the Plaintiff’s assumption, and in my view, a fallacious one. It was fairly obvious to any reader of the Ideal Project Ledger that the contention that “CR” in the _Ideal Project Ledger_ referred to “Cash Receipts” would not make sense, as it suggested that Ideal was receiving cash. This could not be the case as Ideal _paid_ rent, and not _received_ rent; there therefore ought not be any cash receipts from the perspective of Ideal. Even if we were to strain the meaning of “Cash Receipts” and take it to mean cash payments made by Ideal and received by the Defendant, the immediate question that comes to mind is where then were the cheque payments in the TCH Listing Ledger reflected or accounted for in the Ideal Project Ledger? The fact that the rents for each month was only accounted for once in the Ideal Project Ledger suggested that the maker of the Ideal Project Ledger was proceeding on the basis that only one rental payment of $1,500 or $2,000, as the case may be, was paid or payable for the 5C Property for each month.
+
+82     The Defendant, on the other hand, explained that the Ideal Project Ledger was prepared based on the “accrual basis of accounting”[\[note: 29\]](#Ftn_29). In the “accrual accounting” basis used in the Ideal Project Ledger, an expenditure or income was recognized in an accounting period regardless of when the payment was made or when the income was received. In this context, CR stood for “Credit”, and would be entered if Ideal did not make payment of the rentals in time. In my mind, this made eminently more sense since, if Ideal did not make rental payment on the due date, it had _de facto_ received a _“credit”_ for the corresponding month in which rental payments were late, and this was exactly what was intended to be reflected in the Ideal Project Ledger.
+
+83     As the Plaintiff relied on the Ideal Project ledger to prove that additional rental payments were made by Ideal, which assertion was vehemently denied by the Defendant, the Plaintiff should have called the maker of the ledger to explain the basis upon which the Ideal Project Ledger was prepared. Absent such testimony, the Plaintiff was simply hypothesizing or speculating on how the CR entries should be interpreted, when it could be construed in a number of ways. As I have noted, the burden of proving that secret profits were made by the Defendant acting in concert with Tang Yong fell on the Plaintiff. Cogent evidence must be adduced in support of this claim since it involved an allegation of fraudulent conduct. In my mind, the Ideal Project Ledger did not take the Plaintiff very far in terms of proving that $71,500 by way of secret cash profits were in fact paid to the Defendant.
+
+#### Suspicions from Defendant’s failure to allocate rental cheques to the earliest unpaid rentals
+
+84     The Plaintiff next alleged that the manner in which the Defendant had decided to allocate certain rent cheques received from Ideal was highly suspicious. Specifically, rent cheques received were not assigned to the earliest unpaid rental period. For example, based on the TCH Listing Ledger, the rent for the rental period of July 2009 was paid over a year before the rent for the earlier rental period of June 2009 was paid.
+
+85     The fundamental premise of the Plaintiff’s argument, as I understood it, was that the rent cheques must always be ascribed to the outstanding rental payments on a “first in, first out” (“**FIFO**”) basis. The Defendant, on the other hand, explained that in the TCH Listing Ledger, she had adopted a “specific identification” method of ascribing the cheques received, i.e. she would apply the cheques received for the specific month Ideal had indicated the cheques were meant for, even if there were earlier rental months that were still in arrears. To a lay person, both approaches – i.e. the FIFO and the specific identification approaches – appeared equally plausible. No accounting evidence was adduced by the Plaintiff to show that the specific identification approach adopted by the Defendant was contrary to accounting principles or best practices. Absent expert evidence that the FIFO approach (as opposed to the specific identification approach) must be applied in this instance, I did not think this constituted a cogent basis for supporting any allegation of fraud levied against the Defendant.
+
+#### Alleged Tampering of cheques
+
+86     The Plaintiff next highlighted various alterations made to the notations on the photocopies of cheques adduced by the Defendant to indicate the monthly rentals which the relevant cheque payments were attributed to. Plaintiff highlighted that the reverse side of certain cheques on which an initial attribution of the cheque towards rent in a particular month was made (e.g. September 2009) was subsequently amended and attributed to a different month (e.g. August 2009). Plaintiff argued that such alterations of the cheques allowed the Defendant to obfuscate the true purpose for which the cheques were issued, with the Plaintiff’s case being that the Defendant had received in respect of the 5C Property other rental payments which she did not inform the Plaintiff of[\[note: 30\]](#Ftn_30).
+
+87     With respect, I did not follow the Plaintiff’s contention that mere alterations of the notations on the reverse of the cheques necessarily pointed to some sinister scheme on the Defendant’s part. I found the Defendant’s explanation for the alterations made to the notations to be plausible. The Defendant explained that where the payment details for certain cheques were not clear or expressly stated, the Defendant would verify with Ideal and then write out on the reverse of the cheques the details of the payment purposes. Where the Defendant could not get any verification as to the payment purpose, she wrote down the month she considered the rent was for. The notations on the photocopied cheques were for her own reference purposes to facilitate recording in the Defendant’s rental listing worksheet. Invariably, amendments to the notations could be expected, either because the details were subsequently discovered to have been erroneously inserted after verification with the tenant, or rent may already have been received for a particular month and the same month’s rent was again stated in the photocopied cheque recently received. That such errors might be inadvertently made was all the more plausible given the long period of time over which the 5C Property was tenanted to Ideal/Tang Yong, and the fact that Defendant dealt with Tang Yong on leases for other properties as well. Over the years, a large number of rental cheques would have been received and had to be properly ascribed to the relevant property and towards the relevant rental period. The amendment of the notations could thus plausibly have been made for the purpose of correcting genuine errors made, and did not ineludibly point to a tampering of the cheques as the Plaintiff alleged.
+
+88     Again, given that the notations were really meant for the Defendant’s internal tracking purposes, the mere fact that she corrected the months for which the cheques were meant for cannot be cogent or compelling evidence of fraud.
+
+#### Renting out 5C Property on a month-to-month basis without a written tenancy
+
+89     The Plaintiff next alleged that the Defendant’s failure to enter into a written Tenancy Agreement with Ideal from 2007 onwards was suspicious, especially as the Plaintiff had via a fax dated _5 April 2007_ requested for a copy of the written Tenancy Agreement. According to Plaintiff, the absence of a written Tenancy Agreement opened up the risk for manipulation of rental sums collected from Ideal. The Plaintiff argued that the Defendant was unable to provide any coherent reasons why the 5C Property was leased out from May 2007 without any written tenancy agreement.
+
+90     In my mind, in light of the Defendant’s contention that the 5C Property had been leased out by way of a _monthly tenancy_ since May 2007, it was unsurprising that no _written_ lease agreement would have been entered into with Ideal from May 2007 onwards. Unlike fixed term leases, if a written tenancy agreement had been required to be executed for each monthly tenancy, this would have necessitated that a fresh lease or addendum to have been executed at the end of every month.
+
+91     In any event, as noted above, the TCH Listing Ledger and the Ideal Project Ledger suggested that the rental figures paid by Ideal and that deposited into the UOB Joint Account matched, _i.e._ the 5C Property was let out at $1,500 from October 2007, and at $2,000 from March 2013. The failure to reduce the Tenancy Agreement into writing post-2007 could be due to the Defendant’s honest oversight in following up, or alternatively, the supposition that since the tenancy was a monthly tenancy, no monthly _written_ lease agreements were necessary or practicable.
+
+92     Further, while the Plaintiff did request for a written Tenancy Agreement once in April 2007, the Plaintiff never followed up with the request thereafter. Given the Plaintiff’s passivity in not following up for a written copy of the Tenancy Agreement, which over time could be construed as acquiescence on the Plaintiff’s part, the Defendant may have been led to believe that the continuation of the Tenancy Agreement on a month-to-month basis without a written agreement was not objectionable to the Plaintiff, especially as the property might be put up for _enbloc_ anytime. Failure to document the Tenancy Agreement with Ideal in writing, after the Plaintiff ceased to chase for one, against the backdrop that the tenancy post 2007 was a monthly tenancy, was insufficient to prove that the Defendant had engineered a scheme with Tang Yong to make a secret profit out of the rental payments for the 5C Property. Separately, if there was truly a conspiracy to defraud the Plaintiff, I did not see how having a written agreement signed by Ideal would have made a significant difference.
+
+93     Viewed in this light, the absence of written tenancy agreements from May 2007 again did not constitute cogent reasons to support the Plaintiff’s assertion that there was therefore likely to have been a secret profit arrangement between the Defendant and Tang Yong. Any such contention was based on no more than a pure conjecture on the Plaintiff’s part.
+
+#### Defendant's payment of cheques into the UOB Joint Account before reimbursing herself when Ideal paid the rent
+
+94     The Plaintiff next argued that the Defendant’s decision to pay her own cheque into the UOB Joint Account in payment of Ideal’s rent, before reimbursing herself when Ideal paid the rent by cheque issued to the Defendant’s sole name, was suspicious.
+
+95     While the Defendant’s decision to pay for Ideal’s rent first using her own cheques before reimbursing herself when Ideal made the rental payments certainly called for an explanation, I was satisfied with the Defendant’s explanation that the reason for this was to ensure that the UOB Joint Account always had sufficient funds to service the monthly mortgage payments. This was especially so as Ideal had not always been punctual in making its rental payments. The evidence on record provided some support for the Defendant’s explanation. The cheques drawn by Ideal were dated as at different days of the months, some as late as after the 10th or 20th day of each month: see for _e.g._ PAEIC 361, 362, 365, 370, 373, 374, 378, 381, 383, 385, _etc._. This lent credence to Defendant’s argument that Ideal was in fact not timely in its payment of rent, as the Defendant contended. Thus the Defendant, as a matter of prudence, deposited the rent into the UOB Joint Account first to minimize the risks of any loan payment defaults.
+
+96     The Plaintiff, however, argued that the bank statements (attached as Annex A of the Plaintiff’s Closing Submissions, hereinafter “**Annex A**”) showed that the UOB Joint Account had a buffer[\[note: 31\]](#Ftn_31) and hence there was no need for the Defendant to implement this safeguard. I will make three points: (a) Annex A on its face, was incomplete. As admitted by the Plaintiff, some 52 bank statements were lost when he moved from Yenom. In particular, the statements from 2009 to 2011 were missing; (b) At any rate, any buffer which existed was not sufficient to service the mortgage payments for the most part from 2003 to 2006, and then further in 2007. The buffer only increased in 2008, and reached a healthy state from 2012 up to 2016; and (c) Separately, even if there were a healthy buffer, I found that the Defendant had adequately explained her reasons for depositing the Ideal rent using her own monies when she pointed out that she had stopped receiving the bank accounts from 2001. She therefore would not have known of the buffer, or the extent thereof, from 2001 onwards[^32]. Her intention in depositing the Ideal rental payments out of her own monies first out of an abundance of caution was, in my view, a plausible explanation, as it was completely in the Defendant’s interest to ensure that the mortgage did not fall into default given her 50% interest in the 5C Property. In my mind, the Plaintiff had not shown on a balance of probabilities that the payment arrangements put in place by the Defendant must lead to the conclusion that the Defendant wanted to cover the tracks of some secret profit arrangements concocted between the Defendant and Tang Yong. Again, the Plaintiff is making a quantum leap to argue based on the payment arrangements that some fraud must therefore have been committed.
+
+97     Finally, as noted above, the rental amounts recorded in the Ideal Project Ledger and the TCH Listing Ledger, and supported by the accompanying cheque scans, matched, ie rent was $1,500 from May 2007 up to February 2013, and $2,000 per month thereafter. In my mind, the Defendant had proffered a reasonable reason for depositing an amount equivalent to the rent due from Ideal in advance using her own cheque to ensure that there were no risk of a payment default on the mortgage loan. This was adequate in my view to discharge her evidential burden of proving that no fraud was being committed, and to shift the evidential burden back to the Plaintiff. The burden remained squarely with the Plaintiff to prove on a balance of probabilities that the Defendant implemented this arrangement with the intention to obfuscate a secret profit and/or to defraud Plaintiff.
+
+#### No evidence of under-declaration of rent based on the expert reports
+
+98     In terms of the expert opinions, I also found the Defendant’s expert to be more persuasive.
+
+#### Mr Robert Khan’s opinion
+
+99     The Plaintiff’s expert, Mr. Robert Khan Yeow Wai (“**Mr Khan**”), when ascertaining the retrospective market rent for the 5C Property from May 2005 to December 2016, had adopted the “market approach” under the IVS 105 Valuation Approaches and Methods IVS 2020, which states:-
+
+> “The market approach provides an indicator of value by comparing the asset with _identical or comparable_ (that is similar) assets for which price information is available”[\[note: 33\]](#Ftn_33)_(emphasis added)._
+
+100    Mr Khan relied on the rental transaction of non-landed residential properties data published by URA Realis along Hoe Chiang Road and Lim Teck Kim Road. According to URA, the rental transactions were obtained from the Inland Revenue Authority of Singapore based on the tenancy agreements submitted for stamping purposes. However, the URA rental data in Appendix K of his report, which Mr. Khan based his opinion on, only showed that the subject properties were tenantable and habitable. The data did not show on a differentiated basis whether the subject properties were renovated or unrenovated, furnished or unfurnished, and whether the subject properties were affected by water seepages or leakages or any other issues.
+
+101    I agreed with the Defendant’s Counsel that it is logical that a property which is unfurnished, unrenovated and/or affected by water seepage problems, would fetch a much lower rental value than a property in a furnished and/or renovated condition and/or which was not beset by water seepage issues. The 5C Property had a water seepage issue, was unfurnished, and was in all likelihood in a generally poorer condition compared to comparable properties, given the minimum cost approach adopted in the upkeep of the property. Mr Khan’s averaging of the URA Realis figures with rents paid for properties in potentially better conditions, and without differentiating rental values of properties based on their conditions (e.g. furnished versus unfurnished), would necessarily result in an upward skewing effect for the value of the 5C Property.
+
+#### Mr. Lean Nam Bong’s opinion
+
+102    The Defendant’s expert, Mr. Lean Nam Bong’s (“**Mr. Lean**”) valuation, on the other hand, was based on the IRAS Chief Assessor’s assessment of annual rental values, which is defined as the estimated gross annual rent of properties rented out, _excluding furniture and furnishing_. This in my view, provided a better estimate of the market rent of a property comparable to the 5C Property.
+
+103    Based on Mr. Lean’s valuation of fair market rent, the annual rent collected from Ideal had never been below the fair annual market rental – see PAEIC 3019. This militated against the suggestion that the rental charged to Ideal was underdeclared to the Plaintiff, and that the Defendant made a secret profit surreptitiously.
+
+#### Contention that Defendant was renting out the 5C Property on a bed basis.
+
+104    The Plaintiff next speculated that it was likely that the Defendant was renting out the 5C Property on a bed basis (like the 9C Property) for significantly more than the $2,000 per month[\[note: 34\]](#Ftn_34). This was wholly speculative and based on no more than the Plaintiff’s bare assertion. If that were indeed the case, there was no reason why the Plaintiff could not have proven this as a matter of fact. He had been a joint owner for 20 years, and his rights of access to the 5C Property had never been restricted.
+
+#### Other observations
+
+105    I would also note in passing the following:
+
+> (a)     the rental for the 5C Property was commensurate with that of 5B Hoe Chiang Road, which was the unit located directly below the 5C Property and owned by the Singapore Tong Chai Medical Institution, an independent entity. Mr. Khan had conceded during cross-examination that the rents collected for the 5B property were “the most comparable, identical or similar”[\[note: 35\]](#Ftn_35). Copies of the rental agreement entered into between the Singapore Tong Chai Medical Institution and Ideal and/or Tang Yong over an 18-year period from 2003 to 2020 were exhibited to the Defendant’s 2nd affidavit filed on 9 February 2021. They showed that the rental paid for the 5B property ranged from $1,050 per month from 2003 to 2008; $2,000 per month from 2008 to 2012 and $2,300 per month from 2012 to 2014[^36]. These were largely consistent with the rents earned on the 5C Property, bearing in mind that the 5C Property had a water seepage issue;
+
+> (b)     The Plaintiff, however, argued that 9C Hoe Chiang Road was the most comparable unit for the purposes of rental comparisons[\[note: 37\]](#Ftn_37), and that the Defendant did not disagree with the Plaintiff’s position on this point during cross-examination. Mr. Khan had also, at some point during re-examination, stated that he in fact considered the property at 9C to be most comparable to the 5C Property[^38]. Even if this were so, it appeared from the evidence that the 9C Property was tenanted out by the Defendant’s sister to a Mdm Xu Xiu Dan from 1 March 2013 to 30 September 2017 at a fixed rent of $2,000 a month[^39]. This was evidenced by receipts issued to Mdm Xu stating that a rental sum of $2,000 was paid by Mdm Xu per month[^40]. Again, this suggested that the rental paid by Ideal in respect of the 5C property was comparable with other properties in the development.
+
+> (c)     Lastly, as briefly alluded to above at \[58\], there was contemporaneous correspondence from the Defendant to the Plaintiff in 2004 in which the Defendant communicated that some M Hotel employees were keen to offer $1,000 for the 5C Property with some basic furnishings to be provided. In the correspondence, the Defendant said she would try to see if the offer could be raised to $1,200: see PAEIC 326 (the “**M Hotel correspondence**”). The M Hotel workers eventually did not enter into the lease as none of the workers of M Hotel was willing to sign on the lease agreement. However, the M Hotel correspondence suggested that the offer of rent to the eventual lessee, Ideal, in 2004, at $1,000 was by no means at an undervalue.
+
+### Whether an adverse inference should be drawn against Defendant for not calling Tang Yong
+
+106    The Plaintiff submitted that an adverse inference should be drawn against the Defendant for not calling Tang Yong as her witness. I disagreed. Even if the Plaintiff had adduced some (not inherently incredible) evidence that secret profits might have been made, thereby causing the evidential burden to shift to the Defendant to adduce some evidence in rebuttal, the Defendant had, in my view, tendered proof of a proper accounting of cheques received from Ideal as documented in the TCH Listing Ledger and the Ideal Project Ledger. As mentioned, the TCH Listing Ledger matched in material respects the entries in the Ideal Project Ledger prepared by Ideal separately. Photocopies of cheques corelating to the respective ledgers were further produced in support. While the notations on the back of the cheques were in some cases amended to correct the rental details, this in my mind was unremarkable. I accepted the Defendant’s explanation that the notations were for Plaintiff’s personal reference purposes to aid in her reconciliation of accounts. Such corrections could be due to an earlier honest mistake in attributing the cheques to certain rental payments when the cheques related to other months. The Defendant had, in my view, adduced enough rebuttal evidence (and this is the Defendant’s position as well during cross-examination[\[note: 41\]](#Ftn_41)) to shift the evidential burden back to the Plaintiff. As noted in the cases mentioned dealing with the burden and standard of proof of fraud (see \[75\] to \[76\] above), the Plaintiff always bore the legal burden of proving that secret profits were fraudulently made on a balance of probabilities.
+
+107    The Plaintiff’s assertion that the Defendant was involved in a web of surreptitious dealings with Tang Yong culminating in an under-declaration of rental derived from the 5C Property was, in the final analysis, based purely on speculations or alleged “suspicious” circumstances which fell short of the standard of proof required of the Plaintiff. There was no objective evidence that showed that Ideal had indeed paid sums to the Defendant in excess of the declared rentals to the Plaintiff by way of secret profits. In these circumstances, I am of the view that the Defendant was entitled to take the view that the Plaintiff has not met the requisite threshold of proof, and that it was not incumbent on the Defendant to call Tang Yong to prove a negative, namely that she did not conspire with Tang Yong to make secret profits. As the Court of Appeal noted in _Tribune Investment Trust Inc v Soosan Trading Co Ltd_:
+
+> _Whether or not in each case an adverse inference should be drawn depends on all the evidence adduced and the circumstances of the case. There is no fixed and immutable rule of law for drawing such inference._ Where, as was the case here, the ….. the plaintiffs themselves had not made out their claim to the requisite standard, then no drawing of an adverse inference against the defendants is necessary. _The drawing of an adverse inference, at least in civil cases, should not be used as a mechanism to shore up glaring deficiencies in the opposite party’s case, which on its own is unable to meet up to the requisite burden of proof._ Rather, the procedure exists in order to render the case of the party against whom the inference is drawn weaker and thus less credible of belief.” _(emphasis added)_
+
+### Conclusion on the fraud/secret profit allegation
+
+108    Based on the foregoing, I was of the opinion that no adverse inference should be drawn against the Defendant for not calling Tang Yong as a witness. Given that the Plaintiff was making a positive case that Tang Yong had been helping the Defendant to make and conceal secret profits, it was always open to the Plaintiff to call Tang Yong as a witness to prove that fraud had been committed. As noted above, the burden of proof that the Defendant had been fraudulently making secret profits fell on the Plaintiff. The Plaintiff however chose not to call Tang Yong, and instead built his case based upon layers upon layers of conjectures[\[note: 42\]](#Ftn_42). The following statement from the Plaintiff’s Closing Submissions – “_\[e\]ven to this day, the Plaintiff remains unaware of the true extent of the relationship between the Defendant and Tan Yong and/or his associates_… at \[167\]” – was especially telling and suggested that the Plaintiff’s case against the Defendant involving Tang Yong was based upon conjectures, speculations and circumstantial evidence only.
+
+109    Viewed in this light, the Plaintiff’s concurrent allegation that the Defendant had refused to disclose copies of her personal bank statements smacks of a fishing expedition. I did not see why the Defendant had to lay bare all her bank statements, which were likely to contain private information which had nothing to do with the 5C Property, over what was likely to be a very extended period of time, to the Plaintiff simply because the Plaintiff _suspected_ that secret profits had been made.
+
+110    Based on the evidence before me, I was not satisfied that the Plaintiff had discharged his burden of proving fraudulent dealings by the Defendant on a balance of probabilities.
+
+## Division of monies in the UOB Joint Account
+
+111    I turn now to the distribution of monies in the UOB Joint Account. The parties accept that a sum of $62,551.56 currently stands in the said account.
+
+112    I was unable to accept the Defendant’s proposed division as set out in paragraph 244 of the Defendant’s Closing Submissions (“**DCS**”). The sums of $17,132.71 and $45,382.71 due to the Plaintiff and Defendant respectively in the Defendant’s tabulation were apparently derived based on the Defendant’s reconciliation statement at PAEIC 2973-2993. However, the Defendant’s reconciliation statement is a document prepared by Defendant herself, _without any supporting proof/documents_ with respect to the deductions/additions applied. Indeed, Defendant conceded that she had to work backwards to come up with the reconciliation statements as she did not have the requisite bank statements: see PAEIC 624. Separately, claims for structural engineer fees, charges for replacement of the common sewers, _etc._ were all based on bare assertions without any supporting documents (see PAEIC 3113 at \[100\]).
+
+113    In my view, ascribing half of the monies in the UOB Joint Account to each of the Plaintiff and the Defendant, and making provisions for adjustments backed by _objective evidence_, was a more principled approach for effecting the division. This is the approach proposed by Plaintiff’s Counsel which I now scrutinize.
+
+114    In the Plaintiff’s calculations, the Plaintiff had credited a refund of 20 short deposits of $950 each in the total amount of $19,000 to the Defendant. The Plaintiff did not dispute that he had stopped contributing $950 per month to the UOB Joint Account from March 2014 onwards. On the other hand, the Defendant had, save for the month of June 2014, continued to contribute $950 per month until November 2015 to the UOB Joint Account. This meant that the Defendant had contributed an extra sum of $19,000 (being $950 x 20 months). The Defendant was thus entitled to an additional $19,000 by the Plaintiff’s _own concession_.
+
+115    Furthermore, the Plaintiff conceded that he had also not made the monthly $950 contribution for the months of April 2012 and August 2013. The Defendant on her part did make contributions for these months. The Defendant was therefore entitled to a further $1,900.
+
+116    In contrast, the Defendant claimed that apart from the above-mentioned 22 short deposits, there were further short deposits totaling $6,880. The Defendant however failed to substantiate the additional short deposits based on the relevant bank statements. As mentioned above, mere reliance on the reconciliation statement prepared by the Defendant, which was not supported by any objective evidence, was insufficient. I therefore accepted Plaintiff’s position that only an additional $19,000 plus $1,900, which Plaintiff admitted should be refunded to the Defendant, should be added to the Defendant’s entitlement for unpaid contributions[\[note: 43\]](#Ftn_43).
+
+117    Separately, it was undisputed that on 19 February 2014, the Plaintiff had received a Dangerous Building Order (“**DBO**”) from URA. Some of the owners of the Hoe Chiang Building thereafter engaged DAL Builders Pte Ltd to make the necessary repairs. The share of the contractor’s costs that was payable by the owners of the 5C Property was $3,517.09 (the “**DAL Fees**”). The costs were to be shared equally between the Plaintiff and Defendant. However, as the Defendant failed to make payment, the Plaintiff had borne the entire cost.
+
+118    In relation to the DAL Fees, I agreed with the Plaintiff’s Counsel that this should be added to the Plaintiff’s share as it represented the Defendant’s share of the costs of repair works payable for the DBO by URA which Plaintiff had paid on her behalf first. In Defendant’s affidavit, she deposed as to why she disagreed with DAL’s charges, citing overpayment. However, these were not supported by any concrete details or proof. The charges were in any event accepted by the majority of the proprietors of the Hoe Chiang Building. In my view, the Defendant had not shown why she should be exempt from paying her share of the repair costs.
+
+119    Finally, the Plaintiff averred that the Defendant had failed to deposit the monthly rental sum of $2,000 into the UOB Joint Account for the months of June 2014 and May 2016[\[note: 44\]](#Ftn_44), which Plaintiff says should be deducted from the Defendant’s share. The Plaintiff relied on the bank statements at PAEIC 2347 to 2349 in support.
+
+120    In my opinion, the statements at PAEIC 2347-2348 were adequate proof that Defendant did not deposit the rent of $2,000 into the UOB Joint Account for the month of June 2014. In contrast, in relation to the rent for May 2016, the statement at PAEIC 2349 was not accompanied by the detailed credit and debit entries for May 2016, and did not constitute sufficient proof that the rent for May 2016 was not paid. I would therefore allow an adjustment of $2,000 for rent not shown to be deposited into the UOB Joint Account for June 2014 only, and not for May 2016.
+
+121    I would therefore adopt the Plaintiff’s proposed divisions with an adjustment for rent for the month of June 2014, as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="26.4%"><col width="22.76%"><col width="24.02%"><col width="26.82%"></colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Balance (S$)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Plaintiff’s share (S$)</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Defendant’s share (S$)</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Joint account balance as at 31 December 2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">62,551.56</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">-</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">-</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Refund of S$19,000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">(19,000)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">-</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">19,000</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Refund of S$1,900</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">(1,900)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">-</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1,900</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Payment for DAL</p><p align="justify" class="Table-Para-1">Builders</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">(3,517.09)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3,517.09</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">-</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Rent for the months of</p><p align="justify" class="Table-Para-1">June 2014</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2,000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">(2,000)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Balance</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">40,134.47</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3,517.09</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18,900</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Half-share of balance</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">(40,134.47)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">20,067.235</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">20,067.235</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Total</b></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">0</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><u>23,584.325</u></b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><u>38,967.235</u></b></p></td></tr></tbody></table>
+
+  
+  
+
+## Defendant’s counterclaim
+
+122    The Defendant counterclaimed the loss of profits that she would have obtained if the 5C Property had been sold _enbloc_. The counterclaim was wholly unmeritorious as the 5C Property was sold with the consent of the parties via a public auction. In any event, while some documents have been tendered to support the assertion that the “owners of the properties at the Hoe Chiang Road Building and the Lim Teck Kim Road Building are contemplating an _enbloc_ sale” at between $3,100,100 to $3,500,000 (see Exh TCH30-C at PAEIC 3559 to 3754), the current status of the _enbloc_ discussions are uncertain. The documents at Exh TCH-30C provided no indication as to whether there were any prospective bidders and the likely price which the development would be marketed at. There also appeared to be some regulatory issues, for which the proprietors were seeking the assistance from the authorities. The prospects of the _enbloc_ materializing were highly uncertain and remote at this stage. I would accordingly dismiss the counterclaim as well.
+
+## Conclusion
+
+123    In light of the foregoing, I made the following orders:
+
+> (a)     The amounts standing to the credit of the UOB Joint Account shall be divided, with the amounts due to the Plaintiff and Defendant being **$23,584.325** and **$38,967.235** respectively.
+
+> (b)     The sums in sub-paragraph (a) shall be paid out of the Stakeholding Sum, as may be appropriate. This, I note, may not be necessary as the amounts recoverable by the Plaintiff is more than covered by, and can be paid out of, the amounts standing in the UOB Joint Account.
+
+124    The rest of the Plaintiff’s claims are dismissed.
+
+125    The Defendant’s counterclaim is dismissed.
+
+## Costs
+
+126    For all intents and purposes, the Defendant had prevailed in the main action. Costs should follow the event.
+
+127    The Plaintiff recovered the sum of $23,584.325 out of the monies in the UOB Joint Account. It was, however, always accepted that the monies in the joint account would be divided between the Plaintiff and Defendant. The only issue was how much each was entitled to. I was, however, mindful that I had substantially accepted the Plaintiff’s calculations of the sums each party was entitled to. I therefore took this into account when awarding costs.
+
+128    Having regard to: (a) the complexity of the issues, (b) the number of issues raised, (c) the length of the trial, (d) the fact that the case proceeded in the State Courts, and (e) the fact that I had substantially adopted the Plaintiff’s calculations on the division of monies in the joint account, I was of the view that costs of $50,000 (inclusive of all costs that had been reserved, or ordered to be in the cause) in favour of the Defendant would be reasonable and proportionate.
+
+129    The counterclaim was dismissed and the Plaintiff should be entitled to the costs of the counterclaim. I fixed the costs of the counterclaim at $4,000 all-in as the work done and submissions on the counterclaim were very limited.
+
+130    The costs orders were therefore as follows: (a) costs of main action to the Defendant fixed at $50,000, plus reasonable disbursements (which for the avoidance of doubt, shall include the costs of the Defendant’s expert) to be taxed if not agreed; and (b) costs of the counterclaim to the Plaintiff fixed at $4,000, all-in.
+
+* * *
+
+[\[note: 1\]](#Ftn_1_1)See Plaintiff’s Closing Submissions (“**PCS**”) at \[220\]
+
+[^2]: Defendant’s Closing Submissions (“**DCS**”) at \[56\], \[69\]
+
+[^3]: PAEIC 2681-2682
+
+[^4]: Defendant’s 1st affidavit Vol 1 PAEIC 316-317
+
+[^5]: Defendant’s 1st affidavit at Vol 1 PAEIC 255
+
+[^6]: Defendant’s 2nd Affidavit Vol 5 PAEIC 2784
+
+[^7]: Defendant’s 1st affidavit at Vol 1 PAEIC 319
+
+[^8]: Notes of Evidence (“**NE**”) 10 January 2022, p. 21
+
+[^9]: Plaintiff’s 3rd affidavit, PAEIC 3188 at \[6(c)\]; and NE 10 January 2022, p. 26
+
+[^10]: Plaintiff’s Reply Submissions (“**PRS**”) \[71(d)\])
+
+[^11]: Plaintiff’s 3rd affidavit, PAEIC 3188 at \[6(c)\]; and NE 10 January 2022, p. 26, 28
+
+[^12]: Plaintiff’s 1st affidavit, Vol 1 PAEIC 5 at \[5.1\]; Plaintiff’s Statement of Claim at \[4a\]
+
+[^13]: NE 16 February 2022, p. 11
+
+[^14]: PCS, Annex A
+
+[^15]: See Vol 1 PAEIC 152; Plaintiff’s letter to the Defendant dated 16 July 2007; and Vol 1 PAEIC 266 at \[69\] – \[70\]
+
+[^16]: DCS p. 83
+
+[^17]: Plaintiff’s 2nd affidavit, Vol 2 PAEIC 558
+
+[^18]: Plaintiff’s 2nd affidavit, Vol 2 PAEIC 558
+
+[^19]: DCS \[140\]- \[142\]
+
+[^20]: Plaintiff’s 2nd affidavit, Vol 2 PAEIC 568
+
+[^21]: NE 10 January 2022, p. 34-35
+
+[^22]: PCS \[3\]
+
+[^23]: PRS at \[69\]
+
+[^24]: See especially Plaintiff’s 2nd affidavit dated 9 Feb 2021
+
+[^25]: PAEIC Vol 1, p 328
+
+[^26]: PAEIC Vol 2, p 880
+
+[^27]: PCS at \[144\]
+
+[^28]: PCS at \[147\]
+
+[^29]: Defendant’s Reply Submissions (“**DR**”) 115
+
+[^30]: PCS 153
+
+[^31]: PCS, Annex A
+
+[^32]: NE 12 January 2022 at p. 136
+
+[^33]: Mr Khan’s affidavit filed on 9 February 2021, Vol 5 PAEIC 2559 \[H.24\]
+
+[^34]: PRS at 58
+
+[^35]: NE 13 January 2022, p. 67-68
+
+[^36]: Defendant’s 2nd affidavit filed on 9 February 2021, Vol 5 PAEIC 2825 to 2939.
+
+[^37]: PRS \[60(c)\] (p. 35)
+
+[^38]: NE 16 February 2022, p. 103
+
+[^39]: Defendant’s 2nd affidavit filed on 9 February 2021, Vol 5 PAEIC 2718 \[177\].
+
+[^40]: Defendant’s 2nd affidavit filed on 9 February 2021, Vol 5 PAEIC 2260 to 2318.
+
+[^41]: NE 13 January 2022, p. 130
+
+[^42]: See PCS \[124\]-\[191\]
+
+[^43]: PCS at \[212\]
+
+[^44]: PCS pgs. 97-98
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F28872-SSP.xml)

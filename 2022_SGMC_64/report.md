@@ -1,0 +1,179 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Lock Lay Chin _v_ Kwan Jheng Ein Joseph  
+
+### \[2022\] SGMC 64
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate Court Suit No 2414 of 2021 (Assessment of Damages No 310 of 2022)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">04 November 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lewis Tan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Constance Margreat Paglar (C Paglar &amp; Co) for the Plaintiff; Tan Seng Chew Richard and Calvin Tan (Tan Chin Hoe &amp; Co) for the Defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Lock Lay Chin — Kwan Jheng Ein Joseph</td></tr></tbody></table>
+
+Damages – Assessment – Whether damaged vehicle a constructive total loss
+
+4 November 2022 - Judgment reserved.
+
+### Deputy Registrar Lewis Tan:
+
+## Introduction
+
+1       The question posed in this judgment is ostensibly simple: should a vehicle damaged close to the expiry of its Certificate of Entitlement (“COE”) be considered a constructive total loss, thus restricting the plaintiff’s claim to the cost of replacement plus consequential losses, or should the plaintiff be allowed to claim for the higher repair costs?
+
+2       Such an assessment has been complicated because reasonableness, stemming from a plaintiff’s duty to mitigate, has been introduced in the analysis of determining whether the vehicle or chattel ought to have been repaired.
+
+3       However, as I explain in this judgment, the cost of repair is but a proxy for assessing the plaintiff’s loss, being the diminution in value of the chattel. Where it is uneconomic to repair the chattel, the cost of repairs would not be the relevant proxy because the chattel would be deemed a constructive total loss, and so the plaintiff in such circumstances would often be limited to the cost of replacing the chattel, this being the better proxy for measuring his loss.
+
+4       Reasonableness, as it turns out, features little, if at all, in assessing whether the chattel is uneconomic to repair and thus a constructive total loss.
+
+## Brief facts
+
+5       This is Ms Lock Lay Chin’s (“the Plaintiff’s”) claim for cost of repairs and loss of use flowing from an accident caused by the Mr Kwan Jheng Ein Joseph’s (“the Defendant’s”) negligence on 11 February 2018. Interlocutory judgment on liability on a 100% basis has been obtained.[\[note: 1\]](#Ftn_1)
+
+6       The key issue before me, and on which parties differed, is whether the Plaintiff should be awarded the cost of repairing her vehicle, or whether such claim should be restricted to the economic loss that she would have suffered had she scrapped her vehicle and bought a replacement vehicle.
+
+7       In this regard, the Defendant submits that “it was not economical to repair the Plaintiff’s vehicle” and hence, “the Plaintiff’s vehicle should be considered a constructive total loss”, such that she ought to be awarded the cost of replacing her vehicle only.[\[note: 2\]](#Ftn_2)
+
+## Applicable principles
+
+8       As a matter of principle, where property is damaged, “the amount by which the value is diminished is _usually equated_ with the cost of repair” \[emphasis added\]. “However, where the chattel has been destroyed or is a _constructive total loss in the sense that it would be uneconomic to repair_, the _prima facie_ measure of damages is the value of the chattel at the time and place of destruction, plus any other consequential losses” \[emphasis added\]: _Yip Holdings Pte Ltd v Asia Link Marine Industries Pte Ltd_ <span class="citation">\[2012\] 1 SLR 131</span> (“_Yip Holdings_”) at \[13\].
+
+### Discussion of authorities: Arithmetic exercise or reasonableness analysis?
+
+9       What renders a chattel “uneconomic to repair”, such that it becomes deemed a constructive total loss? A review of the authorities reveal that this assessment is often dependent on whether the repair costs exceed the market value or replacement cost of the vehicle. Such an arithmetic exercise can be seen in the following decisions where the vehicle was found to have been a “constructive total loss” as the cost of repairs exceeded the vehicle’s market value:
+
+> (a)     In _Masterfox Connections Pte Ltd v N & I Transporation and another_ <span class="citation">\[2008\] SGMC 5</span>, a claimant who sued to recover a repair bill of $24,000, which was in excess of the net market value of the damaged chattel ($3,700) was found to have acted unreasonably in proceeding with the repair.
+
+> (b)     In _Luxx Newhouse Pte Ltd v Big-Foot Logistic Pte Ltd and another_ <span class="citation">\[2021\] SGMC 72</span> (“_Luxx Newhouse_”), the Deputy Registrar held that a vehicle was a “constructive total loss” because the cost of repair (being $20,500) clearly exceeded the market value of the vehicle less its COE rebate (being $10,200) (at \[89\]). As such, the diminution in value of the vehicle was assessed to be $10,200, being the loss in market value less the COE rebate.
+
+> (c)     In _Koh Tiam Ting v Soon Li Heng Civil Engineering Pte Ltd_ <span class="citation">\[2020\] SGDC 172</span> (“_Koh Tiam Ting_”), the cost of repairing the lorry ($55,105) far exceeded its replacement cost ($6,181) and the plaintiff failed to give any good reason for unreasonably repairing the lorry at this “exorbitant sum”. In the circumstances, the Deputy Registrar found that the lorry was a constructive total loss, and that the plaintiff’s damages ought to be confined to the replacement cost (at \[30\]).
+
+> (d)     In _Liew Yong Chian (formerly known as Liew Ka Song) t/a T Zone Towing & Recovery Services v Xia Guang Bin and another_ <span class="citation">\[2021\] SGDC 36</span> (“_Liew Yong Chian_”), the Deputy Registrar found that the truck was a constructive total loss, and that the plaintiff ought to have mitigated his loss by replacing rather than repairing the truck. This was because the replacement measure of loss ($34,019) was considerably lower than the repair measure of loss (at least $44,716.16). In the circumstances, “proceeding with the repairs was clearly not a reasonable option”, and so the plaintiff’s measure of loss was restricted to the cost of replacement plus the time needed to replace the truck (at \[7\]).
+
+10     Against the above authorities is the decision of _Ong Boon Tin Mrs Moh-Ong Boon Tin v Bernard Wu Kweng Mun_ <span class="citation">\[2021\] SGMC 47</span> (“_Ong Boon Tin_”). At the time of the accident in that case, the car’s COE had about 19 days to go before it expired. Nonetheless, the car was certified to be in “good” condition, and was of sentimental value to the plaintiff (at \[42\]). However, the cost of repairs of the car was $8,346, and this greatly exceeded its economic repair value or limit (“ERL”) of $500. This ERL had been calculated by taking the pre-accident market value of the plaintiff’s vehicle ($7,809) and subtracting the rebates provided by the Land Transport Authority (“LTA”) of $7,309.
+
+11     Notwithstanding the significant disparity between the repair cost and the ERL, the learned Deputy Registrar held that the car was _not_ a constructive total loss, and that the “plaintiff was reasonable, under the circumstances, to choose to repair her case” (at \[39\]). The reasons provided were threefold: First, there was no necessity to limit the life of the car to a mere 10 years as the COE scheme permits the renewal of a car once it is at its 10th year (at \[36\]). Second, and relatedly, the car was merely damaged and not destroyed (at \[37\]). Third, the evidence showed that the plaintiff had every intention to renew the COE of her car whether or not she met with the accident, and she did renew the COE for five years (at \[44\]). In those circumstances, and “\[g\]iven that there \[was\] still much usefulness of the car”, the judge “was unable to find that the plaintiff had acted unreasonably when she chose to repair her car” (at \[45\]). As such, the measure of damages was that of the cost of repairs, and not the ERL.
+
+12     The Defendant submits that _Ong Boon Tin_ was wrongly decided.
+
+### Duty to mitigate and the reasonableness analysis
+
+13     Before considering the correctness of _Ong Boon Tin_, it is important to refer to the frequently cited decision of _Darbishire v Warran_ <span class="citation">\[1963\] 1 WLR 1067</span> (“_Darbishire_”). In that case, the plaintiff bought a car for £330. He kept the car in good repair, but it was badly damaged in a collision for which the defendant admitted liability. Despite advice from the plaintiff’s repairer that repairing the vehicle would be “uneconomic”, the plaintiff proceeded to have his car repaired for £192. In the plaintiff’s evidence, he had not attempted to find a comparable car (which could be had for £80 to £100) as he knew his car to be reliable and suitable to his needs. The county court judge held that the plaintiff was reasonable in repairing his vehicle. However, this decision was reversed by the English Court of Apppeal (“ECA”) based on the plaintiff’s duty to mitigate. As Harman LJ explained in _Darbishire_ at 1076:
+
+> In my view it is impossible to find from the evidence that the plaintiff took all reasonable steps to mitigate the loss, or did all that he **_reasonably could do to keep down the cost_**_._ He was fully entitled to have his damaged vehicle repaired at whatever cost because he preferred it. But he was not justified in charging against the defendant the cost of repairing the damaged vehicle when that cost was more than twice the replacement market value and he had made no attempt to find a replacement vehicle. \[emphasis added\]
+
+14     Per _Darbishire_, reasonableness is at the heart of inquiry when considering the measure of damages that may be awarded to the innocent party. This focus on reasonableness stems from an innocent party’s duty to mitigate. As the Court of Appeal explained in the seminal decision of _The “Asia Star”_ <span class="citation">\[2010\] 2 SLR 1154</span> (“_Asia Star_”) at \[32\]: “The concept of _reasonableness_ in the context of mitigation is a flexible one. In essence, it bars an aggrieved party from profiting or behaving _unreasonably_ at the expense of the defaulting party…” \[emphasis added\].
+
+15     Viewed through this lens of reasonableness, the decision in _Ong Boon Tin_ is easily reconcilable. There, in answering the question of whether the plaintiff’s car was a constructive total loss, the learned Deputy Registrar stated: “\[t\]he question now is, whether the plaintiff was reasonable, under the circumstances, to choose to repair her car” (_Ong Boon Tin_ at \[39\]).
+
+16     Having posed the question as such, it appears that much weight was then placed on the fact that the plaintiff had formed an intention to renew her car’s COE _independently of the accident_. Her evidence in this respect was clear (_Ong Boon Tin_ at \[41\]):
+
+> I had no intention to scrap the car at all, and so, I never thought of that question. My idea was to renew the COE, whether got accident or not. So, it was never my intention of scrapping the car.
+
+17     Seen alongside the fact that the vehicle’s COE would expire in a very short period of about 19 days, that the vehicle was indubitably well maintained and suitable for a ten-year extension, the judge concluded at \[45\] that she was “unable to find that the plaintiff had acted _unreasonably_ when she chose to repair her car” \[emphasis added\]. This was particularly so as there appeared to be no replacement vehicle that could reasonably be obtained by the plaintiff (_Ong Boon Tin_ at \[45\]):
+
+> … The \[single joint expert\] had also opined that whilst the plaintiff would not be able to find another Toyota Rush in the open market for second\[-\]hand cars, a fair substitute would be the Daihatsu Terios. I did not appreciate the argument which the defendant raised, that the plaintiff should scrap her car, obtain the LTA rebates, and use the money to obtain a replacement vehicle which she could also renew the COE of. It would be _unreasonable_ to expect the plaintiff to do that when she and her husband had had her Toyota Rush for 10 years, being its first owners, knowing its performance and level of maintenance, and then to give it up and risk getting another second-hand car which they would be suspicious of its performance, amongst other issues. \[emphasis added\]
+
+18      _Ong Boon Tin_ was not the first decision to resort to the reasonableness analysis. In fact, in _Liew Yong Chian_ (\[9(d)\] _supra_), the learned Deputy Registrar expressly stated that the plaintiff “may not recover losses which he could have reasonably mitigated” (at \[6\]). Importing the reasonableness inquiry necessarily introduces subjectivity into the analysis, and this was recognised by the court in _Asia Star_ (\[14\] _supra_) (at \[31\] and \[45\]):
+
+> 31    … The requisite standard of reasonableness is said to be an objective one; yet, it clearly also takes into account subjective circumstances such as the aggrieved party’s financial position… The reasonableness inquiry, therefore, falls short of being purely objective.
+
+> …
+
+> 45    … In the final analysis, both Lord Macmillan’s comments in _Banco de Portugal_ \[_v Waterlow and Sons, Limited_ <span class="citation">\[1932\] AC 452</span>\] and the High Court’s remarks in _Jia Min Building Construction_ \[_Pte Ltd v Ann Lee Pte Ltd_ <span class="citation">\[2004\] 3 SLR(R) 288</span>\] merely suggest that the standard of reasonableness is to be applied in a practical and commonsensical way, with particular sympathy for the aggrieved party. These cautionary remarks do no more than colourfully reiterate what has already been factored into the subject element inherent in the reasonableness inquiry.
+
+19     This inherent subjectivity further bolsters the conclusion reached in _Ong Boon Tin_, where particular sympathy was accorded to the plaintiff, who had taken great pains to care for her car throughout her ownership with the intention of extending its lifespan past the ten-year mark (see _Ong Boon Tin_ at \[41\]–\[45\]).
+
+### The diminution in value of the chattel is a loss that cannot be mitigated
+
+20     However, in _Coles and others v Hetherton and others_ \[2014\] 3 All ER 377 (“_Coles_”), the ECA departed from its decision in _Darbishire_ (\[13\] _supra_), describing it “as an ‘aberration’” (_Coles_ at \[31\]). The decision in _Coles_ was aptly analysed in _Luxx Newhouse_ (\[9(b)\] _supra_) at \[21\]–\[29\]. I summarise the principles in those decisions as follows:
+
+> (a)     The loss that a plaintiff suffers upon an accident is immediate, being the diminution in value of the chattel. Such loss cannot be “mitigated” by having the chattel repaired free or for a lower cost, because it is not the cost of the repairs that constitutes the loss; the loss is the diminution in value of the chattel (_Coles_ at \[29\]).
+
+> (b)     The amount by which the chattel’s value has diminished is _usually_, but not always, equated to the cost to repair the chattel to its pre-damaged state. This is because the “cost of repairs is only evidence of the amount of the loss recoverable, viz the amount of the diminution in value of the chattel” (_Coles_ at \[31\]). Resorting to the reasonable cost of repair to determine the diminution in value is thus simply “a convenient practice” (_Coles_ at \[27\]), not an immutable principle.
+
+> (c)     Hence, where the damaged chattel is not capable of economic repair, the court will restrict the plaintiff’s claim to the loss in market value. This is described as a “constructive total loss” case, and the loss in market value here refers to the price at which the pre-damaged article, or a comparable one, could be purchased in the market. The reason why the loss in market value is selected in such an instance is because in such an instance, “the market value is the _better evidence_ of the diminution in the value of the property, and not the cost of repair” (_Luxx Newhouse_ at \[27\]).
+
+> (d)     On the other hand, even where the damaged chattel is capable of economic repair, a plaintiff who chooses to repair it at a cost which is not reasonable cannot recover the unreasonable cost as damages because that cost does not represent the diminution in value of the chattel (_Coles_ at \[32\]).
+
+21     Summarising the above, the loss to be awarded to a plaintiff who has his chattel damaged is the _diminution in value of the chattel._ In assessing the appropriate quantum, the cost of repair is often the best proxy. Even so, such cost of repair must be reasonable, because unreasonable repair costs would not properly represent the diminution in value of the chattel (_ie_, the plaintiff’s loss). However, where the chattel is uneconomic to repair and deemed a constructive total loss, the better evidence for assessing the plaintiff’s loss is the loss in market value of the damaged chattel plus any consequential losses such as the cost of renting another car while sourcing for a replacement vehicle. Such views were echoed in _Koh Tiam Ting_ (\[9(c)\] _supra_) at \[16\]:
+
+> In my judgment, I am inclined to take the view that _Darbishire_ … was correctly decided save for the qualification made in _Coles_, which is that the **_direct loss for damaged chattels should be the diminution in value, and as such the court should not have relied on the principles of mitigation in its analysis_**…. The relevant legal principles may be briefly expressed as follows. The normal measure of damages for chattels is the value by which the damaged chattel has diminished. _Prima facie_, the cost of repair required to restore the damaged chattel to its original condition as if the damage had not been done may evidence the diminution in value, assuming the chattel could be economically repaired. **_If the chattel is not capable of economic repair, the chattel would be treated as a constructive total loss and accordingly the diminution in value would generally be assessed by reference to its market value at the time of damage_**, assuming the chattel could be replaced in the open market. This approach broadly aligns with the principles pronounced by the High Court in _Yip Holdings_.
+
+> \[emphasis added in bold italics\]
+
+22     As such, the analysis must begin with ascertaining what is the best proxy for ascertaining the diminution in value of the chattel. This “may not necessarily be the same as the cost of repairs” (_JSD Corp Pte Ltd v Tri-Line Express Pte Ltd_ <span class="citation">\[2022\] SGHC 227</span> (“_JSD Corp_”) at \[65\]), for example in cases where it would be uneconomic to repair the chattel, such that it is to be deemed a constructive total loss. It is important therefore to first determine, particularly in cases where the cost of repairs is close to or higher than the market value of the chattel, whether it would be economic to repair the chattel. If the chattel is not economic to repair, the “_prima facie_ measure of damages \[would be\] the value of the chattel at the time and place of destruction, plus any consequential losses” (_Yip Holding_ (\[8\] _supra_) at \[13\]), and accordingly there would be no need to consider the cost of repairs, and whether such cost was _reasonably_ incurred.
+
+### Whether a chattel is uneconomic to repair
+
+23     How then does one ascertain whether a chattel is uneconomic to repair? In the authoritative decision of _Yip Holdings_, the facts were somewhat stark, as the plaintiff’s own expert witness testified that the crane was not viable to repair as it would cost US$500,000 to repair. By contrast, the crane’s scrap value in its damaged state was only US$100,000. On those facts, the judge readily agreed with the Assistant Registrar that it was uneconomic to repair the crane, and that it was a constructive total loss (_Yip Holdings_ at \[34\]–\[35\]).
+
+24     Nonetheless, guidance can be obtained from the recent decision of _JSD Corp_. In that case, Goh Yihan JC (“Goh JC”) referred to the case of _Darbishire_ as standing “for the proposition that it is only economical to repair a property up to its market value” (_JSD Corp_ at \[102\]). This is consistent with the _Coles_ court’s rationalisation of the result reached in _Darbishire_ (_Coles_ at \[30\]):
+
+> _…_ The problem arose \[in _Darbishire_\] because the claim was made for the total repair cost, which led the court into consideration of “mitigation of loss”. However, Harman LJ (in _Darbishire_\] gave the correct answer when he stated … that this car was not an “irreplaceable article” and **_as the cost of repairs greatly exceeded its value (before damage), “the car should be treated as a constructive total loss_** and the measure of damage is its value” …
+
+25     This approach is also consistent with the cases described at \[9\] above, which show that the exercise of assessing whether it is economic to repair a chattel entails an arithmetic exercise of comparing the cost of repair against the cost of replacement. As Goh JC further explained, a plaintiff “must … have enquired the estimated repair costs against the cost of replacement, and if not, _he takes the risk that it was not economical to repair the chattel”_ \[emphasis added\] (_JSD Corp_ at \[103\]).
+
+26     To shed further light on this, I refer to the recent decision of the Appellate Division of the High Court in _Lau Keuk Ling William Ignatius v Chan Chun Sheng Gary (NTUC Income Insurance Co-operative Limited, intervener)_ <span class="citation">\[2022\] SGHC(A) 14</span>. There, the court observed that “there was evidence that the appellant’s car was a constructive total loss” because while the repairer estimated that it would cost $150,000 to repair the car, its market value was only $79,800 (at \[90\]). In the circumstances, the appellant was only awarded “$37,959 in respect of his loss of his car as a result of the respondent’s negligence” (at \[91\]), this sum being the market value of his car ($79,800) less its salvage value after deducting the service charges incurred ($41,841). This decision, in my view, is further proof that where the cost of repairs far exceeds the market value of the chattel, the chattel would be considered uneconomic to repair and thus a constructive total loss.
+
+## Whether the Plaintiff’s vehicle was a constructive total loss
+
+27     Returning to the facts before me, it is clear that the Plaintiff’s car was uneconomical to repair, and thus a constructive total loss. Here, it is undisputed that the repair costs far exceeded the market value of the vehicle at the time of the accident. According to the single joint expert, Mr Pang Kiah Keen (“SJE”), the lump sum repair cost of the vehicle would be $9,800.[\[note: 3\]](#Ftn_3) By contrast, the SJE estimated that the market value of the Plaintiff’s vehicle, which had about five months left on its COE, was “approximately $9,000 to $9,500”, and that it had a paper (_ie_, scrap) value of $6,700. Accordingly, the net loss suffered by the plaintiff in having to scrap the car early would be $2,300 to $2,800.[^4] The cost of repair was therefore about _four_ times higher than the net loss suffered by the Plaintiff. The proper measure of her damages should thus be the sum of (a) the market value of her vehicle less its salvage/scrap value (“net loss”), and (b) consequential losses associated with obtaining a replacement vehicle.
+
+28     In assessing the net loss, I am guided in the main by the SJE’s assessment that net loss suffered by the Plaintiff was $2,300 to $2,800. This figure was obtained after deducting the scrap value of the car ($6,700) from its market value ($9,000 to $9,500). Accordingly, _if_ the Plaintiff had accepted that her car was a constructive total loss and ought to be replaced, she would have scraped her car and received $6,700 in return. This sum, along with the compensation for her net loss (of about $2,300 to $2,800), would have allowed her to purchase a similar replacement vehicle at about $9,000 to $9,500, for which she could then elect to extend the COE on. Having regard to the relatively high mileage of the vehicle at the time of accident (309,202km)[\[note: 5\]](#Ftn_5), I am of the view that the pre-accident market value of the Plaintiff’s car would likely be on the lower side, and as such, the sum of $2,550 submitted by the Defendant, being the middle point of the range of $2,300 to $2,800, is eminently reasonable. Therefore, I assess her net loss at the time of the accident at $2,550.
+
+29     Her consequential losses associated with replacing her vehicle would be the costs incurred in hiring a car while she sought a replacement. In this regard, parties agree that the rental rate ought to be $120 per day. This is as quoted in the rental agreement,[\[note: 6\]](#Ftn_6) and is also consistent with the range provided in Appendix F of the applicable State Courts Practice Directions. The Plaintiff submits that in the event that her vehicle is deemed a constructive total loss, she should be entitled to 42 days of rental. On the contrary, the Defendant submits that this should be limited to 14 days. In my view, there is some merit in the Plaintiff’s submission that there would be some inconvenience in having to source for a similar replacement vehicle that is worthy of COE renewal. However, taking 42 days to find a replacement vehicle is surely unduly long. In the absence of concrete evidence in this regard, I find guidance in the decision of _Liew Yong Chian_ (\[9(d)\] _supra_), where the Deputy Registrar accepted that 20 days would be sufficient for the plaintiff to find a replacement truck. A truck, while “uncommon \[is\] not unreasonably difficult to come by” (_Liew Yong Chian_ at \[23\]). The same can be said for a replacement vehicle capable of COE renewal, in particular given that the Plaintiff’s car, a Mitsubishi Lancer, is of relatively common make. In the circumstances, her consequential losses is assessed at $2,400, being $120 x 20 days.
+
+30     In total, it is adjudged that the Defendant shall pay the Plaintiff damages fixed at $4,950 ($2,550 plus $2,400), being the sum of her net loss and consequential losses.
+
+## Reasonableness of the Plaintiff’s election to repair
+
+31     The above is sufficient to dispose of this matter. Nonetheless, I recognise that certain decisions have imported the reasonableness analysis in assessing whether a plaintiff ought to be allowed to recover the cost of repairs. _Ong Boon Tin_ (\[10\] _supra_), a decision that was not appealed, is but one such example. In _Koh Tiam Ting_ (\[9(c)\] _supra_), while the Deputy Registrar recognised that “the court \[in _Darbishire_ (\[13\] _supra_)\] should not have relied on the principles of mitigation in its analysis” (_Koh Tiam Ting_ at \[16\]), he appeared to proceed to apply a reasonableness analysis (_Koh Tiam Ting_ at \[17\]):
+
+> … Upon realising that the repair would cost far more than it would to acquire a replacement lorry, a _reasonable man would have realised that it was not economical to repair the lorry_. … He would have instead acquired a replacement lorry from the open market. … \[emphasis added\]
+
+32     Nonetheless, even on the reasonableness analysis, I find that the Plaintiff acted unreasonably in deciding to repair her vehicle. I elaborate.
+
+33     According to the Plaintiff, she had decided to renew the COE for her car “\[a\]bout a year before the accident” which occurred on 11 February 2018,[\[note: 7\]](#Ftn_7) and she eventually did so on or about 26 June 2018. A key reason for the Plaintiff’s decision, it appears, is because she did not have any outstanding loan on the car at the time of the accident, and as she was able to pay for the 5-year COE renewal of $18,583 without taking a loan.[^8] As it has turned out, the vehicle has served her well, because while its mileage at the time of the accident was 309,202km,[^9] it has almost doubled in the intervening four-year period, to about 527,471km.[^10]
+
+34     Relatedly, notwithstanding the high mileage of the vehicle, the SJE testified that “it could have been driven” for five more years after the COE expired. Nonetheless, he confessed that it “might have more wear and tear, and \[that\] the vehicle would have breakdown \[_sic_\] more often”.
+
+35     As such, there is nothing on the evidence to suggest that the vehicle was in an undriveable condition, such that the Plaintiff was irrational in coming to her decision to renew the COE for five years.
+
+36     However, the practical realities must be given due heed. While the Plaintiff might have decided, prior to the accident, to renew the COE on her vehicle, she has not properly explained why, following the accident, she then insisted on repairing her vehicle and renewing the COE. Bearing in mind that the original repair quotation was $13,800,[\[note: 11\]](#Ftn_11) and about _five_ times the net loss suffered by the Plaintiff if she elected to scrap the car and seek a replacement, one is left to wonder whether the Plaintiff would have indeed gone ahead with the repair if she did not have the perception of security from this insurance claim.
+
+37     This is in particular as the mileage on the Plaintiff’s vehicle at the time of the accident was already relatively high, and the vehicle was, according to the SJE, more susceptible to breaking down. In this case, it would have been more sensible for the Plaintiff to simply scrap her vehicle (for $6,700) and recover the net loss (of about $2,300 to $2,800) that she suffered along with the cost of renting a vehicle during the time needed to find a replacement vehicle. Utilising the scrap value and the net loss recovered, the Plaintiff could have purchased an equivalent vehicle for approximating $9,000 to $9,500, and proceeded to renew the COE on the same vehicle thereafter. As mentioned, the Plaintiff’s vehicle is a Mitsubishi Lancer, a relatively common car, and there is nothing in the evidence to suggest that she would have had any difficulties in obtaining a replacement vehicle. Indeed, such a replacement would likely have had a lower mileage than her vehicle, and could thus have put the Plaintiff in a similar but arguably _better_ position.
+
+38     Instead, she elected to repair her vehicle for a quoted sum of $13,800. Following the SJE’s recommendation of $9,800 for the repair cost, the Plaintiff has _belatedly_ agreed to reduce her claim for the cost of repair to $9,800. Nonetheless, by agreeing to repair her vehicle in 2018, she was agreeing to expose the Defendant to a repair bill of around $13,800. On any measure, this was surely unreasonable especially when considered against her net loss of about $2,300 to $2,800.
+
+39     As a result, even if reasonableness features in the assessment of whether a chattel is economic to repair, I am driven to find that the Plaintiff’s car was a constructive total loss. Her claim should thus be restricted to her net loss and consequential loss, assessed at $4,950.
+
+## Conclusion
+
+40     In conclusion, the Plaintiff’s car was plainly uneconomic to repair and thus a constructive total loss. This was caused in the main by its expiring COE, which lowered its market value and rendered her net loss far lower than the repair costs. Having elected nonetheless to repair her vehicle, the Defendant ought not to be liable for the full measure as of her repair costs as this does not represent the loss or diminution in value of her car (a constructive total loss) following the accident.
+
+41     Indeed, applying the reasonableness analysis, one is led to the same conclusion that the Plaintiff acted unreasonably in electing to repair, and as such, her damages should be restricted to the sum of her net loss and consequential loss, being $4,950, and I so adjudge.
+
+42     As parties have not submitted on whether interest ought to apply on the above sum, I will hear parties on interest and costs on a separate date.
+
+* * *
+
+[\[note: 1\]](#Ftn_1_1)MC/JUD 4155/2021.
+
+[^2]: Defendant’s Closing Submissions at \[11\].
+
+[^3]: BOD 78.
+
+[^4]: BOD 83.
+
+[^5]: BOD 57.
+
+[^6]: BOD 35.
+
+[^7]: SAEIC \[4\].
+
+[^8]: SAEIC \[8\] and \[9\].
+
+[^9]: BOD 57.
+
+[^10]: BOD 104.
+
+[^11]: BOD 37.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F28986-SSP.xml)

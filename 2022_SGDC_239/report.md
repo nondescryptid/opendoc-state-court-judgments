@@ -1,0 +1,339 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Gosling Andrew  
+
+### \[2022\] SGDC 239
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No 924801 of 2019 &amp; Anor, Magistrate's Appeals No 9067-2022-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">11 October 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Victor Yeo Khee Eng</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Deputy Public Prosecutor G Kannan, Thiagesh Sukumaran and Ben Tan (Attorney-General's Chambers) for the Public Prosecutor; Mr N Sreenivasan S.C and Mr S Balamurugan (M/s K&amp;L Gates Straits Law LLC) and Ms Gloria James and Mr Kevin Liew (M/s Gloria James-Civetta &amp; Co) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Gosling Andrew</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Sentencing – Causing Death by a Rash Act not amounting to Culpable Homicide – Causing Grievous Hurt by a Rash Act to endanger Human Life
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9067/2022/01.\]
+
+11 October 2022
+
+### Principal District Judge Victor Yeo Khee Eng:
+
+## Introduction
+
+1       This is an appeal against sentence by the Accused, Mr Gosling Andrew, a 49-year-old Australian national, who pleaded guilty to one charge of causing death by a rash not amounting to culpable homicide under s 304A(a) Penal Code (Cap 224, Rev Ed 2008), and one charge of causing grievous hurt by a rash act which endangers life or the personal safety of others under s 338(a) Penal Code (Cap 224, Rev Ed 2008).
+
+2       The charges read as follows: -
+
+> 1st Charge (DAC-924801-2019) \[“ **First Charge** ”\]
+
+> You, \[Accused\], are charged that you, on the 18th day of August 2019, at or about 8.35 pm, at Spottiswoode 18 (“the Condominium”), located at 18 Spottiswoode Park Road, Singapore 088642, did cause the death of Nasiari Bin Sunee (“Nasiari”), by doing a rash act not amounting to culpable homicide, to wit, by throwing a wine bottle from the 7th floor lift lobby of the Condominium towards the table area on the 5th floor of the said Condominium, which bottle struck Nasiari on his head, causing head injuries which led to Nasiari’s death, and you have thereby committed an offence punishable under Section 304A(a) of the Penal Code (Rev. Ed 2008, Cap 224).
+
+> 2nd Charge (DAC-933441-2019) \[“ **Second Charge** ”\]
+
+> You, \[Accused\], are charged that you, on the 18th day of August 2019, at or about 8.35 pm, at Spottiswoode 18 (“the Condominium”), located at 18 Spottiswoode Park Road, Singapore 088642, did cause grievious hurt to one Manisah Binte Sitri (“Manisah”) by doing an act so rashly as to endanger human life, to wit, by throwing a wine bottle from the 7th floor lift lobby of the Condominium towards the table area on the 5th floor of the Condominium, which bottle struck Manisah on her right shoulder, resulting in injuries which caused her to be unable to follow her ordinary pursuits during the space of 20 days, and you have thereby committed an offence punishable under Section 338(a) of the Penal Code, Cap 224, 2008 Rev. Ed
+
+## Prescribed Punishment
+
+3       For the First Charge for causing death by a rash act not amounting to culpable homicide under s 304A(_a_) Penal Code, the prescribed punishment is an imprisonment term which may extend to 5 years, or with fine, or with both.
+
+4       For the Second Charge for causing grievous hurt by a rash act which endangers life or the personal safety of others under s 338(_a_) Penal Code, the prescribed punishment is an imprisonment term which may extend to 4 years, or a maximum fine of $10,000, or with both.
+
+5       The Accused was sentenced to four (4) years’ imprisonment for the First Charge and 18 months’ imprisonment for the Second Charge. I further ordered that the sentences run consecutively, making an aggregate sentence of **four (4) years’ and 18 months’ imprisonment**. The sentence was ordered to commence with effect from the date of the Accused’s surrender on 28 August 2019. These are the reasons for the sentence imposed.
+
+## Statement of Facts
+
+6       The Accused admitted to the Statement of Facts (“SOF”) without qualification.
+
+7       The SOF revealed that the accused, 49 years old, is an Australian National. He was unemployed at the material time.
+
+8       The two victims are Mr Nasiari Bin Sunee (“the first victim”), 73 years old, and Mdm Manisah Binte Sitri (“the second victim”), 69 years old. They were husband and wife.
+
+9       On 18 August 2019 at about 8.38 p.m., one Mr Mohd Razi called ‘999’ to lodge a police report that “someone threw a bottle down to where they were having a BBQ, and that someone is injured and the bottle hit his head.”
+
+10     The location given was Apartment Block 18, Spottiswoode Park Road, Spottiswoode 18, Singapore 088642. Police and ambulance resources were deployed to the scene.
+
+11     The SOF revealed that the Accused entered Singapore on 15 July 2019 for the purposes of seeking employment. After he had applied for his work pass with the Ministry of Manpower, the Accused sought accommodation in Singapore. On 9 August 2019, he began renting unit #XXX (“the unit”) at Spottiswoode 18 condominium (“the condominium”), located at 18 Spottiswoode Park Road, Singapore 088642.
+
+12     On 18 August 2019, the Accused met an acquaintance, one “Chak” for lunch. After lunch, the Accused and “Chak” drank a pint of beer each at a bar at about 3.00 p.m. The Accused returned to the unit at about 3.30 p.m. and went for a swim at the swimming pool, located at the 5th floor of the condominium.
+
+13     While the Accused was swimming, he noticed that a group of persons were having a barbeque (“the BBQ group”) on the 5th floor next to the swimming pool (“the BBQ area”). The two victims would later join the BBQ group.
+
+14     From the photograph of the BBQ area taken at around 5.12 p.m., it showed a number of people (about 13 persons) who were present at the BBQ area at that time.
+
+15     Following his swim, the Accused left the condominium at about 6.00 p.m. to have dinner at Tanjong Pagar Hawker Centre. During dinner, the Accused drank two large bottles of Tiger Beer. Each bottle contained 640 ml of beer. After dinner, the Accused returned to his condominium unit at about 7.00 p.m. At the unit, the Accused drank a can of Anchor beer containing 330 ml of beer. He consumed the beer at the balcony of the unit, which overlooked the swimming pool. The Accused admitted during police investigations that, at this juncture, he knew that he was a “bit drunk”.
+
+16     From his balcony, the Accused could see the BBQ group. He observed that the BBQ group comprised of individuals belonging to the Malay/Muslim community because he noticed several of the females in the BBQ group wearing headscarves. At this stage, the two victims had joined the BBQ group. There were an estimated 10 to 15 people who were part of the BBQ group at this point of time.
+
+17     The Accused admitted that whilst at his balcony, and upon seeing Malay/Muslim persons at the BBQ area, the thought crossed his mind that he ought to use a weapon, such as a gun, to shoot at the BBQ group. However, he dismissed this thought because he felt that it would be a “heinous” act.
+
+18     Sometime before 8.30 p.m., the Accused left his unit on the 7th floor to dispose of his rubbish at the common rubbish chute, which was located at the lift lobby of each floor. As the Accused lived on the 7th floor, he proceeded to dispose of his rubbish at the rubbish chute that was located at the lift lobby of the 7th floor. The 7th floor lift lobby overlooked the BBQ area on the 5th floor. As he disposed of his rubbish, the Accused had a clear view of the BBQ group below at the BBQ area, and could see 12 to 15 people thereat.
+
+19     At the rubbish chute, the Accused found an empty wine bottle (“the bottle”), measuring a length of 30.1 cm, and weighing about 0.62 kg.
+
+20     Sometime around 8.35 p.m., the Accused held the bottle by its neck, using his right hand. He raised the bottle behind his head and flung it downwards, using an over-arm throwing motion, aiming the bottle towards the area in which the tables at the BBQ area were located (“the table area”). Members of the BBQ group were gathered at the table area.
+
+21     When the Accused threw the bottle from the 7th floor of the condominium, the two victims were seated at one of the tables.
+
+22     The height between the 5th floor and the 7th floor of the condominium is 10.53 metres. The approximate distance between the accused’s position at the 7th floor of the condominium and the first victim’s position was about 18.29 metres.
+
+23     After the Accused threw the bottle, he ran back towards his unit. While running back towards his unit, the Accused shouted abusive words against Muslim. The Accused ran back to his unit because he did not want anyone from the BBQ group to have seen him throwing the bottle from the 7th floor.
+
+24     The bottle thrown by the Accused flew through the air downwards towards the BBQ group and struck the first victim on his head. The bottle ricocheted off his head before hitting the second victim on her right shoulder. After hitting the second victim, the bottle landed on the ground and remained unbroken.
+
+25     The first victim collapsed on the ground and was rendered unconscious. He was later conveyed by an ambulance to Singapore General Hospital (“SGH”). When the ambulance arrived, the paramedics noticed that the victim was semi-conscious and was groaning in pain.
+
+26     The second victim subsequently found that she could not raise her right arm, and a second ambulance was called to convey her to SGH.
+
+27     The Accused admitted during police investigations that he threw the bottle towards the table area for two reasons:
+
+> a.     The Accused threw the bottle as an act of mischief as he wanted to startle the BBQ group when the bottle hit the ground and broke upon impact; and
+
+> b.     The Accused committed the act as he was angry and upset at the terrorist attacks committed by Islamic fundamentalist groups in Bali and Melbourne, that had killed Australian citizens.
+
+28     The Accused admitted that he had acted rashly in throwing the bottle from the 7th floor towards the table area. When he did so, he was aware that there were people seated at, and standing around the tables in that area. The Accused was fully aware of the risks associated with throwing the bottle towards the table area. Specifically, the Accused was aware that there was a risk that the bottle he threw from such a height would strike one or more persons at or around the table area, causing death and/or serious injuries. Although the Accused was aware of these risks, he considered these risks to be “low” and did not do anything to mitigate the risk of the bottle hitting someone.
+
+29     Accordingly, by throwing the bottle towards the table area, the Accused took a conscious and deliberate risk that the bottle would strike one or more persons at or around the tables in the area, causing death and/or serious injury to them. In doing so, the Accused demonstrated a clear heedlessness towards the said risk of resulting death and/or serious injury.
+
+30     A medical report dated 9 October 2019 by Dr Kesigan Sayaloibavan, Registrar, Department of Neurosurgery, SGH indicated that when the first victim reached hospital, he was found to have a Glasgow Coma Score[\[note: 1\]](#Ftn_1) of 3 (i.e., completely unresponsive) and was non-reactive to light. Additionally, a scan of his brain showed extensive bleeding in the brain, and multiple skull fractures, and in particular:
+
+> a.     Extensive Acute Subarachnoid Haemorrhage;
+
+> b.     Subdural Haemorrhage, which was predominantly along the left parietal convexity; and
+
+> c.     Multiple displaced/depressed skull vault fractures
+
+31     The first victim’s prognosis was poor and he subsequently passed away on 19 August 2019 at about 9.18 a.m. The Autopsy Report by Associate Professor Teo Eng Swee, Senior Consultant Forensic Pathologist of the Health Sciences Authority (“HSA”) dated 20 August 2019 stated that the cause of death was head injury. The head injuries which led to his death were caused by the Accused’s act of throwing the bottle towards one of the tables at the BBQ area.
+
+32     The Accused thus caused the death of the first victim by doing a rash act not amounting to culpable homicide by throwing the bottle from the 7th floor of the condominium towards the table area on the 5th floor of the condominium, which subsequently struck the first victim on his head, thereby causing his death. The Accused has accordingly committed an offence under s 304A(a) of the Penal Code (“PC”).
+
+33     As a result of the bottle hitting the second victim, she suffered injuries to her right shoulder. A medical report dated 10 September 2019 by Dr Ho Shu Fang, a medical officer from the Department of Emergency Medicine, indicated the following:
+
+> a.     There was extensive bruising seen over the anterior aspect of the right shoulder.
+
+> b.     There was a mild superficial skin abrasion.
+
+> c.     There was tenderness over the ecchymosis region.
+
+34     These injuries suffered by the second victim were caused by the Accused throwing the bottle towards the table area. The treatment of the second victim’s injuries involved her right arm being placed in a sling for approximately 2 months. This caused the second victim to be unable to follow her ordinary pursuits during the space of 20 days after the bottle had hit her, and the hurt caused by the Accused to the second victim was therefore “grievous hurt” as defined under s 320(h) PC.
+
+35     Accordingly, the Accused caused grievous hurt to the second victim by doing a rash act when the bottle he threw towards the table area struck the second victim on her right shoulder, causing her to be unable to follow her ordinary pursuits during the space of 20 days. The accused has thereby committed an offence under s 338(a) PC.
+
+## Events that occurred after the commission of the offences
+
+36     The SOF also revealed that after the two victims were conveyed to hospital, approximately 25 police officers were deployed to the condominium to conduct investigations into the incident. The police officers deployed to the scene engaged residents who lived on the 7th floor, including the Accused, to enquire whether they had seen anyone throw a bottle from the 7th floor. The Accused’s conversation with the police officers when they knocked on his door and engaged him were recorded by a Body Worn Camera (“BWC”) worn by Sergeant (1) Edmund.
+
+37     From the transcript of the conversation, the Accused made reference to the Muslim party and the BBQ group in his conversation with the police, but he did not admit that he had thrown a bottle at the direction of the table area.
+
+38     As part of police investigations into establishing the identity of the person who threw the bottle, police officers subsequently interviewed all residents at the condominium by way of a questionnaire. On 20 August 2019, the Accused was interviewed at his unit. The Accused was told that the police were investigating into an offence of a rash act that had caused death, that occurred at the condominium. The Accused was asked whether he was at home between 8 and 9 pm on 18 August 2019 and he answered in the affirmative.
+
+39     When asked whether he had noticed any unusual occurrence, such as a commotion or quarrel, while he was at home, the Accused answered as follows:
+
+> _I saw some Muslim people having BBQ and some other people swimming in the pool, but there was no commotion._
+
+40     When the Accused was shown the wine bottle that struck the first victim, he recognised the bottle as the one he had thrown towards the table area. However, the Accused lied and told the officers that he had not seen the bottle before. The Accused also did not inform the police that he had in fact thrown the bottle that struck the victim.
+
+41     On 23 August 2019, the Accused was instructed to present himself at Central Police Division to provide a statement to the Police about the events that occurred on 18 August 2019. During an interview with Inspector Ang Wee Kiat, the Accused was asked whether he knew why he had been called for a police interview. The Accused informed Inspector Ang that he was aware of what had happened to the victim on 18 August 2019, and had read about the incident in the news and on the Internet.
+
+42     During the interview, the Accused stated that he had seen the BBQ group, but did not admit that he had thrown the bottle that had caused the death of the first victim. The Accused also stated that he did not see anyone deliberately throw anything down from the condominium. The Accused thereafter provided a DNA sample and his fingerprints to the Police.
+
+43     After providing his DNA and fingerprints to the police, the Accused realised that the bottle might be traced back to him as he had held it prior to throwing it at one of the tables at the BBQ area. On 28 August 2019, about 10 days after the Accused had committed the offences, the Accused surrendered to the police and admitted that he had thrown the bottle which had struck the two victims.
+
+44     The SOF revealed that between 18August 2019 and 28 August 2019, the Police had conducted the following investigations:
+
+> a.     Conducted 219 interviews on-site with all the residents of the condominium.
+
+> b.     Recorded 87 statements from the residents of the condominium and 27 statements from the first victim’s next of kin.
+
+> c.     Obtained 92 DNA swabs from residents of the condominium, which had been sent to the HSA for processing.
+
+> d.     Obtained 92 fingerprint samples from residents of the condominium.
+
+## Psychiatric Reports
+
+45     Following the Accused’s arrest, he was assessed by Dr Christopher Cheok (“Dr Cheok”) of the Institute of Mental Health. On 13 September 2019, Dr Cheok issued a report which stated the following:
+
+> a.     The accused had alcohol intoxication around the time of the alleged offence. He had a past history of anxiety disorder. He was not intellectually disabled.
+
+> b.     There was no contributory link between his mental illness and his alleged offence.
+
+> c.     He was not of unsound mind at and around the material time of the alleged offence.
+
+> d.     He was fit to plead in a Court of Law.
+
+46     On 3 May 2021, Dr Cheok issued a joint report with Dr Munidasa Winslow, who was engaged by the Defence to assess the Accused. The joint report stated the following:
+
+> a.     The accused was inebriated, but the amount of alcohol that he consumed was within his usual limits. The effects of his alcohol consumption would not have been severe enough to remove his culpability for the offence.
+
+> b.     The level of alcohol use did contribute to his alleged offence as he was intoxicated and disinhibited. There was some impairment of judgement, but not to the extent of unsoundness of mind.
+
+> c.     With respect to the Accused’s anti-Muslim thoughts that he had at the time of the offence, these were obsessive negative thoughts which he was prone to when intoxicated and did not represent the Accused’s true feelings or intentions. The Accused’s thoughts were likely a product of his impaired mental state at that time and are not genuinely reflective of any anti-Muslim sentiments.
+
+> d.     The Accused tends to experience obsessive negative thoughts when he consumes alcohol. These thoughts were infrequent and did not represent his true intentions. What this meant was that, even if he had committed the alleged offence, it was unlikely to be religiously motivated.
+
+## Victim Impact Statement (“VIS”) of the second victim
+
+47     A VIS was recorded from Mdm Manisah on 28 January 2022, wherein she stated the background of her relationship with her late husband. They have been married for about 45 years and she was a full-time housewife. They had four children. She also shared the financial impact on her as she was heavily reliant of the first victim’s salary as a van driver. Since his passing, her children now help her with the household expenses.
+
+48     In the VIS, the second victim also stated the physical injuries caused by the offences. She had pain and swelling on her shoulder for a few weeks and could not carry heavy items with her right arm. She found it difficult to undertake her daily activities as her right arm was in a sling. While she does not feel any pain currently, she still has difficulty carrying heavy items with her right arm.
+
+49     More significantly, the second victim stated the emotional impact of the offences on her. As her husband’s passing was very sudden, it took her some time to come to terms with his death. She still has flashbacks of the incident and feels her big loss, especially in the evenings when they would spend time together after the first victim came home from work. His absence is felt more during the fasting month and during family gatherings. The second victim’s family would gather during the fasting month to pray together. She now feels that something is missing because of the first victim’s absence. Her teenage grandson now stays at her house on weekdays to accompany her as her family is concerned that she would feel lonely.
+
+## Prosecution’s Submissions on Sentence
+
+50     For the two offences that the Accused has been convicted of, the Prosecution submitted that a harsh and severe sentence was warranted, underpinned by the sentencing principles of _general deterrence_ and _retribution_.
+
+51     With respect to _general deterrence_, the Prosecution submitted that the Court must send an unequivocal signal that offences that are coated with religious hostility have no place in a multi-racial and multi-religious Singapore. Public interest demands a stiff and stern rebuke by way of a deterrent sentence.
+
+52     On a broader level, the offences stemmed from an act akin to killer litter. Given that the majority of Singapore’s population live in high-rise apartments, there are strong public policy considerations that warrant a deterrent sentence.
+
+53     With respect to _retribution_, the Prosecution submitted that the overall sentence must be proportionate to the harm caused on three levels. First, the overall sentence must reflect the high level of harm and culpability in this case. Second, offences that involve religious hostility demand that the sentence imposed should be retributive in nature. Third, retribution must be at the forefront of the sentencing analysis to adequately address the significant societal outrage triggered by such offences.
+
+54     Accordingly, the Prosecution submitted that a sentence of 4½ years’ imprisonment for the First Charge under s 304A(a) PC, and 2½ years’ imprisonment for the Second Charge under s 338(a) PC would be appropriate.
+
+55     Given the overall criminality of the Accused, that the offences involved two different victims, and the unprecedented egregiousness in this case, the Prosecution urged the Court to order that both sentences run consecutively, making a global sentence of seven (7) years’ imprisonment.
+
+## Mitigation and Defence’s Submission on Sentence
+
+56     In his mitigation plea, the Defence highlighted the Accused’s personal background. He is the middle child of three brothers born in Melbourne, Australia. Since he graduated from the Royal Melbourne Institute of Technology in 1996, obtaining a bachelor’s degree in Business, he had largely worked and lived abroad in countries like the United Kingdom, Germany, Spain, Tunisia, Turkey, Romania, and Malaysia. He shares a close relationship with his family.
+
+57     At the time of the incident, he had been in Singapore for about one month. He had an employment contract as an Information Technology (IT) Professional in Singapore, and he was waiting for his work pass to be approved.
+
+58     The learned Counsel highlighted the circumstances surrounding the offences and the Accused’s mental condition at the material time of the offence. In this regard, the Defence highlight the joint report prepared by Dr Christopher Cheok (Senior Consultant Psychiatrist, IMH) and Dr Munidasa Winslow (Senior Consultant Psychiatrist, Promises Healthcare) and Ms June Fong (Senior Forensic Psychologist, Promises Healthcare).
+
+59     The learned Counsel submitted that the joint report should be accorded full weight and highlighted that the medical reports go to show that:
+
+> (a)     The Accused’s actions in the course of the incident did not reflect his true intentions and were unlikely to have been religiously motivated.
+
+> (b)     The words that the Accused uttered did not carry the weight of any anti-Muslim tendencies – rather, they were a result of his negative obsessive thoughts that manifested while he was intoxicated, and a product of his disinhibited and impaired mental state at the time and the fact that he was prone to negativity when he drank.
+
+> (c)     The Accused also did not have the intention of harming the deceased or the deceased’s family members and that the entire incident happened in a moment of pure rashness when he was mentally disinhibited from his use of alcohol.
+
+> (d)     The Accused has a low risk of reoffending and there is no need for specific deterrence.
+
+60     The Defence highlighted the mitigating factors, namely, that the Accused is a first-time offender; that he has pleaded guilty and he is genuinely remorseful; and that he had turned himself in to the police on 28 August 2019 when he could have easily left Singapore. The Accused has also not applied for bail to be granted, and has also made compensation to the victims’ family.
+
+61     The Defence submitted for a sentence of two (2) to three (3) years’ imprisonment for the First Charge. For the Second Charge, the Defence submitted for a sentence of six (6) to 12 months’ imprisonment. Further, the Defence submitted that the sentences for both charges ought to run concurrently, given that the offence arose from one single transaction and from the same act. Accordingly, the Defence submitted for a global sentence of two (2) to three (3) years’ imprisonment.
+
+## Sentencing Considerations
+
+### Sentencing principles for the First Charge under s 304A(a) PC
+
+62     In deciding on the appropriate sentence to impose, I considered the general sentencing principles that are applicable to the present case. In my view, the predominant sentencing considerations in the present case must be one of general deterrence and retribution.
+
+63     The principle of general deterrence aims to educate and deter other like-minded members of the general public by making an example of a particular offender: _Public Prosecutor v Law Aik Meng_ <span class="citation">\[2007\] 2 SLR (R) 814</span> (“_Law Aik Meng_”).
+
+64     In this respect, I agreed with the Prosecution that the present offence involved an element of demonstration of religious hostility towards Muslims. The Accused had first noticed the BBQ group at the BBQ area when he had gone for an afternoon swim. When he returned to his condominium unit a few hours later after his dinner, he observed that the BBQ group comprised of individuals belonging to the Malay/Muslim community. At first, he thought of using a weapon such as a gun to shoot at the BBQ group but dismissed the thought because he felt that it would be a “heinous” act.
+
+65     Later, when he left his unit to dispose of his rubbish, he had a clear view of the BBQ group. He flung the empty wine bottle which he found at the rubbish chute towards the area in which the tables at the BBQ area were located. After he had flung the bottle, he ran back towards his unit while shouting crude, religiously-charged vulgarities about Muslims.
+
+66     While I note that Dr Cheok and Dr Winslow were in agreement that the Accused’s negative religious thoughts during the time of the offence were likely a “product of his impaired mental state at that time” as the Accused was intoxicated with alcohol and disinhibited, and were “not genuinely reflective of any anti-Muslim sentiments”, and that it is “unlikely to have been religiously motivated”, I could not disregard the gravity of the matter. This was a completely senseless and unprovoked attack by the Accused against the group on account of them belonging to the Malay/Muslim community. In my view, such offences could seriously undermine Singapore’s racial and religious harmony and must not be tolerated, and must be firmly dealt with.
+
+67     Preserving and building inter-racial and inter-religious harmony in Singapore is sacrosanct, and the Accused’s conduct can have a wider impact of causing unease amongst the broader Muslim community, and threatens to engender public disquiet. Hence, a deterrent sentence is necessary to dispel any unease or disquiet that may emanate from the offence: (_Law Aik Meng_ at \[25(c)\]).
+
+68     Another strong public policy consideration relates to the offence of “killer-litter”. Given that the vast majority of Singapore’s population resides in high-rise apartments and flats, such offences must be dealt with severely to signal that such behaviour is wholly unacceptable, and deter like-minded individuals from deliberately throwing dangerous objects from high-rise buildings before the problem becomes unmanageable. Hence, a much stronger signal of abhorrence against such unacceptable anti-social behaviour must be sent by imposing a very stiff custodial sentence. (_PP v Lim Choon Teck_ <span class="citation">\[2015\] 5 SLR 1395</span> at \[48\].)
+
+69     In the present case, the Accused’s conduct of deliberately throwing the wine bottle from the 7th floor lift lobby towards the table area where he saw the groups of Malay/Muslim persons gathered at for a BBQ is egregious and akin to a “killer-litter” offence. Such “killer-litter” offenders are often difficult to identify and apprehend, and significant police resources is required to investigate and apprehend the culprit, as could be seen in the present case. Between 18 August 2019 to 28 August 2019, the Police had conducted, _inter alia_, 219 interviews on-site with all the residents of the condominium, and recorded about 114 statements from residents and the next-of-kin of the victims. DNA swabs and fingerprints samples were also obtained from the residents of the condominium.
+
+70     As the Accused threw the bottle, he shouted religiously-charge pejoratives about Muslims in their direction while running back towards his unit. Prior to the incident, when he was at his balcony and saw the group, he thought of using a weapon, such as a gun, to shoot at the BBQ group. However, he dismissed this thought because he felt that it would be a “heinous” act. Moreover, one of the reasons he committed the act was because he was angry and upset at the terrorist attacks committed by Islamic fundamentalist groups in Bali and Melbourne, which targeted Australian nationals.
+
+71     Quite clearly, at the time of committing the offence or immediately before committing such offence, the Accused’s conduct could be viewed as demonstrating religious hostility towards the group, notwithstanding that the Accused had alcohol intoxication around the time of the alleged offence and both the psychiatrists opined that these thoughts do not represent his true intentions and it is unlikely to have been religiously motivated.
+
+72     In my view, the objective evidence showed that the Accused had observed the group and identified them as belonging to the Malay/Muslim community earlier on in the evening when he went for a swim. Upon seeing them at the BBQ area, he harboured thoughts of causing harm to them. The offensive words he uttered as he threw the bottle also revealed his hostility towards them. However, that said, I do note that the occurrence of the incident was brief and that it was not repeated.
+
+73     The second dominant sentencing consideration in the present case is retribution or the just desserts theory. The punishment meted out to the offender should reflect the degree of harm caused and the offender’s culpability. The greater the degree of harm or culpability, the more severe the punishment should be.
+
+74     With respect to the first charge under s 304A(_a_) PC, the harm caused by the offence is, by definition, the causing of death of the victim. As such, the death of the victim should not be considered as an aggravating factor given that this is an ingredient of the charge itself.
+
+75     However, in the present case, this court must consider the “ancillary harm” caused to the first victim’s wife, and in this regard, the court could not ignore the Victim Impact Statement (“VIS”) provided by Mdm Manisah in assessing harm. As provided in s 228(7) of the CPC, ‘victim impact statement’ means any statement relating to any harm suffered by _any person_ as a direct result of an offence, which includes physical bodily harm or psychological or psychiatric harm.
+
+76     Hence, a sentencing court may consider the harm occasioned, not only by the immediate victim, but by “any person”, including, _inter alia_, the wife of a victim to be an aggravating factor.
+
+77     Having read the VIS, the emotional and economic impact on Mdm Manisah, as a result of her husband’s sudden passing, and her witnessing the deadly incident first-hand was palpable. I do not propose to go through the relevant portions of the VIS, save to observe that Mdm Manisah still suffered flashbacks of the incident more than two years later. Hence, I would agree with the Prosecution’s submission that on the issue of harm, the overall harm caused in this present case may be considered to be moderate harm.
+
+78     I next turn to consider the degree of rashness to determine the extent of the Accused’s culpability and blameworthiness. In my assessment, based on the SOF admitted to without qualification by the Accused, there was a serious disregard for the risks and danger involved in his reprehensible conduct.
+
+79     As highlighted by the Prosecution, the Accused had exhibited a _high_ degree of rashness when he hurled the empty wine bottle from a considerable height and the projectile struck the head of the first victim. The Accused was fully aware that there was a risk that the bottle he threw from the 7th floor would strike one or more persons at around the table area, and cause either a serious injury and/or death.
+
+80     Prior to throwing the bottle, the Accused already knew that there were quite a number of persons gathering at the table area. There were 12-15 persons who were either seated or standing around and it would have been obvious to the Accused that there was a heightened risk of someone getting seriously hurt or killed when he proceeded with his actions.
+
+81     Furthermore, the Accused aimed towards the group to startle the persons gathered there. Considering that there was a significant number of persons who were gathered around this area and that there was a risk that the bottle he threw would strike one or more persons at or around this area, causing death and/or serious injury, the degree of rashness fell at a high level. In my assessment, there was significant advertence to the obvious risks involved. The Accused’s act of hurling the bottle was dangerous and unsafe, and he must be conscious of the danger. However, he disregarded the safety of the group and proceeded with his actions and this resulted in one death and another victim suffering grievous hurt.
+
+82     I next turn to the aggravating factors present in this case. As discussed above, I was of the view that the offences were religiously aggravated as the Accused had demonstrated religious hostility towards Muslims for which an uplift in the sentencing was warranted. I was also mindful that the offences which the Accused has been convicted of are not offences that carried the statutory penalty enhancement of one and a half times the maximum punishment provided for under s 74 of the PC. However, it is trite that this would still be a relevant aggravating factor that the Court must take into account.
+
+83     I found that there is merit in the Prosecution’s submission that the Accused’s religiously aggravated offending must not be dismissed lightly as an act of intolerance committed at the spur of the moment. The facts revealed that whilst at his balcony, the Accused had first considered using a weapon to shoot at the group of Muslims gathered at the BBQ area before dismissing the thought as a “heinous” act.
+
+84     Later, at the lift lobby, he still harboured thoughts of causing harm to the persons gathered at the table area and hurled a bottle towards the table area with the intention of disrupting their peaceful gathering. To compound matters, the Accused made clear his intention behind his act when he shouted religiously charged pejoratives about Muslims towards the group, as he ran away. However, as indicated, the occurrence of the incident was brief, and it was not prolonged or repeated.
+
+85     The fact that the Accused committed the offence while he was intoxicated is another distinct aggravating factor to consider: _Wong Hoi Len v Public Prosecutor_ \[2009\] 1 SLR (R) 115.
+
+86     I note that while the Accused may have been ‘disinhibited’ by his alcohol intoxication, it was not to the extent that he had no control of his behaviour. The level of alcohol used did contribute to his alleged offence as he was intoxicated and disinhibited. There was some impairment of judgement, but not to the extent of unsoundness of mind.
+
+87     To the extent that alcohol emboldened or disinhibited him to commit an offence that he would otherwise not have committed, and/or made him behave in a reckless and/or dangerous manner that posed a threat to members of the public, the Accused must take full responsibility for his subsequent offending behaviour.
+
+88     Against these aggravating factors, I considered the mitigating factors that were in the Accused’s favour.
+
+89     In this respect, I accept the Defence’s submission that the Accused is genuinely remorseful for his actions after he decided to turn himself in to the authorities, notwithstanding that he initially lied to the police during the investigations, and that his voluntary admission came only some 10 days after the incident when the police had expended extensive resources in their investigations. I also gave due weight to the Accused’s plead of guilt and that he has voluntarily paid compensation to the victim’s family to offset some of their expenses.
+
+90     On the issue that the victims’ family had forgiven the Accused, it is trite law that the forgiving attitude of the victim (and conversely, an attitude of vengeance) should not affect the appropriate sentence to be imposed by the court. Where a serious crime is committed against the community at large, the forgiveness shown by the victim to the offender should not impinge on the sentence to be passed by the court and should have little weight in mitigation. It would be in the public interest that the principle of retribution be accorded the appropriate consideration: (_Public Prosecutor v UI_ <span class="citation">\[2008\] 4 SLR(R) 500</span>.)
+
+91     The Defence submitted sentencing precedents involving s 304A(a) PC offences, and in particular, the cases of _Public Prosecutor v Ganesan Sivasankar_ <span class="citation">\[2017\] 5 SLR 681</span> and _Public Prosecutor v Lim Chai Heng_ <span class="citation">\[2020\] 3 SLR 1275</span>. His learned counsel urged the court to consider an uplifted sentence of two to three years’ imprisonment which sentence would be higher than the cases cited.
+
+92     With great respect to the learned Senior Counsel, I did not think that the sentencing framework or sentences imposed for the cases of rash driving causing death were applicable to the present case or that it should form the starting point or sentencing range for the present case. The factual matrix of these traffic-related deaths centred on the unique facts and circumstances of these cases, and the aggravating factors discussed above did not feature in these cases cited by the Defence.
+
+93     For the foregoing reasons, I did not agree with the sentences proposed by the Prosecution and the Defence. Instead, I assessed that a sentence of four (4) years imprisonment for the first charge under s 304A(a) of the PC would be an appropriate sentence.
+
+### Sentencing principles for the Second Charge under s 338(a) PC
+
+94     I next turn to the appropriate sentence to impose for the second charge under s 338(a) PC. Aside from causing the death of the first victim, the Accused’s rash act of throwing the bottle towards the table area also caused grievous hurt to Mdm Manisah when the bottle ricocheted off Mr Nasiari’s head and struck her on the right shoulder.
+
+95     In respect of the sentencing approach for the s 338(_a_) PC offence, I adopt a similar approach in respect of the s 304A(_a_) PC offence by considering the harm and culpability matrix.
+
+96     In respect of the harm caused to the second victim, I assessed it to be in the low-medium range. She suffered extensive bruising seen over the anterior aspect of the right shoulder. There was a mild superficial skin abrasion and tenderness over the ecchymosis region. Her right arm had to be placed in a sling for approximately two months, causing her to be unable to follow her ordinary pursuits or undertake her daily activities for that period. To date, the second victim still has difficulty carrying heavy items with her right arm.
+
+97     As for the degree of rashness, as with the first charge, the Accused’s degree of rashness in throwing the bottle towards the table area is high. The aggravating factors present for the offence under s 304A(a) PC similarly applied in relation to the s 338(a) PC offence.
+
+98     Having considered the two cases under s 338(a) PC cited by the Prosecution, namely _Public Prosecutor v Mohammad Nur Azreen bin Abu Samah_ <span class="citation">\[2009\] SGDC 253</span> and _Public Prosecutor v Tan Kok Chye_ <span class="citation">\[2013\] SGDC 9</span>, as well as _Public Prosecutor v Chong Chee Boon Kenneth and other appeals_ <span class="citation">\[2021\] 5 SLR 1434</span> (“Kenneth Chong”) cited by the Defence, I assessed that the harm caused in these cases cited were more serious than the present case. However, the Accused’s degree of rashness in the present case is higher and the aggravating factors present for the offence under s 304A(a) PC similarly applied in relation to the s 338(a) PC offence.
+
+99     In respect of _Kenneth Chong’s_ case, which involved a ragging incident in the Singapore Civil Defence Force that led to the death of a fill-time national serviceman, the factual matrix of that case was different and the aggravating factors discussed above did not feature in that case.
+
+100    Accordingly, I was of the view that an uplift of the sentence imposed on these cases cited would be appropriate in the present case but not to the extent of the sentence of two and half years’ imprisonment submitted by the prosecution. In this respect, I also considered the similar mitigating factors under the first charge and accorded the appropriate weight to them.
+
+101    All considered, in respect of this charge under s 338(b) PC, I was of the view that a sentence of 18 months’ imprisonment would be appropriate.
+
+### The Global Sentence – Whether the one-transaction principle should apply
+
+102    I now turn to the issue of whether the two sentences ought to run concurrently or consecutively.
+
+103    The Prosecution submitted that the sentences should be ordered to run consecutively and that the one-transaction principle should not apply in this case. The learned DPP further submitted that the global sentence would not breach the totality principle.
+
+104    The Defence submitted that the sentences for both charges ought to run concurrently given that the offences arose from one single transaction and arose from the same act.
+
+105    In this regard, I am guided by the case of _Public Prosecutor v Raveen Balakrishnan_ <span class="citation">\[2018\] 5 SLR 799</span> (“_Raveen_”) where the Honourable the Chief Justice Sundaresh Menon CJ provided guidance on the factors to be considered in determining whether sentences should run concurrently or consecutively. At \[39\], CJ Menon stated the following:
+
+> I previously elaborated on the one-transaction rule in Shouffee, and it contemplates that where two or more offences form part of a single transaction, all sentences in respect of those offences should in general run concurrently rather than consecutively (at \[27\], citing PP v Law Aik Meng <span class="citation">\[2007\] 2 SLR(R) 814</span> at \[52\]). **_The question of whether the various offences form part of a single transaction in turn depends on whether they entail a “single invasion of the same legally protected interest”_** (at \[30\], citing D A Thomas, Principles of Sentencing: The Sentencing Policy of the Court of Appeal Criminal Division (Heinemann, 2nd Ed, 1979) (“Principles of Sentencing”) at p 53). In determining this, the proximities in time, place, continuity of action, and continuity in purpose or design all have utility (at \[28\] and \[34\]). The premise is that if there is a single invasion of a legally protected interest, then even if this might give rise to several offences, it is, in the final analysis, the violation of that single interest that is being punished and concurrent sentences would thus ordinarily suffice to reflect the seriousness of the offences. In effect, the one-transaction rule serves “as a filter to sieve out those sentences that ought not as a general rule to be ordered to be run consecutively” (at \[27\]). **_The rule ought to be applied in a commonsensical manner (at \[40\]), and indeed, in some situations it might be appropriate to impose consecutive sentences even if that would mean a deviation from the rule (at \[45\])._**
+
+106    As a general rule, an offender who has committed multiple unrelated offences should be separately punished for each offence, and this should be achieved by an order that the individual sentences run consecutively. This is because such an offender bears greater culpability and will have caused greater harm than an offender who has committed only a single offence: see _Raveen_ at \[42\].
+
+107    It bears repeating that the one-transaction rule “is not an inflexible or rigid rule” but serves as a filter to sieve out those sentences that ought not as a general rule to be ordered to run consecutively: _Mohamed Shouffee bin Adam v Public Prosecutor_ <span class="citation">\[2014\] 2 SLR 998</span> at \[27\] (“_Shouffee_”). The rationale for the rule as explained in _Shouffee_ is based on the principle that consecutive sentences are not appropriate if the various offences involve a _single_ invasion of the _same_ legally protected interest: see _Shouffee_ at \[30\].
+
+108    In this regard, I agreed with the Prosecution’s submission that the one-transaction rule does not apply in the present case. Although there were proximities in time and place, continuity of action, continuity in purpose or design, the Accused’s two offences against Mr Nasiari and Mdm Manisah each involved a separate and distinct invasion of a legally protected interest, and the harm to the two victims are distinct, and therefore ought to be punished separately.
+
+109    In other words, in determining whether the two offences formed a single transaction, while the usual touchstone is whether the offences are proximate as to time or place, the underlying rationale is whether there was a violation of distinct legally protected interests. In this case, and as rightly submitted by the Prosecution, to hold otherwise would be to unjustifiably relieve the Accused of the consequences of his actions which caused _grievous hurt_ to Mdm Manisah and thereby give an “unwarranted discount for what are essentially distinct offences at law, even if the offences arise out of the same conduct”: see _Raveen_ at \[69\].
+
+110    Even if the court were to accept that the Defence’s submission that the one-transaction rule applies, it is important to note that the one-transaction rule is not mandatory. It was held by Sundaresh Menon CJ in _Shouffee_ that it would be appropriate for the sentencing court to impose consecutive sentences notwithstanding that to do so would entail deviating from the one-transaction rule in the following instances (at \[45\]):
+
+> (a)     It is necessary to do so in order to give sufficient weight to the interest of deterrence so as to discourage behaviour of the sort in question.
+
+> (b)     The imposition of consecutive sentences would be in keeping with the gravity of the offences.
+
+111    In my view, a consecutive sentence would be appropriate to give effect to the two paramount sentencing considerations of deterrence and retribution discussed above, and having regard to the high degree of rashness and the aggravating circumstances of the present case. In my view, the overall aggregate sentence would be proportionate to the overall criminality of the Accused’s offences.
+
+## Conclusion
+
+112    Having considered all the facts and circumstances of the case, and the respective submissions of the parties, I imposed a sentence of four years’ imprisonment for the first charge and 18 months’ imprisonment for the second charge. The sentences were ordered to run consecutively, making an aggregate sentence of **four (4) years’ and 18 months’ imprisonment**.
+
+113    I further ordered that the sentence be backdated to commence with effect from 28 August 2019, the date of the Accused’s surrender to the police.
+
+114    The Accused being dissatisfied with the sentences imposed had lodged an appeal against his sentence. At the time of writing my Grounds of Decision, the Accused is serving sentence.
+
+* * *
+
+[\[note: 1\]](#Ftn_1_1)The Glasgow Coma Scale is a clinical scale used to measure a person’s level of consciousness after a brain injury. A person’s consciousness is assessed on a scale of 15, with 15 being normal and 3 being completely unresponsive.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F28873-SSP.xml)

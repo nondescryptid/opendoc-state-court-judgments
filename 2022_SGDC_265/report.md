@@ -1,0 +1,245 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Loh Cheok San  
+
+### \[2022\] SGDC 265
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC-936716-2017 &amp; Anor, Magistrate's Appeal No. MA-9210-2022-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">07 November 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chay Yuen Fatt</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPPs Grace Lim and Tan Hsiao Tien (Attorney-General's Chambers) for the Prosecution; Tan Hee Joek (Tan See Swan &amp; Co) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Loh Cheok San</td></tr></tbody></table>
+
+Criminal Law – Offences – Cheating
+
+Criminal Procedure and Sentencing – Sentencing – Totality – Principles
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9210/2022/01.\]
+
+7 November 2022
+
+### District Judge Chay Yuen Fatt:
+
+## Introduction
+
+1       The accused was a 51-year-old male Singaporean who was employed as a cargo officer by his company, M/s Vermont UM Bunkering Pte Ltd (“Vermont”). He was charged for being involved in a conspiracy with others, including his employer, Vermont, to cheat ship owners in relation to bunkering activities i.e. supplying less marine fuel oil than what was ordered. There were 52 instances of cheating which amounted to “buy back” transactions. These were consolidated into one charge of cheating the ship owners (“second charge”).
+
+2       The accused also cheated his employer, Vermont, by overclaiming commissions and payments related to the said “buy back” transactions. These excess claims were also consolidated into another charge of cheating Vermont (“first charge”).
+
+3       The accused pleaded guilty both charges and was sentenced to 35 months’ and 65 months’ imprisonment respectively for the first and second charge. The Prosecution submitted for both imprisonment sentences to run consecutively. However, I disagreed with Prosecution’s submission and ordered both sentences to run concurrently. The aggregate sentence was 65 months’ imprisonment.
+
+4       The Prosecution filed an appeal against the sentence.
+
+5       There was no appeal filed by the Defence and the accused is serving his sentence pending this appeal.
+
+## The Charges
+
+6       For ease of reference, I set out both charges in full as follows:
+
+> First charge (DAC 934716 of 2017)
+
+> You…are charged, in this amalgamated charge under section 124(4) of the Criminal Procedure Code (Cap. 68), that you, on at least 52 occasions between 4 January 2014 and 2 March 2016, in Singapore, being a Senior Cargo Officer of M/s Vermont UM Bunkering Pte Ltd (“Vermont UM”), did embark on a course of conduct of abetting by engaging in a conspiracy with Lee Kok Leong and Lee Peck Yong to cheat Vermont UM, and in pursuance of that conspiracy, and in order to the doing of that thing, you deceived Vermont UM into believing that marine fuel was illegally bought back at a higher price than it was and/or more marine fuel was illegally bought back than the true quantity, and by such manner of deception, Vermont UM was dishonestly induced into delivering property, to wit, making excess payment of at least USD 979,750 to you and your co-conspirators, which is an offence punishable under section 420 read with section 109 of the Penal Code (Cap 224, 2008 Rev Ed).
+
+> 2nd Charge (DAC 917981 of 2019)
+
+> You…are charged, in this amalgamated charge under section 124(4) of the Criminal Procedure Code (Cap 68), that you, on at least 52 occasions between 4 January 2014 and 2 March 2016, in Singapore, being a Senior Cargo Officer of M/s Vermont UM Bunkering Pte Ltd (“Vermont UM”), did embark on a course of conduct of abetting by engaging in a conspiracy with Poh Fu Tek, Yang San Hua, Koh Seng Lee, Xing Tao, Lee Kok Leong, Lee Peck Yong, and Vermont UM to cheat buyers of marine fuel oil as set out in the Annex (“the Buyers”) and in pursuance of that conspiracy, and in order to the doing of that thing, Vermont UM did deceive the Buyers into believing that the quantity of marine fuel oil delivered was as stated on the Bunker Delivery Notes when in fact a lower amount of marine fuel oil had been delivered to the appointed vessel, and by such manner of deception, the Buyers were dishonestly induced into delivering property, to wit, making excess payment totaling USD 3,645,976.34 to Vermont for the purchase of marine fuel oil, and you have thereby committed an offence punishable under section 420 read with section 109 of the Penal Code (Cap 224, 2008 Rev Ed).
+
+## The Statement of Facts
+
+7       The accused admitted to the statement of facts (“SOF”) prepared by the prosecution. Save for the two annexes listing out the individual transactions in relation to the two charges, I set out the rest of the SOF in full as follows:
+
+> 1    The accused is Loh Cheok San, a 51-year-old male Singaporean, NRIC: XXX (“**Loh**”). At the material time, he was a senior cargo officer for Vermont UM Bunkering Pte Ltd (“**Vermont**”).
+
+> 2    The co-accused persons are:
+
+>> a.    Poh Fu Tek (“**Poh**”), a director of Vermont at the material time;
+
+>> b.    Koh Seng Lee (“**Koh**”), a director of Vermont at the material time;
+
+>> c.    Lee Kok Leong (“**Lee**”), a Bunker Manager working for Vermont at the material time; and
+
+>> d.    Lee Peck Yong (“**Lee PY**”), a cargo officer working for Vermont at the material time.
+
+> 3    The accomplices are:
+
+>> a.    Yang San Hua (“**Yang**”), a director of Vermont at the material time;
+
+>> b.    Xing Tao, a financial controller of Vermont at the material time; and
+
+>> c.    Vermont.
+
+> 4    Yang and Xing Tao both absconded from Singapore in or around May 2016.
+
+> **Background**
+
+> 5    Vermont was in the business of oil trading and ship bunkering. Investigations revealed that from as early as 2011, Vermont engaged in “buyback” transactions, in which Vermont and the Chief Engineer or Captain of a vessel agreed for Vermont to supply less marine fuel oil than what was ordered by the vessel owner. The opportunity for a “buyback” transaction would arise when there was excess or remaining marine fuel oil on the vessel that Vermont was supplying to. The agreed price for the “buyback” of marine fuel oil, which was paid to the Chief Engineer or Captain, was usually lower than the market rate. Vermont UM could thereafter sell the excess marine fuel oil at a higher rate, such as the market rate, and thereby profit from the difference between the higher rate and the amount paid to the Chief Engineer or Captain. The independent surveyor of the vessel would be paid by the Chief Engineer or Captain to falsely certify that the contracted amount of marine fuel oil was delivered, when in fact a lesser amount was delivered.
+
+> **Facts Relating to DAC-917981-2019 – Cheating under s 420 read with s 109 Penal Code read with s 124(4) Criminal Procedure Code**
+
+> 6    Loh first joined the bunkering industry in 2004 as a cargo officer at United Marine Pte Ltd (“**United Marine”)**, where Poh was a director. In 2009, Poh asked all four bunkering employees at United Marine, including Lee and Loh, to transfer to Vermont. As a senior cargo officer at Vermont, Loh oversaw the operation of bunker barges in supplying fuel to vessels. He was in charge of the bunker barges MT Anhong and MT Ansheng. He reported to Lee, who in turn reported to Yang. Loh received a gross monthly salary of about S$3,000 plus per month at Vermont.
+
+> 7    Loh admitted that he would inform Lee whenever there was an opportunity for a “buyback” transaction. Lee would then liaise with Yang on the proposed rate for the “buyback” transaction. If Yang and the Chief Engineer or Captain were agreeable to the proposed rate, Lee would arrange for cash to be passed to Loh to pay the Chief Engineer or Captain for the “buyback” transaction. Loh admitted to collecting the cash in an envelope from Lee, which he would then personally hand over to the Chief Engineer or Captain. The Chief Engineer or Captain would then pay the independent surveyor separately to falsely certify the amount of marine fuel oil delivered. Lee and the cargo officers were also paid about S$15 per metric ton of marine fuel oil for each “buyback” transaction by Vermont as their commission. Lee took at least 25% from this S$15 per metric ton, with the cargo officers (either Lee PY, Loh or Gerald Lee) responsible for the transaction receiving the remaining 75%. If a cargo officer was assisted by other cargo officers in the transaction, the 75% would be further split amongst the parties involved. Lee recorded the details of the “buyback” transactions in his notebook.
+
+> 8    Yang would usually arrange for Lee to have about S$100,000 in cash on standby for the “buyback” transactions (the “**Cash Float**”). Lee would receive the cash in Singapore dollars from Xing Tao about every two or three months. Lee would bring the cash to a moneychanger to convert the money to US dollars. The cash would be used to pay the Chief Engineer or Captain as well as the cargo officers involved for the “buyback” transactions. Once the money ran out, Lee would inform Yang. Lee would later receive a cash sum to replenish the Cash Float. This would usually be about S$100,000 and passed to Lee by Xing Tao.
+
+> 9    The cash that was passed to Lee for the Cash Float would be withdrawn from Vermont’s company account and recorded as a loan to Poh in Vermont’s accounts. Poh would then use Dynamic Asset Investments Limited (“**Dynamic Asset**”), which is a Hong Kong-registered company controlled by Poh, to send Vermont invoices purporting to bill Vermont for its purchase of marine fuel oil from Dynamic Asset. These false invoices were created to disguise the excess marine fuel oil in Vermont’s inventory as being legitimately purchased from Dynamic Asset, when they were in fact illegally obtained through the “buyback” transactions. Vermont would pay Dynamic Asset pursuant to these false invoices, by transferring the sum to Dynamic Asset’s account. Dynamic Asset would then transfer the sum to Poh’s personal bank account. Poh would then use these monies to repay the purported personal loan from Vermont. In reality, there was no sale of fuel oil from Dynamic Asset to Vermont.
+
+> 10    From 2014 onwards, the false invoices purportedly showing that Vermont purchased the illegally bought back fuel oil were also issued from Goldsland Holdings Co Ltd (“**Goldsland Holdings**”). Goldsland Holdings was a Hong Kong-incorporated holding company related to Vermont. Goldsland Holdings would issue Vermont false invoices for the purported sale of marine fuel oil. In turn, Dynamic Asset would issue a corresponding false invoice to Goldsland Holdings for the sale of the same or similar quantity of marine fuel oil. Vermont would pay Goldsland Holdings pursuant to the false Goldsland Holdings invoices, and Goldsland Holdings would then pay Dynamic Asset pursuant to the corresponding false Dynamic Asset invoices. The monies from the fictitious sales would eventually be transferred from Dynamic Asset to Poh. Poh would then use the sum to repay the purported personal loan from Vermont.
+
+> 11    Poh, Koh, Lee, Lee PY and Loh knew and agreed to numerous buyback transactions. In particular, Loh knew and participated in 52 of these buyback transactions between 4 January 2014 and 2 March 2016.
+
+> 12    Loh admitted to knowing that “buyback” transactions were wrong since sometime in or around 2011. Loh stated that to avoid detection for the “buyback” transactions, they would pump the “buyback” volume of marine fuel oil back to the barge tank so that the Mass Flow Meter readings would be close to the amount ordered by the vessel owner. The Mass Flow Meter was introduced by the Maritime and Port Authority of Singapore in 2014 to increase the transparency and efficiency of bunker operations. The Mass Flow Meter is a bidirectional flow meter which measures the mass of the cargo that passes through the meter and stores the data in either a computer or data logger. This data helps to digitalise what happens during the bunker operation and may be retrieved later on for analysis in the event of bunker disputes or for regulatory use. By January 2017, all bunker licensees are required, as a condition of their licence, to use the Mass Flow Meter in supplying marine fuel oil to vessels.
+
+> 13    By virtue of the above, between 4 January 2014 and 2 March 2016, Loh conspired with Poh, Koh, Lee, Lee PY, Yang, Xing Tao and Vermont to cheat Vermont’s customers by deceiving them into believing that Vermont had delivered the contracted quantity of marine fuel oil when in fact a lower quantity of marine fuel oil had been delivered on not less than 52 occasions. As a result of their deception, Vermont’s customers were dishonestly induced into making excess payment of **US$3,645,976.34** for marine fuel oil that was not delivered to them.
+
+> 14    The details of these 52 occasions are set out at **Annex A** \[omitted\].
+
+> 15    Loh has thereby committed an offence under s 420 read with s 109 of the Penal Code (Cap. 224, Rev Ed 2008) (the “**Penal Code**”) and read with s 124(4) of the Criminal Procedure Code (Cap. 68, Rev Ed 2012) (the “**CPC**”). He is charged accordingly.
+
+> 16    No restitution has been made to date.
+
+> **Facts Relating to DAC-936716-2017 – Cheating under s 420 read with s 109 of the Penal Code**
+
+> 17    Loh had also conspired with Lee and Lee PY, to deceive Vermont into paying them more commission or money than they were entitled to or needed for the illegal buyback transactions. In pursuance of this conspiracy, and in order to the doing of that thing, Loh, Lee and Lee PY falsely represented to Vermont the following in each illegal buyback transaction:
+
+>> a.    That fuel was illegally bought back at a higher price than it was; and/or
+
+>> b.    That more fuel was illegally bought back than the true quantity.
+
+> 18    Loh claimed that he had been instructed by Lee to inflate the figures received from the Chief Engineer or Captain of the vessel or that Lee would inform him that he would be inflating the said figures in order to earn extra money from Vermont. As a result, Vermont was dishonestly induced to deliver a larger sum of money than Loh, his co-conspirators and Gerald Lee were entitled to. This sum had two components: one, an excess beyond what was actually paid to the Chief Engineer or Captain; two, extra commission paid on the larger quantity of marine fuel oil declared by the conspirators. Lee, Lee PY and Loh pocketed the difference.
+
+> 19    Loh knew about the illegal over-declaration and participated in 52 of these transactions between 4 January 2014 and 2 March 2016.
+
+> 20    Loh has thereby committed an offence under s 420 read with s 109 of the Penal Code and read with s 124(4) of the CPC. He is charged accordingly.
+
+> **Loh’s total illegal gains**
+
+> 21    There are three components of Loh’s illegal gains:
+
+>> a.    Commission that Vermont intended to pay him for his role in cheating the vessel owners on Vermont’s behalf, referred to at \[7\] above and elaborated at \[22\] below;
+
+>> b.    Extra commission cheated from Vermont as a result of over-declaring the quantity, referred to at \[18\] above and elaborated at \[23\] below; and
+
+>> c.    Extra money cheated from Vermont as a result of over-declaring the amount paid to the Chief Engineers or Captains, referred to at \[18\] above and elaborated at \[25\] below.
+
+> 22    Loh admitted that he would receive about S$10 per metric ton of marine fuel oil as commission for participating in “buyback” transactions. He claimed that he would split the commission received on a 50-50 basis between him and any cargo officer involved in the transaction. He admitted to receiving the commissions from Yang about 3 to 4 times, from Xing Tao about 4 to 5 times and from Lee more than 15 times. Loh is estimated to have earned a commission of at least S$43,600 from the “buyback” transactions he participated in – this is derived by multiplying S$5 per metric ton by the 8,720 metric tons of marine fuel oil which was actually under-delivered.
+
+> 23    Loh is also estimated to have earned an extra commission of S$5,200 from Vermont by over-declaring the quantity of marine fuel oil under the “buyback” transactions.
+
+> 24    The total commission earned by Loh in relation to the “buyback” transactions for which he has been charged is therefore estimated to be at least S$48,800. Loh admitted that the smallest amount of commission he received over the course of his involvement in the scheme was about S$7,000 to S$8,000 and the largest amount he received was between S$10,000 to S$20,000 before any split with the cargo officer.
+
+> 25    The amount cheated from Vermont was at least US$979,750.00. The details are shown in **Annex B** \[omitted\]. The difference between what was declared to Vermont and the amount actually paid to the Chief Engineer of the vessel would be split equally between Lee, Gerald, and Loh after paying the cargo assistant, usually S$5 per metric ton. It is estimated that Loh’s share of the difference was about US$314,960.95.
+
+> 26    The illegal gains that Loh personally made from the offences above are set out in this table:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="51.36%"><col width="48.64%"></colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Source of illegal gains</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Estimated amount</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cheating Vermont</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">US$314,960.95 (about S$410,712.257)</p><p align="justify" class="Table-Para-1">(See [25] above)</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Commissions from “buyback” transactions</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">At least S$48,800</p><p align="justify" class="Table-Para-1">(See [24] above)</p></td></tr></tbody></table>
+
+  
+  
+
+> 27    Loh has not made any restitution of his illegal gains to date.
+
+\[original emphasis\]
+
+## Criminal Antecedents
+
+8       The accused has only unrelated traffic antecedents. The Prosecution did not rely on the accused’s antecedents in its submission on sentence.
+
+## Sentence
+
+9       The accused was sentence as follows in respect of the two charges:
+
+<table align="center" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="23.94%"><col width="38.04%"><col width="38.02%"></colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Charge</b></p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Offence</b></p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">First charge</p><p align="justify" class="Table-Para-1">DAC-936716-2017</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">S 420 r/w Section 109 Penal Code and r/w s 124(4) Criminal Procedure Code.</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Thirty-five (35) months'</p><p align="justify" class="Table-Para-1">imprisonment.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Second charge</p><p align="justify" class="Table-Para-1">DAC-917981-2019</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">S 420 r/w s 109 Penal Code r/w s 124(4) Criminal Procedure Code.</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Sixty-five (65) months'</p><p align="justify" class="Table-Para-1">imprisonment.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Further Order:</p></td><td align="left" class="b" colspan="2" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Both sentences to run concurrently.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Total Sentence:</p></td><td align="left" class="" colspan="2" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Sixty-five (65) months' imprisonment with effect from 17-October2022.</p></td></tr></tbody></table>
+
+  
+  
+
+## Reasons for Sentence
+
+#### Summary of the offences
+
+10     In respect of the second charge and in summary, the accused was a cargo officer in the employ of Vermont which was in the business of oil trading and oil supply. From as early as 2011, the accused engaged in a conspiracy with his colleagues and also his employer, Vermont, to cheat ship owners in “buy back” transactions. A “buy back” transaction is described as one whereby Vermont supplied less marine fuel oil than what was ordered by the ship owner. Vermont would then “buy back” the “excess” marine fuel from the Chief Engineer or Captain of the ship at a price that was lower than the market price. The Chief Engineer or Captain would obviously be in collusion with Vermont and the conspirators. Therefore, the “buy back” price would be paid to the Chief Engineer or Captain. The conspirators would draw from Vermont’s cash float to pay the Chief Engineer or Captain.[\[note: 1\]](#Ftn_1) The money in the cash float was funded and replenished from the “buy back” transactions by way of elaborate round-tripping type transactions.[^2] Vermont would sell the bought back marine fuel oil at a higher rate thereby making a profit from the difference between the higher rate and the amount paid to the Chief Engineer or Captain. The independent surveyor of the vessel would also be bribed by the Chief Engineer or Captain to falsely certify that the contracted amount of marine fuel oil was supplied when it was not.
+
+11     There were 52 such “buy back” transactions which were consolidated under s 124(4) of the Criminal Procedure Code 2010 (“CPC”) into a single second charge. In total, the ship owners, who were the victims in the second charge, were cheated by overpaying Vermont US$3,645,976.34 for marine fuel oil that was under-supplied.
+
+12     In respect of the first charge, the accused also conspired with his colleagues to cheat Vermont in relation to the same set of 52 “buy back” transactions. They did so by deceiving Vermont into paying them more commission than they were entitled to or more money than was in fact needed for “buy back” transactions. In essence, they falsely represented to Vermont that (i) the “excess” fuel was bought back at a higher price than it was, and/or (ii) more fuel was “bought back” than the actual quantity. These overclaims were consolidated under s 124(4) of the CPC into a single first charge of cheating Vermont. The total amount cheated from Vermont was at least US$979,750.00.
+
+#### Prosecution’s sentencing position
+
+13     The Prosecution sought a sentence of at least 65 months’ imprisonment for the second charge of cheating the ship owners and at least 35 months’ imprisonment for the first charge of cheating Vermont. The Prosecution further submitted that for both sentences to run consecutively which would add up to at least 100 months’ imprisonment.[\[note: 3\]](#Ftn_3)
+
+#### Defence’s sentencing position
+
+14     Counsel for the accused submitted for lower individual sentences (15 months and 30 months’ imprisonment respectively) and for both sentences to run concurrently.[\[note: 4\]](#Ftn_4) In other words, counsel submitted that the aggregate sentence ought not to exceed 30 months’ imprisonment. I further noted that counsel considered the first charge of cheating Vermont to be more serious (because of the higher financial benefit obtained by the accused) and accordingly proposed a higher sentence than the second charge of cheating the ship owners. This differed from the Prosecution’s position as regards the relative seriousness of the two offences. Notwithstanding this, counsel submitted for concurrent sentences.
+
+#### Individual sentences
+
+15     In _Mohamed Shouffee bin Adam v Public Prosecutor_ <span class="citation">\[2014\] 2 SLR 998</span> (“_Mohamed Shouffee_”) at \[26\]. the Honourable the Chief Justice Sundaresh Menon (“Menon CJ”) set out a clear framework for sentencing offenders with multiple offences. Menon CJ said that the sentencing judge must begin by deciding on the appropriate individual sentences in respect of each charge or offence.
+
+16     In the present case, notwithstanding the very different positions taken by the parties in respect of the individual sentences, there appears not to be any real dispute from the Defence at the end of the day as regards the individual sentences which the court imposed on the accused. This was because the Defence has not appealed against the sentence imposed even though the individual sentences were much higher than what counsel had proposed. Notwithstanding that the sentences were ordered to run concurrently as desired by counsel, the final aggregate sentence was therefore significantly higher than what the Defence had proposed.
+
+17     As for the Prosecution, the individual sentences proposed by the learned DPP were in fact imposed by the court on the respective charges. The only quarrel which the Prosecution would presumably have would be that the sentences were ordered to run concurrently and not consecutively. Hence, the present appeal.
+
+#### Consecutive or concurrent sentence
+
+18     As there were only two charges, s 307(1) of the CPC, which imposes a statutory obligation on the sentencing court to run at least two of three or more sentences consecutively, did not apply.
+
+19     Having decided on the individual sentences, Menon CJ held in _Mohamed Shouffee_ at \[27\] that it then falls on the sentencing judge to consider which of the sentences should run consecutively. In this second stage of the exercise, two subsidiary principles, namely the “one-transaction rule” and the “totality principle” are particularly applicable.
+
+#### One-transaction rule
+
+20     As regards the one-transaction rule, Menon CJ explained that the rule requires that where two or more offences are committed in the course of a single transaction, all sentences in respect of those offences should be concurrent rather than consecutive. Menon CJ further explained at \[40\] that in deciding whether the one-transaction rule applied, it may be helpful to have regard to such factors as proximity in time, proximity of purpose, proximity of location of the offences, continuity of design and unity (or diversity) of the protected interests. Menon CJ advised, however, that in the final analysis, the consideration must be undertaken as a matter of common sense.
+
+21     On the facts of the present two offences, it cannot be denied that each of the 52 instances of “buy back” transactions in respect of the second charge gave rise to a corresponding overclaim incident in respect of the first charge. The respective periods within which both offences were committed were therefore identical i.e. between 4 January 2014 and 2 March 2016. Accordingly, I was inclined to consider that there was proximity in time, proximity of purpose, proximity of location and continuity of design between the corresponding incidents of the two charges. However, the Prosecution chose rather to focus on the factor of unity or diversity of protected interests in its submission that the two offences did not form part of the same transaction.
+
+22     The Prosecution also made reference to the corollary to the one-transaction rule which is that sentences should generally run consecutively if the offences are unrelated (see _Public Prosecutor v Raveen Balakrishnan_ <span class="citation">\[2018\] 5 SLR 799</span> (“_Raveen Balakrishnan_”) at \[49\]), to achieve an overall sentence that would be commensurate with the increased culpability of the offender (at \[41\] to \[46\]). The Prosecution submitted that the sentences for the present two cheating charges ought to run consecutively for the reason that both offences involve different victims (i.e. Vermont in the first charge and the ship owners in the second charge) and hence concern distinct invasions of different legally protected interests.[^5] The Prosecution therefore relied on the general rule stated in _Raveen Balakrishnan_ and submitted that the two offences were unrelated offences and should be punished by way of consecutive sentences.[^6]
+
+23     The Prosecution clearly acknowledged that it was a “general rule” and not an axiomatic or unquestionable principle that invasion of distinct and separate legal interests must result in consecutive sentences. In any event, I agreed with counsel’s submission that the two charges ought not to be considered in complete isolation.[\[note: 7\]](#Ftn_7) While I would not disagree with the Prosecution that both offences involve different victims, I must also consider that both offences stem from and relate to the same set of 52 transactions as listed out in Annexes A and B of the SOF respectively. In other words, both offences arise from the same 52 “buy back” transactions. There can be no denying the that two offences were inextricably related and therefore, the argument for the general rule in _Raveen Balakrishnan_ to be engaged in favour of consecutive sentences, is very much weakened.
+
+24     I also agreed with counsel and considered that even though Vermont may have been stated as the ‘victim’ in the first charge, the money that was cheated from Vermont was gained from the proceeds that were cheated from the victim ship owners[\[note: 8\]](#Ftn_8), or was derived from the elaborate scheme to cover up these “buy back” transactions by way of false accounting, forged invoices, bogus sales of fuel, sham loans and shell companies.[^9] In a sense, Vermont’s losses were merely a corresponding reduction of its illegal gains. Consequently, I agreed with counsel that the real victims were the ship owners and not Vermont.
+
+25     I would not go so far as to entirely agree with counsel that the legal interests of the ship owners and that of Vermont were in fact the same. I did appreciate that there were factual and conceptual differences. Nonetheless, I agreed with counsel that Vermont, being the one of the conspirators in the second charge (of cheating the ship owners) cannot morally claim to be entitled to have a legitimate interest to be protected in respect of the first charge.[\[note: 10\]](#Ftn_10) I also noted that the Prosecution readily acknowledged that even though Vermont was the “victim” in the first charge, Vermont was itself involved in the larger criminal scheme.[^11] No distinction was made in the SOF between Vermont as the conspirator and Vermont as the victim.
+
+26     I fully agreed with counsel, both in principal and sentiment, that the court should not “jealously”[\[note: 12\]](#Ftn_12) protect and guard Vermont’s interest as a victim in respect of the first charge. Indeed, I found it rather peculiar, if not also perverse, that the law should operate (and the court be required) to protect Vermont’s legal interest in the first charge in relation to its losses which were illegal proceeds (or linked to the illegal proceeds) which it acquired for being complicit in the second charge of cheating its many clients. I would respectfully decline to exercise my discretion to protect Vermont’s legal interest in the first charge and did not order the sentence for that charge to run consecutively with the sentence for the second charge.
+
+27     In her oral reply, the learned DPP reiterated that the legal interests were different and that the two offences were separate. I would not disagree that the legal interests may be conceptually different but I did not view the two offences as being entirely separate. I would add that the fact that the accused has been charged, convicted and sentenced in respect of both offences, would already have addressed the different legal interests in respect of both offences. However, the acknowledgment that both offences concern different legal interests does not address the question whether the two legal interests must invariably and additionally be protected by ordering both sentences to run consecutively.
+
+28     In her oral reply, the learned DPP also urged the court not to consider the fact that Vermont was a victim in the first charge as a mitigating factor that would tilt the balance towards a concurrent sentence. I assured her that I certainly did not consider that fact to be a mitigating factor, let alone one that had any bearing on my decision to order concurrent sentences.
+
+29     I also considered that in proposing the individual sentences, the Prosecution had only made a slight downward adjustment for the accused’s plea of guilt because the accused only pleaded guilty after CCDC directions were taken and the Case for the Prosecution being filed.[\[note: 13\]](#Ftn_13) However, I considered that the present accused was the first and only person amongst his conspirators (at least at the time of his sentence) to plead guilty to these cheating offences. Therefore, I felt that more credit ought to be given to him for being the first to plead guilty and that credit would tilt the balance further in favour of a concurrent sentence.
+
+#### Totality principle
+
+30     Finally, as both sentences were ordered to run concurrently and not consecutively, there was no question or danger that the overall sentence would run afoul of the totality principle. Even if I had ordered both sentences to run consecutively, I would not think that the aggregate sentence would have been crushing.
+
+## Conclusion
+
+31     The two offences were inseparable. The separate legal interest of Vermont as a victim in the first charge was very much weakened by the fact that it was one of the conspirators in the second charge. Neither the circumstances of the offences nor the culpability of the accused justified consecutive sentences.
+
+32     Further and notwithstanding that the sentences were ordered to run concurrently, the individual sentences were what the Prosecution had proposed. The aggregate sentence was also more than double what the Defence had desired. Accordingly, I did not consider the final global sentence to be manifestly inadequate.
+
+* * *
+
+[\[note: 1\]](#Ftn_1_1)SOF at \[8\].
+
+[^2]: SOF at \[9\]-\[10\].
+
+[^3]: Prosecution’s Address on Sentence (“PAS”) dated 10 October 2022 at \[4\].
+
+[^4]: Mitigation Plea (“MP”) dated 17 October 2022 at \[11\],\[15\] and \[17\].
+
+[^5]: PAS at \[36\].
+
+[^6]: PAS at \[36\].
+
+[^7]: MP at \[13\].
+
+[^8]: MP at \[14\].
+
+[^9]: SOF at \[8\]-\[10\],
+
+[^10]: MP at \[14\].
+
+[^11]: PAS at \[21\].
+
+[^12]: Counsel’s oral submission.
+
+[^13]: PAS at \[22\].
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F28968-SSP.xml)

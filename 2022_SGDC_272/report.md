@@ -1,0 +1,55 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Neo Jek Lin and another  
+
+### \[2022\] SGDC 272
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Summons Case No 900319 of 2022 &amp; 14 Ors</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">15 November 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lee Lit Cheng</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Nicholas Khoo, Jordon Li and Dhiraj G Chainani (Attorney-General's Chambers) for the Public Prosecutor; Raphael Louis (Ray Louis Law Corporation) for Neo; N Sreenivasan SC and S Balamurugan (K&amp;L Gates Straits Law LLC) for Chong.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Neo Jek Lin (Liang Jieneng) — Chong Pui Chih (Zhuang Peizhi)</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Sentencing
+
+Statutory Offence – Parks and Trees Act
+
+Statutory Offence – Wildlife Act
+
+15 November 2022
+
+### District Judge Lee Lit Cheng:
+
+1       These are brief reasons for my decision which will be supplemented, if necessary.
+
+## Charges relating to cutting trees without approval
+
+2       I will first deal with the charges under s 14(2) of the Parks and Trees Act (Cap 216, 2006 Rev Ed) (“Parks and Trees Act”) read with s 109 of the Penal Code (Cap 224, 2008 Rev Ed) (“Penal Code”).
+
+3       The accused persons’ concerns about delays to the Kranji Agri-Food Innovation Park development (“the Development”) that they were responsible for led to their decision to clear the Development site of trees without approval from the Commissioner of Parks and Recreation.
+
+4       The harm in this case lies not in the loss of the trees, as approval for tree cutting would eventually have been granted by the National Parks Board (“NParks”). The harm lies in the fact that measures to safeguard wildlife, public safety and health, and the ecosystem could not be implemented before the trees were cut. I assess the harm to fall within the moderate range.
+
+5       On the issue of culpability, Neo Jek Lin (Liang Jieneng) (“Neo) and Chong Pui Chih (Zhuang Peizhi) (“Chong”) were equally involved in the commission of the offences. Both were acutely aware of the need to comply with wildlife-related requirements, and both suggested going ahead with the clearance works before approval for tree felling was obtained because they were concerned about further delays to the Development. While Neo and Chong had acted out of a sense of responsibility towards the work entrusted to them, they were misguided in failing to show responsibility towards complying with the law and protecting the environment. I assess their culpability to be in the medium range. Given that Chong was Neo’s supervisor in Jurong Town Corporation, I assess her culpability to be higher.
+
+6       Each has been convicted of two charges under s 14(2) of the Parks and Trees Act read with s 109 of the Penal Code with three other similar charges taken into consideration. All the charges relate to land cleared for the same Development. The maximum prescribed punishment for this offence is a fine not exceeding $50,000. I have taken into account the accused persons’ plea of guilt and I accept that they are unlikely to reoffend.
+
+7       In relation to Neo for DSC-900319-2022 and DSC-900320-2022, I sentence him to a fine of $10,000 (in default five weeks’ imprisonment) per charge.
+
+8       In relation to Chong for DSC-900332-2022 and DSC-900333-2022, I sentence her to a fine of $12,000 (in default 6 weeks’ imprisonment) per charge.
+
+## Charges relating to the giving of false information
+
+9       Next, I will deal with the charges relating to the giving of false information to NParks.
+
+10     These offences were committed to conceal the accused persons’ wrongdoing in relation to clearing the land before approval for tree felling was given.
+
+11     Neo has been convicted of two charges: one under s 36(2) of the Parks and Trees Act and the other under s 12G(1) of the Wildlife Act (Cap 351, 2000 Rev Ed) (“Wildlife Act”). A third charge under s 36(2) of the Parks and Trees Act is taken into consideration. While the prescribed punishment for the offences under s 36(2) of the Parks and Trees Act and s 12G(1) of the Wildlife Act are not identical, given that both charges relate to Neo’s involvement in providing false information to NParks to conceal the fact that land clearance works had already commenced before approval was given, I am of the view that the sentence to be imposed for the two charges should be similar. For DSC-900322-2022 and MSC-900588-2022, I order a fine of $5,000 (in default two weeks’ imprisonment) per charge.
+
+12     Chong has been convicted of one charge under s 36(2) of the Parks and Trees Act with another similar charge taken into consideration. For DSC-900335-2022, I sentence her to a fine of $6,000 (in default two weeks’ imprisonment).
+
+## Conclusion
+
+13     In total, Neo and Chong are each fined $30,000 (in default 14 weeks’ imprisonment).
+
+14     Neo, as the Project Manager of the Development, was more hands-on in handling the day-to-day tasks compared to Chong and he faces one more charge of giving false information to NParks. On the other hand, more was expected of Chong by virtue of the more senior position she held.
+
+15     I am of the view that a total fine of $30,000 imposed on each of them would be proportionate to their overall criminality and is sufficiently stiff to deter like-minded offenders from flouting the law for expediency.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F28988-SSP.xml)

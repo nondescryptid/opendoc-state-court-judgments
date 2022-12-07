@@ -1,0 +1,306 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Yusran Bin Yusoff  
+
+### \[2022\] SGDC 243
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No 904692 of 2021, Magistrate's Appeals No 9188-2022-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">12 October 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lee Lit Cheng</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Genevieve Pang and Jordon Li (Attorney-General's Chambers) for the Public Prosecutor; The Accused unrepresented.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Yusran Bin Yusoff</td></tr></tbody></table>
+
+Criminal Law – Statutory offence – Misuse of Drugs Act
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9188/2022/01.\]
+
+12 October 2022
+
+### District Judge Lee Lit Cheng:
+
+## Introduction
+
+1       The unrepresented Accused was convicted after trial of a single charge under s 8(b)(ii) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”) for consuming a specified drug, monoacetylmorphine (“MAM”). He was liable for enhanced punishment under s 33A(2) of the MDA, commonly known as an “LT-2” offence.
+
+2       The Accused’s urine was tested positive for MAM. Pursuant to s 22 of the MDA, he was presumed to have consumed MAM in contravention of s 8(b) of the MDA.
+
+3       The Accused’s defence was that MAM was present in his urine due to his consumption of cough syrup and/or other medication. I found that the Accused failed to rebut the presumption of consumption as his evidence on what he had consumed that could have led to MAM in his urine was inconsistent and non-specific.
+
+4       I found that the Prosecution had proven the charge beyond reasonable doubt and convicted the Accused. As this was the Accused’s third conviction for an LT-2 offence, I sentenced him to imprisonment for a term of eight years and six months (one and a half years more than the mandatory minimum term of seven years). No caning was ordered as he was 53 years of age.
+
+5       The Accused is appealing against both conviction and sentence.
+
+## The Prosecution’s Case
+
+6       It was not disputed that officers from the Central Narcotics Bureau (“CNB”) arrested the Accused at his flat at Block 461 Yishun Avenue 6 on the morning of 10 February 2021. Three other persons present in the flat were also arrested together with the Accused. They were:
+
+> (a)     the Accused’s fiancé, DW2 Tengku Sholleha Binte Tengku Ibrahim (“DW2 Ms Tengku”);
+
+> (b)     the Accused’s younger brother, DW3 Mohammad Saddan Bin Yusoff (“DW3 Saddan”); and
+
+> (c)     the Accused’s cousin, who was not called as witness.
+
+### Urine test
+
+7       All four were taken to Woodlands Police Division. The Accused provided his urine specimen for testing. The instant urine test (“IUT”) showed that opiate was present in the Accused’s urine.[\[note: 1\]](#Ftn_1) Two bottles of the Accused’s urine sample were sealed in his presence. After confirming that his particulars on the labels used to seal the bottles were correct, the Accused signed on the labels and deposited the bottles into metal boxes which were then locked and delivered to the Health Sciences Authority (“HSA”).
+
+8       The metal boxes were unlocked at the HSA and the Accused’s urine samples were tested by HSA analysts PW8 Siti Aisyah Binte Jamil (“PW8 Siti”) and PW10 Ong Han Hui Jordan (“PW10 Jordan”). Each analyst issued a certificate under s 16 of the MDA stating that the Accused’s urine sample was found to contain MAM, a specified drug listed in the Fourth Schedule to the MDA, and that the presence of MAM in the urine was a result of consumption of diamorphine.[\[note: 2\]](#Ftn_2) Both analysts testified during the trial that the MAM found in the Accused’s urine was a specific metabolite of diamorphine.[^3] Diamorphine would metabolise into MAM before breaking down further to become morphine in the human body.[^4] MAM would typically be detected in the urine within a day of consumption of diamorphine.[^5]
+
+### The Accused’s statements
+
+9       The following statements given by the Accused were admitted without challenge as to their voluntariness or admissibility:
+
+> (a)     Exhibit P3 – statement recorded by PW3 Second Sergeant Muhammad Heykal Bin Rahman (“PW3 Heykal”) on 10 February 2021 at about 12.45pm;
+
+> (b)     Exhibit P13 – statement recorded by PW11 Senior Staff Sergeant Muhammad Farhan Bin Sanusi on 10 March 2021 at about 5.20pm;
+
+> (c)     Exhibit P14 – statement recorded by the Investigation Officer, PW12 Inspector Lim Jia Yi Sara (“IO Sara”) on 10 March 2021 at about 9.23pm; and
+
+> (d)     Exhibit P15 – statement recorded by IO Sara on 10 March 2021 at about 10.51pm.
+
+10     In his statements, the Accused denied consuming diamorphine. He said he took illegal cough syrup which he bought from Geylang and other medication and substances.
+
+### Illegal cough syrup and medication
+
+11     Based on information provided by the Accused in his statements, IO Sara obtained from the clinics named by the Accused a list of all the medication that had been prescribed to him on all his visits.
+
+12     HSA analysts, PW8 Siti and PW10 Jordan, both confirmed that none of the medication prescribed to the Accused would result in MAM in his urine.
+
+13     The Prosecution also called PW9 Ng Wei Siong Vlab, a Senior Regulatory Inspector attached to the Enforcement Branch of the HSA. His job scope included seizing unregistered health products, such as cough syrup, being sold in Geylang. PW9 testified that between 2019 and 2022, neither MAM nor diamorphine had been found in any of the cough syrup seized from Geylang and analysed.
+
+### Relevant previous convictions
+
+14     The Prosecution tendered the Accused’s Memorandum of Certified Previous Convictions for drug-related offences to prove that he was liable for LT-2.[\[note: 6\]](#Ftn_6)
+
+15     At the close of the Prosecution’s case, I found that a _prima facie_ case had been made out and called on the Accused to enter his defence. The Accused elected to give evidence and called five other witnesses in his defence.
+
+## The Defence
+
+16     The Accused denied consuming MAM or diamorphine. The Accused said he was a cough syrup abuser, and he had consumed cough syrup and medication prior to his arrest.
+
+17     The CNB officers did not find any controlled drugs or drug utensils when they raided the Accused’s home on 10 February 2021 and he was cooperative during the arrest. The Accused said he would not have been cooperative if he had consumed drugs.
+
+18     The Accused said there were some cough syrup and medication in his flat at the time of his arrest. He told the arresting officers that he had just taken some of the cough syrup and medication, and the officers permitted him to bring along the medication to the police station but not the cough syrup.[\[note: 7\]](#Ftn_7) However, after the IUT, PW3 Heykal told him to dispose of the medication he had brought along to the station before recording statement P3 from him.
+
+19     The Accused was released on bail and was surprised when he was informed on 10 March 2021 that the HSA analysis showed the presence of MAM in his urine. He was arrested, charged in court and remanded. During his remand, two police officers from Bedok Police Division interviewed him about the cough syrup he had been abusing. After careful examination and reflection, the Accused came to realise that he had been buying cough syrup from an HSA officer.[\[note: 8\]](#Ftn_8) The Accused suspected that his consumption of cough syrup had resulted in MAM being detected in his urine.[^9]
+
+20     The Accused also repeatedly asked why he was not sent to a Drug Rehabilitation Centre (“DRC”) even though he only faced a single consumption charge. He referred to parliamentary speeches by the Minister for Home Affairs, Mr K Shanmugam, and the Minister of State of the Ministry of Home Affairs, Associate Professor Muhammad Faishal Ibrahim, on the extension of the DRC regime to repeat drug abusers who did not commit other offences.
+
+### DW2 Tengku Sholleha Binte Tengku Ibrahim – the Accused’s fiancée
+
+21     The Accused’s fiancée, DW2 Ms Tengku, was arrested together with the Accused on 10 February 2021. She testified that she had been staying at the Accused’s flat for many days prior to the arrest and did not see the Accused consuming any Class A drugs.[\[note: 10\]](#Ftn_10) She knew that the Accused consumed cough syrup obtained from doctors and from Geylang.[^11]
+
+22     When the Accused asked DW2 Ms Tengku during examination-in-chief whether she had seen him carrying his medication when he was taken to the police station, she answered “yes”.[\[note: 12\]](#Ftn_12) During cross-examination when DW2 Ms Tengku was asked to describe what the medication was, she said that the Accused did not bring along any medication with him to the police station, as he was not allowed to bring the medication along and was told to throw it away while they were in the flat.[^13]
+
+23     When asked what medication the Accused was not allowed to bring along to the police station, DW2 Ms Tengku said “I only know that there were empty bottles in the house. That was his evidence. The rest I don’t know.”[\[note: 14\]](#Ftn_14)
+
+24     When clarification was sought from DW2 Ms Tengku as to what medication the Accused was told to throw away in the flat, she said he was told to throw away the empty cough syrup bottles.[\[note: 15\]](#Ftn_15)
+
+25     DW2 Ms Tengku also said that there was cough syrup left in flat and it was inside the fridge.[\[note: 16\]](#Ftn_16)
+
+### DW3 Mohammad Saddan Bin Yusoff – the Accused’s younger brother
+
+26     The Accused’s younger brother, DW3 Saddan, was staying at the Accused’s flat and was arrested together with him on 10 February 2021. He testified that the Accused was sleeping when the CNB officers went to the flat.
+
+27     During examination-in-chief, when asked whether the Accused had brought any medication to the police station, DW3 Saddan answered “no”.[\[note: 17\]](#Ftn_17)
+
+28     DW3 Saddan testified that he did not see the Accused taking any Class A drugs. Since the Accused’s last release from prison, he had been good and taking care of their elderly parents. DW3 Saddan also said the Accused had been taking cough syrup obtained from doctors and from Geylang.[\[note: 18\]](#Ftn_18)
+
+### DW4 and DW5 – police officers from Bedok Police Division
+
+29     The Accused called two police officers from Bedok Police Division, DW4 and DW5, who interviewed him in prison. The two officers gave their evidence in-camera due to the covert nature of their operations. DW4 was tasked to assist DW5, who led the interview. DW5 testified that the police received information relating to the sale of cough syrup and the purpose of interviewing the Accused was to find out whether he was involved in the sale of cough syrup and whether he knew where the cough syrup originated from. The Accused only told the officers that he was with an Indian friend at Yishun who introduced the Accused to a group of male Indians and offered to sell him 100 bottles of cough syrup at $10 each, which the Accused declined.[\[note: 19\]](#Ftn_19)
+
+30     The Accused said that he was a cough syrup addict and wanted to call the two officers as his witnesses to “prove that \[he\] had the cough syrup”. DW5 disagreed with the Accused’s account that DW5 had asked the Accused about a pail containing cough syrup with the alphabets “ABCD” in the Accused’s home.[\[note: 20\]](#Ftn_20) DW5’s evidence was that he did not know whether the Accused had cough syrup at home or not.[^21]
+
+### DW6 Aaron Chua Yong Sheng – CNB officer
+
+31     After the close of the Prosecution’s case, it came to the Prosecution’s knowledge that there was one other CNB officer present at the Accused’s flat during the arrest. The witness, DW6 Aaron Chua Yong Sheng, was offered by the Prosecution and called by the Accused. DW6 testified that the Accused was cooperative during the arrest on 10 February 2021, there were no drugs or drug utensils found in the Accused’s flat, and he did not see any medication or cough syrup in the flat.
+
+### Application to call Director, CNB
+
+32     The Accused applied to the Court to call the Director of CNB as a witness to give evidence on why the Accused was not sent to a DRC when he faced only a single charge of consumption. The application was refused as the reason why the Accused was not sent to a DRC was not relevant to determine whether the Accused was guilty of the charge against him.
+
+## Conviction
+
+33     I found that the Prosecution had proven the charge against the Accused beyond reasonable doubt and the Accused failed to rebut the presumption of consumption under s 22 of the MDA.
+
+### Presumption of consumption
+
+34     I found that the Prosecution had proven that the Accused’s urine contained MAM as a result of both urine tests conducted under section 31(4)(b) of the MDA.
+
+35     Based on the evidence summarised in the table below, I was satisfied that the provisions of the Misuse of Drugs (Urine Specimen and Urine Tests) Regulations were complied with and there was no break in the chain of evidence from procurement of the Accused’s urine sample to its analysis by the HSA analysts:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="34.48%"><col width="65.52%"></colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="QuoteList-Table-1"><b>Witness</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="QuoteList-Table-1"><b>Evidence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW3 Heykal</p><p align="justify" class="Table-Para-1">(CNB escorting officer)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The Accused washed his hands before choosing his master bottle and urine bottles from a drawer containing not less than 10 master bottles and not less than 20 urine bottles. All the bottles were sealed and prepacked with a plastic seal.</p><p align="justify" class="Table-Para-1">PW3 Heykal then escorted the Accused to the toilet where the Accused unsealed the master bottle and provided his urine in PW3 Heykal’s presence.</p><p align="justify" class="Table-Para-1">PW3 Heykal then escorted the Accused out of the toilet, instructed the Accused to unseal the two urine bottles and to pour his urine from the master bottle into the two small urine bottles.<span class="FootnoteRef"><a href="#Ftn_22" id="Ftn_22_1"><sup>[note: 22]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW4 Edwin Lee Mun Fong</p><p align="justify" class="Table-Para-1">(CNB IUT operator)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW4 siphoned some urine from the master bottle held by the Accused and transferred it into a test tube. The test tube was then placed in the IUT machine for testing. The Accused’s urine was tested positive for opiates.<span class="FootnoteRef"><a href="#Ftn_23" id="Ftn_23_1"><sup>[note: 23]</sup></a></span></p><p align="justify" class="Table-Para-1">PW4 then handed the urine labels to the sealing officer for the purpose of sealing the two urine bottles.<span class="FootnoteRef"><a href="#Ftn_24" id="Ftn_24_1"><sup>[note: 24]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW5 Muhammad Azlan Bin Muhammad Arsyad</p><p align="justify" class="Table-Para-1">(CNB sealing officer)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW5 checked to ensure that there was no leakage from the two urine bottles before sealing them. He then showed the Accused the two urine labels bearing the Accused’s full name and NRIC number. The Accused confirmed that his name was correct by signing on the labels. The Accused then deposited his urine bottles into metal containers which were then placed in a freezer.<span class="FootnoteRef"><a href="#Ftn_25" id="Ftn_25_1"><sup>[note: 25]</sup></a></span> The metal containers could only be opened by HSA.<span class="FootnoteRef"><a href="#Ftn_26" id="Ftn_26_1"><sup>[note: 26]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW6 Seri Nursyahidah Binte Mohamad Daud</p><p align="justify" class="Table-Para-1">(CNB despatch officer)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW6 retrieved the metal containers containing the Accused’s urine samples from the locked fridge in CNB and delivered them to HSA.<span class="FootnoteRef"><a href="#Ftn_27" id="Ftn_27_1"><sup>[note: 27]</sup></a></span> Only the HSA analyst can access the contents of the locked metal containers.<span class="FootnoteRef"><a href="#Ftn_28" id="Ftn_28_1"><sup>[note: 28]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW8 Siti</p><p align="justify" class="Table-Para-1">(HSA analyst)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The Accused’s urine sample came in locked metal boxes. PW8 Siti unlocked the metal box and checked the urine sample against the information from CNB, and that the seal was intact and the signature was present before proceeding to analyse the urine.<span class="FootnoteRef"><a href="#Ftn_29" id="Ftn_29_1"><sup>[note: 29]</sup></a></span></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW10 Jordan</p><p align="justify" class="Table-Para-1">(HSA analyst)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The Accused’s urine sample was submitted by PW6 in a locked security box. PW10 Jordan checked the details (<em>ie</em>, name, NRIC, marking number and signature) on the urine bottle against the information submitted by CNB. He also checked that the urine bottle was properly sealed and not tampered with. PW10 Jordan then unsealed the urine sample and conducted an initial screening test followed by a confirmatory test. Both tests were positive for MAM.<span class="FootnoteRef"><a href="#Ftn_30" id="Ftn_30_1"><sup>[note: 30]</sup></a></span></p></td></tr></tbody></table>
+
+  
+  
+
+36     HSA analysts, PW8 Siti and PW10 Jordan, each issued a certificate under s 16 of the MDA stating that the Accused’s urine sample contained MAM (exhibits P4 and P5), and that the presence of MAM in the urine was a result of consumption of diamorphine. Both analysts also testified that the MAM detected in the Accused’s urine sample (06-MAM) was a specific metabolite of diamorphine and its presence in the urine is due to consumption of diamorphine.[\[note: 31\]](#Ftn_31)
+
+37     Section 22 of the MDA states:
+
+> If any controlled drug is found in the urine of a person as a result of both urine tests conducted under section 31(4)(b), he or she is presumed, until the contrary is proved, to have consumed that controlled drug in contravention of section 8(b).
+
+38     Given that MAM was found in the Accused’s urine sample, he was presumed to have consumed MAM. Consumption of MAM is not limited to the direct ingestion of MAM; it includes consumption of diamorphine, which then metabolises into MAM in the body. This position adopted by the District Court in _PP v Tay Teok Choon_ <span class="citation">\[2019\] SGDC 40</span> at \[56\]-\[57\] was accepted by the High Court which affirmed the conviction in Magistrate’s Appeal 9038/2019/01.
+
+### Defence of consumption of cough syrup and/or other medication
+
+39     I found that the Accused failed to rebut the presumption that he had consumed MAM. I rejected his defence that his urine was tested positive for the drug due to consumption of cough syrup and/or other medication because it was inconsistent and non-specific.
+
+40     First, the Accused gave inconsistent accounts regarding what he had consumed. It was clear from the evidence that the Accused had expanded the list of substances he had consumed as time progressed:
+
+> (a)     On 10 February 2021 following his arrest and the IUT results showing that his urine was tested positive for opiates, the Accused said his statement P3 that he had only consumed **cough syrup bought from a person known as “Boy” at Lorong 20 Geylang**. “Boy” was his only supplier of cough syrup at Lorong 20 Geylang. The Accused did not consume any other medication or controlled drugs other than cough syrup.[\[note: 32\]](#Ftn_32) The Accused maintained this position in P13, his statement recorded on 10 March 2021 at 5.20pm when he was first shown the HSA analysis results.[^33]
+
+> (b)     In P14, the statement recorded by IO Sara on 10 March 2021 at 9.23pm, the Accused said he had consumed **cough syrup obtained from various sources in Geylang** and “Boy” did not refer to a single person but was a term he used to refer to the young people selling cough syrup and other substances in Geylang. The Accused also said he had consumed **cough syrup from clinics**. In addition to cough syrup, the Accused said he had consumed **epam and jabbed codeine** almost every day.[\[note: 34\]](#Ftn_34)
+
+> (c)     In P21, the Accused’s Case for the Defence filed on 27 December 2021, the Accused stated that he “came to realise” that he had been purchasing **cough syrup from an HSA officer**.[\[note: 35\]](#Ftn_35)
+
+> (d)     In court, the Accused added that before his arrest, he had consumed **Panaco tablets** obtained from a clinic.[\[note: 36\]](#Ftn_36) He had also obtained 10 bottles of **cough syrup from an Indian man** who offered to sell him 100 bottles of cough syrup.[^37] He also said that after taking the 10 bottles of cough syrup, he “felt different, and \[he\] felt good”.[^38]
+
+41     The Accused gave no satisfactory explanation for his shifting accounts, and I found his evidence to be unreliable.
+
+42     Second, I rejected the accused’s defence because it was vague and non-specific. Despite having raised the consumption of various types of substances in his defence, the Accused in his oral closing submissions said that his urine was tested positive for MAM because of the illegal cough syrup he had consumed, and it had nothing to do with the medication he obtained from the clinics. Nevertheless, the Accused did not pin-point which illegal cough syrup and he did not produce any cough syrup that he claimed had caused his urine to be tested positive for MAM.
+
+43     For completeness, I will also deal with the Accused’s claim that PW3 Heykal told him to discard the Panaco and epam tablets he brought along to the police station on the day of his arrest. His account was contradicted by the evidence of his fiancé, DW2 Ms Tengku, and his brother, DW3 Saddan. Both testified that the Accused did not bring along any medication with him to the police station (see \[22\] and \[27\]). In any event, given that the Accused’s eventual position was that his urine was tested positive for MAM because he had consumed illegal cough syrup and it had nothing to do with the medication he obtained from the clinics,[\[note: 39\]](#Ftn_39) his allegation that he was told to throw away his medication at the police station was irrelevant to his defence.
+
+44     Having found that the Accused failed to rebut the presumption of consumption, I convicted him of the charge.
+
+## Sentencing
+
+45     The prescribed punishment for an LT-2 offence under s 33A(2) of the MDA is imprisonment for a term of not less than seven years and not more than 13 years, and not less than six strokes and not more than 12 strokes of the cane.
+
+46     As the Accused was above 50 years of age, caning could not be imposed.
+
+47     The Accused had two previous convictions for an LT-2 offence:[\[note: 40\]](#Ftn_40)
+
+> 
+| 
+
+**Date of conviction**
+
+ | 
+
+**Charge number**
+
+ | 
+
+**Sentence**
+
+ |
+| 
+
+23 March 2007
+
+ | 
+
+DAC5613/2007
+
+ | 
+
+7 years, 6 strokes
+
+ |
+| 
+
+11 October 2013
+
+ | 
+
+DAC46624/2012
+
+ | 
+
+8 years, 6 strokes
+
+ |
+
+  
+  
+
+48     On account of his previous convictions, the Prosecution sought a sentence of nine years’ imprisonment.
+
+49     In mitigation, the Accused said that following his release from prison in 2018, he had not taken any Class A drug. He pleaded for leniency saying that he was guilty because he had consumed cough syrup. He also said he was 53 years of age and would be of advanced age by the end of his LT-2 sentence.
+
+50     I was of the view that the principle of escalation applied and an uplift from the Accused’s last sentence of eight years’ imprisonment was warranted to deter him from re-offending. I therefore imposed an imprisonment term of eight years and six months.
+
+51     Given the lengthy imprisonment term, I did not find it necessary to impose any additional imprisonment term in lieu of the caning which could not be ordered.
+
+* * *
+
+[\[note: 1\]](#Ftn_1_1)Exhibit P2
+
+[^2]: Exhibits P4 and P5.
+
+[^3]: Notes of Evidence (“NE”) 18 July 2022, 88/13; and 19 July 2022, 10/1.
+
+[^4]: NE 18 July 2022, 81/8.
+
+[^5]: NE 18 July 2022, 80/22; and 19 July 2022, 10/4.
+
+[^6]: Exhibit P20.
+
+[^7]: NE 19 July 2022,55/17-22.
+
+[^8]: NE 19 July 2022, 56/12.
+
+[^9]: NE 19 July 2022, 56/15.
+
+[^10]: NE 20 July 2022, 46/25 and 47/9.
+
+[^11]: NE 20 July 2022, 47/29.
+
+[^12]: NE 20 July 2022, 47/19.
+
+[^13]: NE 20 July 2022, 51/20 and 52/24.
+
+[^14]: NE 20 July 2022, 52/3.
+
+[^15]: NE 20 July 2022, 52/1-22.
+
+[^16]: NE 20 July 2022, 52/32.
+
+[^17]: NE 20 July 2022, 58/17.
+
+[^18]: NE 20 July 2022, 59/3-21.
+
+[^19]: NE 20 July 2022, 75/4-23.
+
+[^20]: NE 20 July 2022, 76/1-13.
+
+[^21]: NE 19 September 2022, 3/15.
+
+[^22]: NE 18 July 2022, 34/19-35/29.
+
+[^23]: NE 18 July 2022, 51/6-32.
+
+[^24]: NE 18 July 2022, 52/20-25.
+
+[^25]: NE 18 July 2022, 61/7-18.
+
+[^26]: NE 18 July 2022, 61/28-62/1.
+
+[^27]: NE 18 July 2022, 69/12-70/12.
+
+[^28]: NE 18 July 2022, 69/17-18.
+
+[^29]: NE 18 July 2022, 6/1-26.
+
+[^30]: NE 19 July 2022, 7/15-8/9.
+
+[^31]: NE 18 July 2022, 88/11-14 and 89/1-3; and 19 July 2022, 10/1.
+
+[^32]: Exhibit P3, at \[7\] and \[10\].
+
+[^33]: Exhibit P13, at \[14\].
+
+[^34]: Exhibit P14, at \[17\] and \[18\].
+
+[^35]: Exhibit P21, last page at \[18\]; and NE 19 July 2022, 56/12.
+
+[^36]: NE 19 July 2022, 83/7-25; and 20 July 2022, 3/3.
+
+[^37]: NE 20 July 2022, 23/25-24/4.
+
+[^38]: NE 20 July 2022, 25/12-13.
+
+[^39]: NE 19 September 2022, 24/6-7.
+
+[^40]: Exhibit P20.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F28879-SSP.xml)

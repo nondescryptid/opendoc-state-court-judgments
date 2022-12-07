@@ -1,0 +1,534 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# SECC Holdings Pte Ltd _v_ Helios PV (Asia Pacific) Pte Ltd (Sinohydro Corporation Limited (Singapore Branch), garnishee)  
+
+### \[2022\] SGDC 258
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Originating Summons No 19 of 2022 (Summons No 688 of 2022)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">03 November 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lewis Tan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Vishi Sundar and Andrea Seet Sze Yuen (WongPartnership LLP) for the Applicant; Ching Meng Hang and Lee Tze En Chrystal (Rajah &amp; Tann Singapore LLP) for the Garnishee.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">SECC Holdings Pte Ltd — Helios PV (Asia Pacific) Pte Ltd — Sinohydro Corporation Limited (Singapore Branch)</td></tr></tbody></table>
+
+Contract – Formation – When tripartite agreement was concluded
+
+Credit and Security – Remedies – Garnishee orders – Whether dispute should be summarily determined or tried
+
+3 November 2022 - Judgment reserved.
+
+### Deputy Registrar Lewis Tan:
+
+## Introduction
+
+1       The butterfly effect describes the unexpected consequences that may result from a single act. This effect played out in reality when the judgment debtor, a subcontractor for a project, became unable to pay its own subcontractors due to the unwillingness of the main contractor to pay up on a progress payment certified in favour of the subcontractor. According to the main contractor, this was to protect the interests of other sub-subcontractors as there were liquidity concerns pertaining to the subcontractor.
+
+2       Such good intentions were potentially counterproductive. For one, the judgment creditor, a sub-subcontractor, was not paid by the subcontractor as a result of the main contractor’s withholding of the progress payment. In an attempt to seek repayment, the judgment creditor obtained an adjudication determination against the subcontractor, which determination it now seeks to enforce against the main contractor by way of a garnishee application.
+
+3       However, much of the progress payment sum was allegedly assigned to a third party, who was also unpaid by the subcontractor, pursuant to a tripartite agreement. This newfound hurdle, and in particular _when_ such a tripartite agreement was entered into, is the subject of significant contention between the main contractor and the judgment creditor at the show cause hearing for the garnishee application.
+
+## Background facts
+
+4       Before addressing the issues raised, I provide a summary of the key facts in the dispute.
+
+5       The Land Transport Authority of Singapore appointed Sinohydro Corporation Limited (Singapore Branch) (the “Garnishee”) as the main contractor for its project (“the Project”). To complete the Project, the Garnishee appointed Helios PV (Asia Pacific) Pte Ltd (the “Judgment Debtor”) as its subcontractor.
+
+6       In December 2021, the Garnishee issued an interim certificate for the sum of $508,304.57 (“Progress Payment”) in favour of the Judgment Debtor.[\[note: 1\]](#Ftn_1) However, the Garnishee refused to release this Progress Payment until the Judgment Debtor “provide\[d\] clear evidence of payment to \[the Judgment Debtor’s\] subcontractors”.[^2]
+
+7       The withholding of the Progress Payment had downstream consequences, as the Judgment Debtor thus became unable to make progress payment to its own subcontractors, such as SECC Holdings Pte Ltd (the “Judgment Creditor”).[\[note: 3\]](#Ftn_3)
+
+8       As a result of the non-payment, the Judgment Creditor initiated adjudication proceedings against the Judgment Debtor, pursuant to the Building and Construction Industry Security of Payment Act 2004. By an adjudication determination in January 2022, the Judgment Debtor was ordered to pay $249,560.94 with interest accruing at 5.33% per annum to the Judgment Creditor (“Adjudication Determination”).[\[note: 4\]](#Ftn_4)
+
+9       The Judgment Creditor notified the Garnishee of the Adjudication Determination, but despite such notice, the latter refused to release the sum thereunder. The Judgment Creditor thus commenced the present proceedings to enforce the Adjudication Determination against the Judgment Debtor, and followed this by taking out this garnishee application to attach any debt due or accruing due from the Garnishee to the Judgment Debtor to satisfy the debt under the Adjudication Determination.
+
+10     The Judgment Creditor obtained a provisional garnishee order attaching the sum of $251,012.38 plus interest on 2 March 2022 (“PGO”), which PGO was served on the Garnishee on 10 March 2022.
+
+11     The service of the PGO was insufficient to compel the Garnishee to pay up. Instead, the Garnishee strenuously contested its liability to the Judgment Debtor, arguing in the main that a large portion of the Progress Payment that had been certified in the Judgment Debtor’s favour (see \[6\] above) had been assigned to a third party or had yet to crystallise.
+
+## Principles governing the garnishee application
+
+12     There are two stages in proceedings for a garnishee order under the Rules of Court 2014 (“ROC 2014”).
+
+13     First, a judgment creditor has to apply by _ex parte_ summons supported by an affidavit for a provisional garnishee order. Once this provisional garnishee order is obtained, it “shall bind in the hands of the garnishee as _from the service of the order on him on any debt specified in the order_” \[emphasis added\] (O 49 r 3(2) of ROC 2014). As such, the provisional garnishee order “operates as an injunction” so that “the garnishee is not entitled, upon service of the \[provisional garnishee order\], to deal with the debt specified in the order in a way that is inconsistent with the order” (_SCK Serijadi Sdn Bhd v Artison Interior Pte Ltd_ <span class="citation">\[2019\] 1 SLR 680</span> at \[29\] (“_SCK v Artison_”), citing _Choice Investments Ltd v Jeromnimon (Midland Bank Ltd, garnishee_) <span class="citation">\[1981\] 2 WLR 80</span> at 83).
+
+14     After the provisional garnishee order is obtained, a show cause hearing will be fixed. At this second stage, “\[i\]f the garnishee does not attend or attends but is unsuccessful in disputing his liability, the provisional order will be converted into a final order: O 49 r 4(1) \[of ROC 2014\]”: _Telecom Credit Inc v Midas United Group Ltd_ <span class="citation">\[2019\] 1 SLR 131</span> (“_Telecom Credit_”) at \[30\]. Alternatively, “\[i\]f the garnishee disputes his liability to pay the debt, the court may determine the matter summarily or order that it be ‘tried in any manner in which any question or issue in an action may be tried’, before deciding the appropriate order to be made: O 49 r 5 \[of ROC 2014\]”: _Telecom Credit_ at \[30\].
+
+15     Therefore, if a garnishee attends the show cause hearing and disputes his liability to pay the debt, the court may summarily determine the matter in finalising or setting aside the provisional garnishee order. Alternatively, it may order that any question or issue in the action be tried.
+
+16     As one of two options available to the Court at the show cause stage, summary determination is not to be lightly ordered, and the onus is on the judgment debtor and/or the garnishee “to put up an arguable defence that ought to be resolved at trial”. In other words, the Court is concerned at this juncture on whether the parties “should be allowed their day in court to prove \[their\] claim” (_Teleoptik-Ziroskopi and others v Westacre Investments Inc and other appeals_ <span class="citation">\[2012\] 2 SLR 177</span> (“_Teleoptik_”) at \[35\]). This is not a high threshold, and as the Court of Appeal observed in the same decision, “\[g\]enerally speaking, there are two ways in which a defence may be shown to be hopeless. The first is if it unsustainable on a cursory examination of the facts. The second is, assuming it is arguable on the facts, it nonetheless has no basis in law” (_Teleoptik_ at \[36\]).
+
+17     This position has been echoed in subsequent decisions, such as _Telecom Credit Inc v Star Commerce Pte Ltd_ <span class="citation">\[2017\] SGHCR 3</span>, where in borrowing from summary judgment principles, the learned Assistant Registrar Bryan Fang observed (at \[4\]) that “if, once all the evidence is in, the court is satisfied that the garnishee has at least an _arguable defence_, a trial will be ordered” \[emphasis in original removed, emphasis added in italics\]. At \[5\] of the same judgment, the principles were summarised thus:
+
+> … Viewing garnishee proceedings through the same lens \[as in a summary judgment application\], … I think that a judgment creditor necessarily establishes the _prima facie_ existence of the debt sought to be garnished once he obtains a provisional garnishee order because such an order would plainly not have been granted if he could not even adduce sufficient evidence to cross this threshold in the first place. This places a tactical burden on the garnishee at the show cause hearing to challenge the judgment creditor’s _prima facie_ case by adducing contrary evidence to discredit it, advancing legal submissions to show that it is misconceived, or employing a combination of both. The judgment creditor may then do likewise to undermine whatever defence the garnishee has mustered. Ultimately, the court must be satisfied based on all the evidence put before it that the garnishee has a defence that is at least arguable or, to put it another way, one that is not hopeless, before a trial may be ordered. …
+
+## Whether an oral agreement was concluded before the service of the PGO
+
+18     Having summarised the principles, I turn to consider the parties’ submissions in greater detail. Both the Garnishee and the Judgment Creditor have submitted that the present matter can be summarily determined in their respective favour. For the purposes of this judgment, I begin with the Garnishee’s arguments.
+
+19     In support of his client’s case, counsel for the Garnishee, Mr Ching Meng Hang (“Mr Ching”), submitted that the Garnishee, Judgment Debtor and one Nexon Engineering Pte Ltd (“Nexon”) entered into a three-party concerning the Progress Payment (the “Tripartite Agreement”). This Tripartite Agreement provided that $256,105.23 (“the Assigned Sum”) of the Progress Payment sum would be transferred by the Garnishee to Nexon. As regards the remaining sum, the Garnishee and Judgment Debtor agreed that $239,250.93 (“the Reserved Sum”) would be “temporar\[il\]y reserved as estimated on-site implementation cost and w\[ould\] be released after \[the Judgment Debtor\] completed all outstanding works”.[\[note: 5\]](#Ftn_5)
+
+20     This Tripartite Agreement, it is submitted, was concluded by way of a 3 February email, a 9 February email and/or the signed Tripartite Agreement dated 17 February 2022, with “each constituting a binding oral / written contract”.[\[note: 6\]](#Ftn_6) Given the presence of the Tripartite Agreement, it is asserted that the Garnishee is only indebted to the Judgment in the sum of $12,948.41 (“the Remaining Sum”), being the remainder of the Progress Payment after deducting the Assigned Sum and the Reserved Sum.[^7]
+
+21     The central thrust of the Garnishee’s submissions, therefore, is that there was a concluded Tripartite Agreement _before_ the PGO was served. This is crucial because the PGO would, from the time of service, operate as an injunction on any debt due or accruing due to the Judgment Debtor at the time of service (_SCK v Artison_ (\[13\] _supra_) at \[29\]). Hence, for the matter to be summarily determined in the Garnishee’s favour, the Court must be satisfied without trial that much of the Progress Payment certified in the Garnishee’s favour was validly assigned to Nexon by way of the Tripartite Agreement before the PGO was served. I begin this assessment by considering if the parties entered into a binding oral Tripartite Agreement.
+
+### The email correspondence
+
+22     Mr Li Yi, the authorised representative of the Garnishee, has explained on affidavit that since late 2021, the Garnishee, the Judgment Debtor, and Nexon (collectively, “the Three Parties”) entered into negotiations to regulate their contractual arrangements due to the Judgment Debtor’s “unsatisfactory performance” as the Garnishee’s subcontractor.[\[note: 8\]](#Ftn_8) This culminated in an email from Ms May Ho (“Ms Ho”) of Nexon dated 3 February 2022, which stated the terms of an alleged agreement between the Three Parties, as follows (“the 3 February email”):[^9]
+
+> _We are_ \[sic\] _finally come to a conclusion as below_:
+
+>> \[The Judgment Debtor\] agreed \[for the Garnishee\] to made \[_sic_\] payment on behalf to Nexon for main contract works only.
+
+>> \[The Judgment Debtor\] and Nexon had agreed to settle main contract outstanding amount first, while \[the Judgment Debtor\] not yet received VO approval from \[the Garnishee\].
+
+>> \[The Garnishee\] will arrange direct payment to Nexon by 10Feb2022.
+
+>> Variation order to be resolve later.
+
+> \[emphasis added\]
+
+23     Ms Ho’s email was corroborated by Mr Li Qie of the Garnishee, who responded the next day that:[\[note: 10\]](#Ftn_10)
+
+> _According to the meeting among \[the Three parties\] on 3rd Feb 2022, all parties have common agreements as following_,
+
+> 1.    \[The Judgment Debtor\] will officially entrust \[the Garnishee\] to pay for the partial payment claim to Nexon which has been certified by \[the Garnishee\] and corresponding to Nexon’s work scope directly；
+
+> 2.    As of the remaining certified payment amount with completed works between \[the Judgment Debtor\] and \[the Garnishee\], there will be an agreement signed by \[the Judgment Debtor\], Nexon and \[the Garnishee\] with an amount agreed by all parties.
+
+> Hence, _there will be transference of obligatory right and debit, \[the Judgment Debtor\] will entrust \[the Garnishee\] to settle the amount indicated in the agreement to Nexon directly_.
+
+> All parties also agree that the amount will be deducted from the certified payment claim between \[the Garnishee\] and \[the Judgment Debtor\].
+
+> \[emphasis added\]
+
+24     I pause here to observe that, based on the correspondence at the time, it appears that both Nexon and the Garnishee were in consensus that the Judgment Debtor had agreed to the assign part of the Progress Payment to Nexon.
+
+### The Judgment Debtor’s non-response to the emails
+
+25     However, the third party to this alleged agreement, the Judgment Debtor, did not respond to the email thread, triggering a follow up from Mr Li Yi on 9 February 2022, wherein he asked representatives of the Judgment Debtor and Nexon if there was “\[a\]ny news regarding the outstanding payment”.[\[note: 11\]](#Ftn_11) Seemingly eager for payment, Ms Ho responded promptly, confirming that Nexon had “officially submit\[ted\] all the documents on 3 Feb 2022” and that they were “pending \[the Garnishee’s\] payment by tomorrow 10Feb2022 since 3 parties Director had agreed to close the Main contract payment first”.[^12] Despite this, Mr Li Yi again questioned – “Does \[the Judgment Debtor\] agree, as last time discuss, we need \[the Judgment Debtor to\] acknowledge and agree”.[^13]
+
+26     After Mr Li Yi’s query, representatives of the Three Parties had another meeting. After the conclusion of the meeting, Ms Ho sent an email, detailing as follows (hereinafter the “9 February email”):[\[note: 14\]](#Ftn_14)
+
+> Hi Mr Li Yi,
+
+> Thanks for your kind reminder and **\[the Judgment Debtor\] had agreed as per below minutes**. **Currently, we are pending \[the Garnishee’s\] contract team to draft the 3 party agreement which had been concluded** in our meeting with \[the Judgment Debtor’s\] and \[the Garnishee’s\] representative today 9Feb2022, 3pm-4.15pm.
+
+> …
+
+> The meeting had resolved and concluded as below:
+
+> The contract works had been finalise at $1,122,019.20 (excl. GST) and outstanding amount is $422,105.23 (as per Progress Claim 07) Nexon had agreed to give a discount of $10,000 hence \[the Judgment Debtor\]/\[the Garnishee\] to make direct payment of $412,105.23 \[the Judgment Debtor\] had agreed to Nexon request regarding maincon- \[the Garnishee\] to undertake the responsibility to make direct payment to Nexon. **\[The Garnishee\] agreed to \[the Judgment Debtor\]/Nexon to undertake the responsibility to make full direct payment to Nexon and the payment schedule for $412,105.23 as per below**:
+
+>> (i)    1st payment $256,105.23 – tentatively payment by 18Feb2022 \[within 1 week after all party signed the agreement\].
+
+>> (ii)   2nd payment $56,000- payment scheduled at 15Apr2022.
+
+>> (iii)   3rd payment $100,000- payment scheduled at 1Mar2023
+
+> Wang Hao to ensure **\[the Garnishee’s\] contract team to provide the agreement by 11 Feb2022 (Friday).**
+
+> All parties target to sign the agreement latest by 14 Feb2022 (Monday) and the 1st payment shall be within 1 week upon all parties signed. Nexon propose Variation works to be discuss later.
+
+> \[emphasis added in bold\]
+
+27     This 9 February email contained more information of the terms of the payment schedule to Nexon, which was allegedly agreed by all Three Parties. The email also clearly set out the _amount_ to be assigned to Nexon, being $412,105.23, which was to be paid in three tranches, with the first of such tranches being the Assigned Sum of $256,105.23, and the remaining two tranches totalling $156,000 to be paid in later stages.
+
+28     However, the Judgment Debtor did not expressly respond or assent to the terms in the email correspondence above. This throws doubt to whether there was a valid assignment of part of the Progress Payment to Nexon. An assignment is effectual upon the fulfilment of three requirements, namely: (a) an intention to assign; (b) clear identification of the chose in action being assigned; and (c) some act by the assignor showing that he is passing the chose in action to the alleged assignee (_Sutherland, Hugh David Brodie v Official Assignee and another_ <span class="citation">\[2021\] 4 SLR 752</span> at \[41\], citing _Tsu Soo Sin v Oei Tjiong Bin and another_ <span class="citation">\[2009\] 1 SLR(R) 529</span> at \[16\]). While the emails above record an intention to assign and a clear identification of the chose in action being assigned (the Progress Payment), there is no express act by the Judgment Debtor (the assignor) showing that it agreed to pass the chose in action to Nexon (the alleged assignee).
+
+### The Judgment Debtor’s signing of the Signed Tripartite Agreement
+
+29     Nonetheless, as contemplated in the penultimate paragraph of the 9 February email, the Garnishee circulated the written agreement to the Judgment Debtor and Nexon on 11 February 2022, requesting for them to “chop & sign in each page and fil in bank details” in the agreement.[\[note: 15\]](#Ftn_15)
+
+30     On 25 February 2022, the Judgment Debtor, in its first express act of assent, executed its copy of the written agreement,[\[note: 16\]](#Ftn_16) which arrived by courier to the Garnishee’s office on or about 1 March 2022.[^17] Shortly thereafter, on 2 March 2022, Nexon provided its signature and company chop on each page of the written agreement,[^18] which was stated to have been “made on the 17th day of February 2022” and provided as follows (the “Signed Tripartite Agreement”):[^19]
+
+> According to the certified progress payment of the \[Project\] between \[the Garnishee\] and \[the Judgment Debtor\] …, the total amount is **SGD$508,304.57 (incl. GST).**
+
+> …
+
+> By mutual consent between \[the Garnishee\] and \[the Judgment Debtor\], the amount **SGD$239,250.93 (incl GST)** \[_ie_, the Reserved Sum\] will be temporarily reserved as estimated on-site implementation cost and will be released after \[the Judgment Debtor\] completed all outstanding works. Hence, the current total available amount is **SGD$269053.64 (incl GST)**
+
+> …
+
+> Due to the project settlement between \[the Judgment Debtor\] and Nexon, the final debt amount was **SGD$412,105.23(incl. GST)** as confirmed by \[the Judgment Debtor\] and Nexon. After kind negotiation among \[the Judgment Debtor\], Nexon and \[the Garnishee\], in order to expedite the debt payment of \[the Judgment Debtor\] and Nexon, the three parties have reached the following agreement:
+
+> **\[The Judgment Debtor\] entrust \[the Garnishee\] to transfer the amount SGD$256,105.23 (incl. GST) \[** **_ie_**, **the Assigned Sum\] … to Nexon directly and the corresponding fee will be deducted from \[the Judgment Debtor’s\] contractual rights.**
+
+> …
+
+> \[The Judgment Debtor\] promised to complete the outstanding works … within two months. After kind negotiation among \[the Judgment Debtor\], Nexon and \[the Garnishee\], in order to expedite the debt payment of \[the Judgment\] and Nexon, the three parties have reached the following agreement:
+
+> **\[The Judgment Debtor\] entrust \[the Garnishee\] the transfer the amount SGD$56,000 (incl. GST) to Nexon directly after completed all outstanding works, the corresponding fee will be deducted from \[the Judgment Debtor’s\] contractual rights.**
+
+> …
+
+> After kind negotiation among \[the Judgment Debtor\], Nexon and \[the Garnishee\], the three parties have reached the following agreement:
+
+> **\[The Judgment Debtor\] entrust \[the Garnishee\] to transfer the amount SGD$100,000 (incl. GST) from retention between \[the Garnishee\] and \[the Judgment Debtor\] to Nexon directly after Project DLP (2 March 2023), the corresponding fee will be deducted from \[the Judgment Debtor’s\] contractual rights …**
+
+> \[emphasis in bold in original\]
+
+31     Thus, as per the Signed Tripartite Agreement, the amount acknowledged to be due and payable from the Garnishee to the Judgment Debtor at the time of signing time was $269,053.64. Of this sum, the Judgment Debtor agreed to assign $256,105.23 (_ie_, the Assigned Sum) to Nexon forthwith. Under the agreement, it was further contemplated that upon completion of the outstanding works, the “temporarily reserved” sum of $239,250.93 (_ie_, the Reserved Sum) would be payable by the Garnishee to Judgment Debtor, although $156,000 of this Reserved Sum would be paid by the Garnishee to Nexon directly, and in two different tranches.
+
+32     Based on the above, it can be seen that Judgment Debtor consented to the terms in the Signed Tripartite Agreement, which was broadly (but not wholly) consistent with the email correspondence, and in particular the 9 February email. To recap, by the 9 February email, it was recorded that the Three Parties agreed that a total of $412,105.23 would be assigned to Nexon, and that the payment schedule to Nexon under the Tripartite Agreement would be split into three tranches, being $256,105.23, $56,000, and $100,000 (see \[26\] and \[27\] above).
+
+### Material differences between the email correspondence and the Signed Tripartite Agreement
+
+33     Nonetheless, counsel for the Judgment Creditor, Mr Vishi Sundar (“Mr Vishi”), focused on the material changes made to the Signed Tripartite Agreement. In his submission, the signed agreement was much more detailed and contained important terms that were absent in the 9 February email. Most significantly, while the Signed Tripartite Agreement made provision for the Reserved Sum to be released upon completion of all outstanding works, the 9 February email made _no_ mention of the Reserved Sum. Hence, Mr Vishi argued that the Tripartite Agreement could only have been concluded when the Signed Tripartite Agreement was sent to _both_ the Judgment Debtor and Nexon. This was about four hours after the PGO was served, and represented the Garnishee’s “final and unqualified expression of assent” to the agreement (_Gay Choon Ing v Loh Sze Ti Terence Peter and another appeal_ <span class="citation">\[2009\] 2 SLR(R) 332</span> at \[47\], citing Edwin Peel, _Treitel: The Law of Contract_ (Sweet & Maxwell, 12th Ed, 2007) at para 2-015).[^20]
+
+34     However, as the Court of Appeal recognised in _R1 International Pte Ltd v Lonstroff AG_ <span class="citation">\[2015\] 1 SLR 521</span> (“_R1 International_”) at \[52\],
+
+> … **it is not uncommon for parties to first agree on a set of essential terms which the parties may be bound by as a matter of law and on the basis of which they may act, even while there may be ongoing discussions on the incorporation of other usually detailed terms**. The fact that the latter issue has yet to be resolved does not prevent the contract based on the essential core terms from coming into existence. Put another way, even if the parties are eventually unable to agree on the remaining terms, it does not necessarily follow that no contract will be found to have been concluded upon the agreed essential terms: see for _eg, Pagnan SpA v Feed Products Ltd_ \[1987\] 2 Lloyd’s Rep 601 at 619. …
+
+> \[emphasis added in bold\]
+
+35     For example, in _Tryggingarfelagio Foroyar P/F v CPT Empresas Maritimas SA (M/V Athena)_ \[2011\] EWHC 589 (Admlty) (cited with approval in _R1 International_ at \[56\]–\[58\]), the court found that the parties had entered into a legally binding agreement when the shipowners accepted the salvage company’s offer, which contained essential terms but no mention of a BIMCO contract. This BIMCO contract was _subsequently_ incorporated into the parties’ agreement because the shipowners did not reject the salvage company’s “recap” email which stated that a “finalised” version of the contract between the parties would be the BIMCO contract “as partly discussed earlier”.
+
+#### Essential terms supplemented by a signed agreement
+
+36     Seen thus, the 9 February email may be seen as recording the essential terms of the Tripartite Agreement, which agreement was supplemented by the Signed Tripartite Agreement that was circulated and signed by all Three Parties thereafter.
+
+37     Such an interpretation is wholly consistent with the language used in the email correspondence between parties, where representatives of Nexon and the Garnishee (but not the Judgment Debtor) used conclusory language like “finally come to a conclusion”, “common agreements” and “agreement which _had been_ concluded” \[emphasis added\].[\[note: 21\]](#Ftn_21)
+
+38     Based on the above evidence, there is a strong argument to be made that the Three Parties had agreed to the assignment of $412,105.23, which consisted of the Assigned Sum, in Nexon’s favour, from as early as 9 February 2022. This was confirmed by the Judgment Debtor when it executed the Signed Tripartite Agreement on 25 February 2022. The latter date was before the PGO was served on the Garnishee, and so, as at the time of service of the PGO, the Garnishee was only indebted to the Judgment Debtor in the sum of $12,948.41 (_ie_, the Remaining Sum under the Tripartite Agreement).
+
+#### Substantial differences in payment schedule
+
+39     However, while the 9 February email stipulated that the payment of the $56,000 and $100,000 was scheduled for 15 April 2022 and 1 March 2023 respectively, the Signed Tripartite Agreement subjected the payment of these sums to significantly different conditions. As regards the $56,000, the Signed Tripartite Agreement provided that it would be transferred to Nexon only after the Judgment Debtor “completed all outstanding works”. As for the $100,000, it was stipulated that it would be transferred to Nexon directly “after Project DLP (2 March 2023)”.[\[note: 22\]](#Ftn_22)
+
+40     15 April 2022 (the stipulated date for payment of the $56,000 in the 9 February email) has certainly passed, and yet it does not appear that Nexon has been paid the $56,000. On the face of it, the Signed Tripartite Agreement thus changed the terms that were allegedly concluded by 9 February 2022, as recorded in the 9 February email. Such material differences cast doubt to whether the Tripartite Agreement had indeed been concluded on 9 February 2022.
+
+41     This is in particular as the 9 February email does not appear to have contemplated any significant amendments to the terms therein. While the first payment of $256,105.23 (_ie_, the Assigned Sum) was stipulated to be “tentatively” payable by 18 February 2022, being “1 week after all party signed the agreement”, the payment of $56,000 and $100,000 were not stated to be tentative; rather, in the 9 February email, such payment were specified as “payment scheduled” on 15 April 2022 and 1 March 2023 respectively.[\[note: 23\]](#Ftn_23) The insertion of conditions for payment, particularly for the $56,000, was thus a material change that did not appear to have been agreed to as at 9 February 2022.
+
+42     To this point, Mr Ching referred to the case of _OCBC Capital Investment Asia Ltd v Wong Hua Choon_ <span class="citation">\[2012\] 4 SLR 1206</span> (“_OCBC Capital_”). There, the parties entered into negotiations to find a mutually beneficial solution after the global financial crisis significantly affected their prior arrangement. This culminated in a meeting on 23 June 2009, when parties settled on the terms in a term sheet, which included terms for the sale of certain shares owned by the Appellant to the Respondent. The term sheet also expressly stated as follows: “Documentation: A Supplemental Agreement to be executed to effect the necessary changes” (“the crucial term”). The formal documentation, which included the Supplemental Agreement, was eventually completed, and in one of these documents, the date for the sale of the first tranche of shares was changed from 31 July 2009 to 15 August 2009. The Appellant then sued the Respondent, arguing among others that the parties had entered into a binding oral contract according to the terms of the term sheet. The trial judge dismissed the Appellant’s suit as he found that the crucial term was akin to a “subject to contract clause”.
+
+43     The Court of Appeal allowed the Appellant’s appeal and found that based on the “objective evidence as well as the context”, the Respondent had given “his complete assent to the Term Sheet at the 23 June 2009 meeting”, and so it was “clear that the parties had entered into a binding oral contract at the 23 June 2009 meeting” (_OCBC Capital_ at \[58\]). Also, the critical requirement in the crucial term was not that a Supplemental Agreement would be executed, but that it would be executed “to effect the necessary changes” (_OCBC Capital_ at \[42\]). Viewed thus, the Supplemental Agreement only served to modify an existing contract between the parties, and to this end, the change of date for the sale of the shares “was nothing more than a proposal by the Appellant to revise the date for the sale of the first tranche of the … shares … in order to accommodate the delay in the signing of the Supplemental Agreement” (_OCBC Capital_ at \[63\]).
+
+44     However, in coming to this finding, the Court of Appeal referred, among others, to the oral testimony of the witnesses, which made clear that “_the Respondent himself_ … was _wholly in agreement with the terms set out in the Term Sheet_, which were discussed at the 23 June 2009 meeting itself” \[emphasis in original\] (_OCBC Capital_ at \[47\]). In other words, the court came to its finding with the benefit of evidence given at trial, and not summarily. Furthermore, while the Term Sheet in _OCBC Capital_ contemplated that a Supplemental Agreement would be executed to effect necessary changes, nothing in the 9 February email suggests that the terms therein would be amended subsequently.
+
+### The 10 March 5:06pm email
+
+45     The matter is further complicated as Mr Ng Chun Ee (“Mr Ng”), a director of the Judgment Debtor, has asserted on affidavit that “the \[Tripartite\] Agreement was only concluded when \[the Garnishee\] sent the copy of the \[Tripartite\] Agreement that it had signed to both \[Judgment Debtor\] and Nexon via an email at 5.06pm on 10 March 2022.” He further elaborated that “\[w\]hile there were discussions between \[the Three Parties\] prior to the 10 March Email, it was always the parties’ intent that the proposed terms in these discussions were subject to a written contract being signed by all \[T\]hree \[P\]arties.”[\[note: 24\]](#Ftn_24)
+
+46     Mr Ching submits that Mr Ng’s remarks amount to “bare assertion\[s\]” which ought to be rejected, as was the case in _M2B World Asia Pacific Pte Ltd v Matsumura Akihiko_ <span class="citation">\[2015\] 1 SLR 325</span> (“_M2B World_”). I do not agree.
+
+47     In _M2B World_, a claim arose from a purported oral agreement between the plaintiff and the defendant, wherein the defendant had allegedly agreed to secure advertising contracts worth at least US$10m for the plaintiff’s new web-based television channel in return for an annual commission of US$1m. The plaintiff subsequently claimed repayment of the US$1m that it had paid as advance payment. In resisting the plaintiff’s summary judgment application, the defendant raised several “triable issues”, which were all rejected by the court because first, Judith Prakash J (as she then was) found that the defence had evolved over time, which suggested that it was “more an afterthought than a genuine one” (at \[27\]). Secondly, “several key planks of \[the defendant’s\] defence were merely assertions on affidavit that were not adequately substantiated” (at \[27\]). Hence, her Honour held that the defendant failed to raise a _bona fide_ defence to the plaintiff’s claim, and so summary judgment was entered in the plaintiff’s favour in the sum of US$1m.
+
+48     While the defendant in _M2B World_ failed to provide any evidence in support of the key planks of his defence, Mr Ng has exhibited the 10 March 5:06pm email in his affidavit. This short email was sent by Mr Li Qie of the Garnishee to the representatives of Nexon and the Judgment Debtor, and stated as follows (hereinafter “the 10 March 5:06pm email”):[\[note: 25\]](#Ftn_25)
+
+> Hi All,
+
+> Attached agreement \[_ie_, the Signed Tripartite Agreement\] for your record.
+
+49     The 10 March 5:06pm email was the first time that both the Judgment Debtor and Nexon were provided with the Signed Tripartite Agreement which contained the signature and company stamps of all Three Parties, and in particular that of the Garnishee.
+
+### The significance of the return of the Signed Tripartite Agreement
+
+50     The email was also sent about four hours after the PGO had been served on the Garnishee, and followed two _separate_ chasers sent by representatives of both the Judgment Debtor and Nexon on 9 March 2022, the day before the PGO was served:[\[note: 26\]](#Ftn_26)
+
+> (a)     First, on 9 March 2022 at 1:14pm, Mr Huang Junyi (“Mr Huang”) from the Judgment Debtor messaged Mr Wang Hao (“Mr Wang”) from the Garnishee, asking: “has the agreement by the 3 parties been signed?”. To this, Mr Wang replied “Yes”. Mr Huang then said: “Ok, you will send a copy to me, right?”, to which Mr Wang said “Yes, I will send it to you when I get back”.[\[note: 27\]](#Ftn_27) Despite the assurance, Mr Wang did not actually send Mr Huang the signed copy, and the Judgment Debtor only received it the next day, by way of the 10 March 5:06pm email.
+
+> (b)     Second, on 9 March 2022 at 4:46pm, Ms Ho from Nexon emailed Mr Li Yi of the Garnishee to press for payment pursuant to the Tripartite Agreement. In her email, Ms Ho stated that “\[a\]ll the documents had been signed by Nexon and \[the Judgment Debtor\]. … However, we are still not yet receive the payment till today … Appreciated if you could approve the payment soonest”.[\[note: 28\]](#Ftn_28) In response, Mr Li Yi replied on 10 March 2022 at 1:11pm that “since every document are duly signed, we will release the payment as soon as possible.”[^29] In the same email, Mr Li Yi also instructed Mr Wang to “help to arrange payment to \[N\]exon”.[^30]
+
+51     The return of the Signed Tripartite Agreement was thus clearly of significance to both Nexon and the Judgment Debtor.
+
+52     Nonetheless, according to Mr Ching, the return of the signed agreement was simply to trigger the payment of the Assigned Sum, and it was not an essential act necessary for the conclusion of the agreement between the Three Parties. On the body of evidence before me, I accept that this appears to have been the view taken by at least two parties to the Tripartite Agreement, namely Nexon and the Garnishee. However, whether this was also the case for the Judgment Debtor is more uncertain. Let me elaborate.
+
+#### The Garnishee’s and Nexon’s position
+
+53     In the 9 February email, Ms Ho recorded that the first payment of $256,105.23 (being the Assigned Sum) would be made “within 1 week after all party signed the agreement”.[\[note: 31\]](#Ftn_31) Consistent with this, the email also stated that the parties were “pending \[the Garnishee’s\] contract team to draft the 3 party agreement _which had been concluded_” \[emphasis added\].[^32]
+
+54     Then, on 15 February 2022, being four days after the Garnishee had sent the written Tripartite Agreement to the parties for their signature, Mr Li Qie of the Garnishee sent the following email to both the Judgment Debtor and Nexon:[\[note: 33\]](#Ftn_33)
+
+> Dear \[Judgment Debtor\] and Nexon,
+
+> Please expedite the confirmation of agreement and provide relevant information. As we mentioned in the previous meeting, _the signing time of the agreement will affect the payment process_.
+
+> \[emphasis added\]
+
+55     Later, on 17 February 2022, Ms Ho enclosed Nexon’s signed copy “for \[the Garnishee’s\] and \[the Judgment Debtor’s\] signatory \[_sic_\]”. In the same email, she stated that she was “target\[ting\] to move to the next stage”, and that Nexon awaited “the first payment since it was target to settle by 10Feb2022 as promised … in previous meeting dated 3Feb2022”.[\[note: 34\]](#Ftn_34)
+
+56     Thus, by mid-February 2022, it appears that both the Garnishee _and_ Nexon were in agreement that they had entered into a Tripartite Agreement, and that the signature of the agreement was only necessary to initiate the payment process. Certainly, neither party disputed the fact that an agreement regarding the assignment of the Assigned Sum had been concluded.
+
+#### The Judgment Debtor’s position
+
+57     Importantly, the Judgment Debtor was also copied in the above email correspondence, wherein Nexon and the Garnishee appeared to be in consensus that a Tripartite Agreement assigning large sums otherwise due to the Judgment Debtor to Nexon had been concluded. Furthermore, it was made clear in the several emails set out above that the signing of the Tripartite Agreement was necessary to effect payment of the Assigned Sum. The Judgment Debtor _never_ expressly contested this.
+
+58     Then, on 25 February 2022, the Judgment Debtor confirmed to the Garnishee that it had executed the Signed Tripartite Agreement by affixing its company chop and the signature of its managing director on every page of the agreement.[\[note: 35\]](#Ftn_35) Through its execution of the Signed Tripartite Agreement, the Judgment Debtor clearly intimated its agreement to “entrust \[the Garnishee\] to transfer the \[Assigned Sum\] … to Nexon directly”, and for the corresponding sum to be deducted from the Judgment Debtor’s contractual rights with the Garnishee. The Judgment Debtor also agreed for a further $156,000 to be transferred to Nexon directly in later stages, and for the Reserved Sum of $239,250.93 to be withheld until the Judgment Debtor completed all outstanding works.
+
+59     However, as explained at \[39\]–\[40\] above, there were material differences between the 9 February email and the Signed Tripartite Agreement, in particular as to the conditions for the remaining $156,000. Such differences have not been explained by the Garnishee in the various affidavits filed for this garnishee application, and a review of the lengthy email correspondence exhibited and set out in some detail in this judgment do not shed light on how these differences came into being. Given the material differences, the Judgment Debtor’s consent to the terms of the Signed Tripartite Agreement does not conclusively show that the Judgment Debtor thereby agreed to the terms set out in the 9 February email.
+
+60     In this regard, although the Judgment Debtor’s “failure to object _might_ in the circumstances be found to constitute assent to the incorporation of the other party’s terms” \[emphasis added\] (_R1 International_ at \[54\]), the crucial word here is “might”; it is uncertain from the documentary evidence alone that the Judgment Debtor, through its lack of objection to the email correspondence, and in particular to the 9 February email, consented to the terms therein.
+
+61     Indeed, the only positive evidence thus far suggests that the Judgment Debtor _did not_ consent to the terms in the 9 February email: Mr Ng has affirmed an affidavit stating his belief that the Tripartite Agreement was only concluded when the 10 March 5:06pm email was disseminated. As Mr Vishi submitted, Mr Ng’s affidavit has not been challenged by the Garnishee by way of a reply affidavit.[\[note: 36\]](#Ftn_36)
+
+## Whether the Signed Tripartite Agreement was concluded before the service of the PGO
+
+62     The uncertainty about whether parties came to an oral agreement reflected in the email correspondence does not defeat the Garnishee’s defence entirely. As a fallback, the Garnishee submits that there was nevertheless a Signed Tripartite Agreement that was properly executed by all Three Parties _before_ the service of the PGO. This begs the question: _when_ was this Signed Tripartite Agreement concluded?
+
+63     If the Signed Tripartite Agreement was concluded _before_ the time of service of the PGO, the sums assigned to Nexon would no longer be “debt due or accruing due” from the Garnishee to the Judgment Debtor. This is so even if the assigned sums were payable at a later date, after the service of the PGO. As I explained in _The Management Corporation Strata Title Plan No 4450 v Zhang Fan (Khursheed Ahmed, garnishee)_ <span class="citation">\[2021\] SGMC 12</span> at \[15\]:
+
+> Once it is ascertained that the judgment debtor has a legal entitlement to payment from the garnishee, a garnishee order may be made in respect of that debt. The timeline for payment is immaterial in this regard, since a debt that is payable forthwith is simply a debt that is “due”, while a debt that is payable in the future is a debt “accruing due”: see _Globalpoint_ \[_Far East Pte Ltd v Wah Cheng Pte Ltd (Prelim Construction Pte Ltd, garnishee)_ <span class="citation">\[2019\] SGDC 267</span>\] at \[17\]. Both such debts are encompassed by O 49 r 1(1) of the Rules, which applies to any debt “due or accruing due”.
+
+64     It is thus important to turn to assessing when the Signed Tripartite Agreement, which was executed by the Judgment Debtor on 25 February 2022, was concluded.
+
+### Effective communication of acceptance
+
+65     Here, See Kee Oon J has observed in _BGC Partners (Singapore) Ltd v Yap Yuk Hee and others_ <span class="citation">\[2021\] SGHC 279</span> (“_BGC Partners_”) at \[25\] (citing _Chitty on Contracts_ (H G Beale gen ed) (Sweet and Maxwell, 33rd Ed, 2018) at 2-044) that:
+
+> … **_The general rule is that an acceptance has no legal effect until it is communicated to the offeror_**. Accordingly, no contract is concluded by: a person who writes an acceptance on a piece of paper which he simply keeps; a company that resolves to accept an application for shares but does not communicate the resolution to the applicant; a person who decides to accept an offer to sell goods to him and instructs his bank to pay the offeror but neither he nor the bank gives notice of this fact to the offeror; and a person who communicates the acceptance only to his own agent. **_The main reason for the rule is that it would be unfair to bind the offeror before he knows that his offer had been accepted_**. So long as the offeror knows of the acceptance, a contract may be concluded even though the acceptance was not brought to his notice by the offeree. However, there will be no contract if the communication is made by a third party without the offeree’s authority in circumstances indicating that the offeree’s decision to accept was not yet regarded by him as irrevocable.
+
+> \[emphasis in original removed, emphasis added in bold italics\]
+
+66     The central thrust of the above passage is that for an offer to have been deemed accepted, there must have been “effective communication” of the offeree’s acceptance (see _BGC Partners_ at \[38\]–\[39\]). As Lord Denning vividly explained in _Robophone Facilities Ltd v Blank_ <span class="citation">\[1966\] 1 WLR 1428</span> at 1432, “\[s\]igning without notification is not enough. It would be deplorable if it were. The plaintiffs would be able to keep the form in their office unsigned, and then play fast and loose as they please. \[The defendant\] would not know whether or not there was a contract binding them…”.
+
+67     These principles apply similarly in the context of a tripartite agreement like the present case. In _Cooperatieve Centrale Raiffeisen-Boerenleenbank BA (trading as Rabobank International), Singapore Branch v Motorola Electronics Pte Ltd_ <span class="citation">\[2011\] 2 SLR 63</span> (“_Rabobank v Motorola_”), the Court of Appeal, in considering whether a tripartite agreement had been concluded, referred to several decisions involving bipartite agreements. Having done so, the court simply observed that “all the requirements for the formation of a contract, _viz_, offer and acceptance, consideration, intention to create legal relations, and certainty of terms must be satisfied before the court will imply the existence of a contract” (_Rabobank v Motorola_ at \[46\]). At \[50\] of the same judgment, the court further referred to the decision of Cooke J in _Meates v Attorney-General_ \[1983\] NZLR 308 at 377, where his Honour provided practical guidance, as follows:
+
+> I would not treat difficulties in analysing the dealings into a strict classification of offer and acceptance as necessarily decisive in this field, although any difficulty on that head is a factor telling against a contract. The acid test in the case like the present is **_whether_**, **_viewed as a whole and objectively from the point of view of a reasonable person on both sides, the dealings show a concluded bargain_**. \[emphasis added in bold italics\]
+
+68     Here, Mr Ching submits that the Garnishee confirmed that the Tripartite Agreement had been signed by all parties before the service of the PGO. This was done separately, first to the Judgment Debtor via WeChat on 9 March 2022,[\[note: 37\]](#Ftn_37) and second via email to Nexon on 10 March 2022 at 1:11pm,[^38] being a mere seven minutes before the Garnishee was served with the PGO (see \[49\] above).[^39]
+
+69     Against this, Mr Vishi submitted that the Garnishee’s assent to the Tripartite Agreement was only effectively communicated to all parties about four hours after the PGO was served, by way of the 10 March 5:06pm email.
+
+70     Having considered this issue thoroughly, I am unable to summarily dismiss either party’s submission as being hopeless or devoid of merit (_Teleoptik_ (\[16\] _supra_) at \[36\]).
+
+71     To begin, as explained at \[53\]–\[56\] above, Nexon’s understanding was that the signature was only necessary for the release of payment of the Assigned Sum, and not for the conclusion of the Tripartite Agreement. This was also Nexon’s position in the chaser sent on a day before the PGO was served, wherein Ms Ho emphasised that all the documents had been signed by the Judgment Debtor and Nexon, and accordingly they “\[a\]ppreciated if \[the Garnishee\] could approve the payment soonest”.[\[note: 40\]](#Ftn_40) To this, the response from the Garnishee seven minutes before the service of the PGO was unequivocal: “since every documents are duly signed, we will release the payment as soon as possible”.[^41] Given this, a reasonable person on both sides would obviously appreciate that even before the PGO was served, both Nexon and the Garnishee operated on the understanding that the Tripartite Agreement had been concluded.
+
+72     Turning my attention to the Judgment Debtor, the starting point is the chaser sent by Mr Huang on 9 March 2022, wherein he pressed for a signed copy of the Tripartite Agreement. Given the significance of this message chain, I set out the conversation in full:[\[note: 42\]](#Ftn_42)
+
+> 
+| 
+
+\[Huang = Mr Huang; Wang = Mr Wang\]
+
+ |
+| 
+
+Huang:
+
+ | 
+
+@Vincent Hi Boss Wang, has the agreement by the 3 parties been signed?
+
+ |
+| 
+
+Wang:
+
+ | 
+
+Yes
+
+ |
+| 
+
+Huang:
+
+ | 
+
+Ok, you will send a copy to me, right?
+
+ |
+| 
+
+Wang:
+
+ | 
+
+Yes, I will send it to you when I get back.
+
+ |
+| 
+
+Huang:
+
+ | 
+
+Thank you
+
+ |
+
+  
+  
+
+73     One reading of this message chain, as posited by Mr Ng in his affidavit, is that “it was always the parties’ intent that the proposed terms in \[the discussions preceding 10 March 2022\] were subject to a written contract being signed by all three parties”, and that this was “precisely why there were various reminders and chasers sent prior to the 10 March \[5:06pm\] \[e\]mail”.[\[note: 43\]](#Ftn_43)
+
+74     An alternate and not altogether improbable reading of the same message thread is that by the end of the conversation, Mr Huang was satisfied that the Tripartite Agreement had been duly signed, as evinced by his decision to end the conversation with a “\[t\]hank you”. The return of the signed copy was thus merely administrative, or in the words of the 10 March 5:06pm email sent by the Garnishee’s Mr Li Qie, to serve as a “record” for the Three Parties only.[\[note: 44\]](#Ftn_44)
+
+75     In my view, without the benefit of the testing the evidence of the key witnesses like Mr Ng at trial, it would be unsafe to conclusively determine which, if any, of the above interpretation is correct. This is particularly when one considers the Garnishee’s evolving case, which throws further doubt to the certainty of its position.
+
+### The Garnishee’s evolving case
+
+76     In his submissions, Mr Vishi surgically set out the Garnishee’s ever evolving case in response to the Judgment Debtor’s claim. According to him, this was calculated “to plug holes and gaps as they emerge\[d\]”. To briefly summarise, the Garnishee has raised several reasons that have developed with time to resist making payment to the Judgment Debtor and/or the Judgment Creditor:
+
+> (a)     In December 2021, prior to the commencement of these proceedings, the Garnishee explained to the Judgment Debtor that it had “received frequent complaints from \[the Judgment Debtor’s\] various subcontractors that they only received little payment from \[the Judgment Debtor\] in these two months”. As such, the Garnishee asked the Judgment Debtor “to provide evidence of full payment to \[the Judgment Debtor’s\] subcontractors”, failing which the Garnishee would “not pay the following 475,051 SGD to \[the Judgment Debtor\]”.[\[note: 45\]](#Ftn_45)
+
+> (b)     On 1 April 2022, the Garnishee filed an affidavit contesting its liability under the PGO. In the affidavit, the Garnishee’s Mr Li Yi averred that “\[f\]ollowing negotiations in late 2021 to early 2022, involving the \[Three Parties\], the \[Three\] Parties reached an agreement … dated 17 February 2022”.[\[note: 46\]](#Ftn_46) In the same affidavit, Mr Li Yi exhibited the Signed Tripartite Agreement, which was ostensibly dated 17 February 2022,[^47] and which reflected that the Garnishee had allegedly signed the agreement on 3 March 2022.[^48]
+
+> (c)     The Judgment Creditor’s solicitors pressed for more information as to when and how the Tripartite Agreement had been executed by each party. These requests for information were rebuffed by the Garnishee as the requests were allegedly “not relevant and material for the issues to be dealt with” at the show cause hearing.[\[note: 49\]](#Ftn_49)
+
+> (d)     Conducting its own enquiries, the Judgment Creditor subsequently learned that the Signed Tripartite Agreement dated 17 February 2022 was only disseminated on 10 March 2022 at 5:06pm. This newfound information, along with the 10 March 5:06pm email, was subsequently adduced in the Judgment Creditor’s reply affidavit dated 20 May 2022.[\[note: 50\]](#Ftn_50)
+
+> (e)     Faced with this fresh discovery, the Garnishee filed three reply affidavits. This time, Mr Li Yi explained that the Signed Tripartite Agreement exhibited in his earlier affidavit was merely “a formality to record the Oral Agreement which ‘_had been concluded’_” \[emphasis in original\] on 9 February 2022.[\[note: 51\]](#Ftn_51)
+
+> (f)     Finally, at the show cause hearing before me, the Garnishee’s position was further refined, and it was submitted that the oral agreement was concluded by way of the 3 February email, the 9 February email and/or the Signed Tripartite Agreement, with “each constituting a binding oral / written contract”.[\[note: 52\]](#Ftn_52)
+
+77     As can be seen from the above, the Garnishee’s position has evolved with time. First, the Garnishee refused to make payment to the Judgment Debtor until the Judgment Debtor provided “evidence of full payment” to its subcontractors. This position was changed in Mr Li Yi’s affidavit of 1 April 2022, wherein he exhibited the Signed Tripartite Agreement dated 17 February 2022. Relying on the date of the signed agreement, Mr Li Yi attempted to portray the agreement as having been concluded _on_ 17 February 2022, averring as follows in his affidavit: “the \[Three\] Parties reached an agreement … dated 17 February 2022”.[\[note: 53\]](#Ftn_53) No mention was made at this stage of the alleged oral agreements reached prior to the signing of the agreement.
+
+78     Mr Li Yi’s attempted portrayal did not work, as the Judgment Creditor’s solicitors proceeded to seek more information as to when and how the Tripartite Agreement had been concluded. These requests were stonewalled by the Garnishee, but through its own efforts, the Judgment Creditor obtained the 10 March 5:06pm email. After this email was adduced by the Judgment Creditor, the Garnishee again refined its position to assert that the Signed Tripartite Agreement, which Mr Li Yi had _earlier represented as constituting the agreement_ “to regulate \[the Three Parties’\] contractual arrangements amongst themselves”,[\[note: 54\]](#Ftn_54) was but a _mere formality_ to record the terms of an oral agreement concluded on 9 February 2022.[^55] If this were the case, such information, and the 9 February email recording such an alleged agreement, would surely have been relevant to better explain when and how the Tripartite Agreement came into being. Yet, it bears remembering that prior to the disclosure of the 10 March 5:06pm email, the Garnishee’s solicitors simply rejected the Judgment Creditor’s request for more information about the Tripartite Agreement as being “not relevant and material”.[^56]
+
+79     Finally, before me, the Garnishee’s position was once more adapted, this time to assert that there were three separate oral or written agreements, with each constituting a binding contract.
+
+80     The Garnishee’s vacillating positions, all made with the benefit of legal advice, is suggestive of the fact that even the Garnishee is unclear as to when the Tripartite Agreement was concluded. In particular, the Garnishee’s reticence to disclose the relevant email correspondence until its hand was forced by the disclosure of the 10 March 5:06pm email indicates that Garnishee was wary of the perception that the email correspondence might give. Put another way, the Garnishee, acting at all times through its counsel, were at least cognisant that the email correspondence _could_ jeopardise its defence that the Tripartite Agreement operated to validly assign the debt prior to the service of the PGO.
+
+81     The shifting positions adopted by the Garnishee (with the benefit of legal advice) gives rise to concerns about whether its defence, founded on the Tripartite Agreement having been concluded before the service of the PGO, is an “afterthought” rather “than a genuine one” (_M2B World_ (\[46\] _supra_) at \[27\]). I am therefore unable to accept the Garnishee’s submission that the matter can be _summarily determined_, with the effect that the Judgment Creditor would be denied its day in court. For the above reasons, I am satisfied that the issue of whether the Assigned Sum had been assigned to Nexon prior to the service of the PGO is an issue that ought to be tried.
+
+## Whether the Reserved Sum can be the subject matter of the garnishee order
+
+82     For completeness, I also address the Judgment Creditor’s argument that even if the Tripartite Agreement was concluded before the service of the PGO, there remained a debt of $239,250.23, being the Reserved Sum, due or accruing due from the Garnishee to the Judgment Debtor at the time of service.[\[note: 57\]](#Ftn_57)
+
+83     However, for there to be a “debt due or accruing due” that can be the subject of a garnishee order, “there must be a crystallised obligation of payment (_O’Laughlin Industries Co Ltd and another v Tan Thiam Hock and others_ <span class="citation">\[2020\] SGHCR 6</span> at \[13\]–\[15\], citing _Webb v Shenton_ \[1883\] 11 QBD 518 at 524).
+
+84     On the evidence before me, this Reserved Sum cannot be conclusively said to be a “crystallised obligation of payment”. It is true that the Progress Payment, which consists of this Reserved Sum, was certified in the Judgment Debtor’s favour by December 2021. It is also true that as the Garnishee withheld payment of this Progress Payment, the Judgment Debtor protested and alleged in a letter that it “only received 74% of the progress claim” even though it had “completed 98% of the contract value”.[\[note: 58\]](#Ftn_58)
+
+85     But while the date and time in which the Tripartite Agreement was concluded is unclear, what is clear is that it was properly executed by all Three Parties, and this was effectively communicated, at the latest, by the 10 March 5:06pm email. In the Signed Tripartite Agreement, the Judgment Debtor expressly agreed that the Reserved Sum would be temporarily reserved and would only be released when all outstanding works were completed. It may be that by then there was little left to complete, because 98% of the contract value had already been performed. Regardless, it remains that as at the time the Tripartite Agreement was executed, the Judgment Debtor agreed that this Reserved Sum could be validly withheld by the Garnishee until the completion of all outstanding works. Accordingly, there would be no crystallised obligation of payment from the Garnishee _vis-à-vis_ this Reserved Sum until the outstanding works were completed.
+
+86     Till date, it appears (on the present state of the evidence) that such outstanding works have not been completed. For example, on 17 March 2022, the Garnishee’s solicitors wrote to inform that “our clients instruct us that \[the Judgment Debtor\] has not completed the Outstanding Works”.[\[note: 59\]](#Ftn_59) In his affidavit filed on 29 June 2022, Mr Ng has not averred or provided any evidence to suggest that the outstanding works have been completed, and that the Reserved Sum should be accordingly released.[^60] Hence, without trial, and without the consideration of additional evidence in relation to the state of the outstanding works, it remains uncertain whether the Reserved Sum can be the subject matter of the garnishee order.
+
+## Conclusion
+
+87     In conclusion, there is a whole host of triable issues raised, at the heart of which is when the Three Parties enter into the Tripartite Agreement. This is not a simple question to answer, because each question raises in itself an assortment of ancillary questions, which ought not to be summarily determined without trial. To give a few examples:
+
+> (a)     Was there a concluded oral agreement on 3 February 2022? If so, what was the effect of the 9 February email and the Signed Tripartite Agreement? Did they change the date in which the Tripartite Agreement was concluded?
+
+> (b)     Alternatively, was there a concluded oral agreement on 9 February 2022? If so, what was the effect of the Signed Tripartite Agreement, which differed in material ways, in particular as regards the payment conditions for the outstanding $156,000? Did the Signed Tripartite Agreement change the date in which the Tripartite Agreement was concluded?
+
+> (c)     Finally, if there was no concluded oral agreement on 3 and 9 February 2022, when was the Signed Tripartite Agreement concluded? Was it before or after the PGO was served? This may turn on whether the communication prior to the service of the PGO was sufficient to amount to effective communication of the Garnishee’s assent to the written Tripartite Agreement.
+
+88     My extensive review of the matters in this judgment has shown that it is not possible to answer any of the above questions summarily by reference to the affidavit and documentary evidence alone. Nonetheless, what can be said for certain is that the Garnishee accepts that $12,948.41, being the Remaining Sum, remains due and owing to the Judgment Debtor.[\[note: 61\]](#Ftn_61) Mr Ching confirmed the same during the hearing. For this reason, the PGO is made final as regards the Remaining Sum of $12,948.41. This sum is to be immediately payable from the Garnishee to the Judgment Creditor, in partial satisfaction of the garnishee order and the Adjudication Determination.
+
+89     As regards the remainder of the PGO, I order a trial of this summons to determine whether there is any remaining debt due or accruing due from the Garnishee to the Judgment Debtor. This, as canvassed in this judgment, will likely turn on the fundamental issue of when the Three Parties entered into a concluded Tripartite Agreement.
+
+90     Before closing, I would like to record my sincerest appreciation for the work done by Mr Vishi, Mr Ching, as well as their co-counsel, Ms Andrea Seet Sze Yuen and Ms Lee Tze En Chrystal. This was not a straightforward application, and the various issues raised were often inter-related and raised several legal issues therein. Through their written and oral submissions, counsel for both the Judgment Creditor and Garnishee ably distilled the issues at hand, providing relevant authorities and references to the appropriate documents at each juncture. Both Mr Vishi and Mr Ching also demonstrated a mastery of the authorities and evidence at hand, and they ably answered the questions that arose during the course of the hearing. While advocating for the cases of their respective clients, they were fundamentally cognisant of their duty to the Court and in the administration of justice, and each made submissions fairly and with proper reference to the evidence and authorities even if such were potentially detrimental to their clients’ cases. For their invaluable assistance, I record my deepest gratitude.
+
+91     I will hear parties on costs of the hearing on a separate date.
+
+* * *
+
+[\[note: 1\]](#Ftn_1_1)Applicant’s Bundle of Documents (“ABOD”) at 86 – 87, \[8\].
+
+[^2]: ABOD 81.
+
+[^3]: ABOD 77.
+
+[^4]: ABOD 24 – 42.
+
+[^5]: ABOD 92.
+
+[^6]: Garnishee’s Submissions at \[31\].
+
+[^7]: ABOD 88, \[13\].
+
+[^8]: ABOD 222 at \[13\].
+
+[^9]: ABOD 242.
+
+[^10]: ABOD 241.
+
+[^11]: ABOD 240.
+
+[^12]: ABOD 239.
+
+[^13]: ABOD 239.
+
+[^14]: ABOD 237 – 238.
+
+[^15]: ABOD 237.
+
+[^16]: ABOD \[21.1\], 259 – 267, 270 – 279.
+
+[^17]: ABOD 284.
+
+[^18]: ABOD 286 – 294.
+
+[^19]: ABOD 93
+
+[^20]: Applicant’s submissions at \[68\] – \[69\].
+
+[^21]: ABOD 237–242.
+
+[^22]: ABOD 377.
+
+[^23]: ABOD 238.
+
+[^24]: ABOD 359, \[8\] – \[9\].
+
+[^25]: ABOD 375.
+
+[^26]: ABOD 300 and 303.
+
+[^27]: ABOD 355.
+
+[^28]: ABOD 303.
+
+[^29]: ABOD 302.
+
+[^30]: ABOD 302.
+
+[^31]: ABOD 238.
+
+[^32]: ABOD 237.
+
+[^33]: ABOD 236.
+
+[^34]: ABOD 235.
+
+[^35]: ABOD 270 – 279.
+
+[^36]: Applicant’s Submissions at \[8\].
+
+[^37]: ABOD 355.
+
+[^38]: ABOD 302.
+
+[^39]: ABOD 135 to 138.
+
+[^40]: ABOD 303.
+
+[^41]: ABOD 302.
+
+[^42]: ABOD 300.
+
+[^43]: ABOD 359 at \[9\].
+
+[^44]: ABOD 375.
+
+[^45]: ABOD 81.
+
+[^46]: ABOD 87, at \[10\].
+
+[^47]: ABOD 92.
+
+[^48]: ABOD 100.
+
+[^49]: ABOD 113.
+
+[^50]: ABOD 106 and 125.
+
+[^51]: ABOD 223 at \[18\].
+
+[^52]: Garnishee’s Submissions at \[31\].
+
+[^53]: ABOD 87, at \[10\].
+
+[^54]: ABOD 87 at \[10\].
+
+[^55]: ABOD 223 at \[18\].
+
+[^56]: ABOD 113 at \[4(i)\].
+
+[^57]: Applicant’s submissions at \[89\].
+
+[^58]: ABOD 82.
+
+[^59]: ABOD 233.
+
+[^60]: See ABOD 357 to 384.
+
+[^61]: Garnishee’s submissions at \[20\], ABOD 221 at \[11\].
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F28976-SSP.xml)

@@ -1,0 +1,76 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Dinesh Kumar s/o Ruvy  
+
+### \[2022\] SGDC 282
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Case No. URACP-003176-2021-1 &amp; others, Magistrate's Appeal No. 9232/2022/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">28 November 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">A Sangeetha</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Sharleen Tan (Urban Redevelopment Authority) for the Prosecution; Accused-in-Person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Dinesh Kumar s/o Ruvy</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Sentencing – Parking Places Act
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9232/2022/01.\]
+
+28 November 2022
+
+### District Judge A Sangeetha:
+
+## Introduction
+
+1       The Accused, Dinesh Kumar s/o Ruvy, pleaded guilty to five charges punishable under s 16 of the Parking Places Act (Cap 214, 2009 Rev Ed) (“the Act”). Four out of these five charges were offences under r 3A of the Parking Places (Coupon Parking) Rules (Cap 214, R 3, 2009 Rev Ed) (“the Rules”) for parking a motor vehicle, SJQ 1136 C, at a coupon parking place for a period of time without paying the stipulated parking charges. The last charge was under r 3 of the Rules for parking the said motor vehicle in a parking place other than a parking lot.
+
+2       The Accused was unrepresented and appeared from Changi Prison Complex where he is currently serving a term of imprisonment for a separate set of criminal offences (“current sentence”). His earliest date of release is on 21 December 2028.
+
+3       For each charge, I imposed a fine of $500 in default 2 days’ imprisonment. The default sentences were ordered to commence at the expiry of his current sentence being served.
+
+4       Dissatisfied, the Accused filed this appeal against the sentences imposed. To-date, the fines have not been paid. I now provide the reasons for my decision.
+
+## The charges
+
+5       A summary of the charges is set out below:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="32.9865973194639%"><col width="20.624124824965%"><col width="24.744948989798%"><col width="21.6443288657732%"></colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Charge</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Date of Offence</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Location</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Applicable Rule</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">URACP-003209-2021</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12 June 2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Kim Keat Close</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Rule 3A</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">URACP-003183-2021</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">17 June 2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Kim Keat Close</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Rule 3A</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">URACP-003176-2021</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">20 June 2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Kim Keat Close</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Rule 3A</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">URACP-003177-2021</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">25 June 2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Kim Keat Close</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Rule 3A</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">URACP-003223-2021</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 July 2020</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Upper Circular Road</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Rule 3</p></td></tr></tbody></table>
+
+  
+  
+
+## Background
+
+6       I start by first briefly setting out the regulatory offences framework prosecuted by the Urban Redevelopment Authority (“URA”) in the State Courts. Shortly after an offence is committed, the URA, through notices, tickets or correspondence, often offers composition to offenders. The rates of composition largely depend on the stage of proceedings. Those at the early stages of the case are often offered lower rates of composition to encourage early settlement of cases. For offenders who fail to accept the early offers of composition, the rate of composition subsequently increases and eventually, the case proceeds to court with its first mention in Court 4A(N) of the State Courts (“Court 4A(N)” or “night court”).
+
+7       At night court, accused persons state their plea, seek adjournments to raise funds or try to obtain an instalment plan with URA. Cases which are not resolved at Court 4A(N) will be fixed for mention in Court 7A of the State Courts (“Court 7A”). In Court 7A, accused persons may seek further adjournments and where reasonable, such requests are granted with directions from the court. Otherwise, their pleas will be taken.
+
+## Procedural history
+
+8       The Accused’s case was first mentioned in Court 4A(N) on 5 July 2021. As the Accused was absent, a warrant for his arrest was issued. The Warrant to Arrest was later executed on the Accused while he was in remand for a separate criminal matter. An Order to Bring Up Prisoner was issued for the Accused to be produced at Court 7A via video-link on 20 October 2022.
+
+9       At the mention on 20 October 2022, the Prosecution informed the learned District Judge that composition was still being offered at $400 per charge. The Accused indicated that he intended to compound the charges and would like to contact his family. Details on how composition payment could be made were provided to him by the Prosecution. The learned District Judge ordered that the Accused be allowed to make two local phone calls to contact his family to compound the charges. The case was adjourned to 8 November 2022.
+
+10     At the next mention on 8 November 2022, the Prosecution reported that no payment was received from the Accused’s family. The Accused informed me that he was not granted phone calls and would like to plead guilty to the charges. Given the circumstances, I queried if the Accused still wished to compound the charges or if he would like to state his plea. The nature and consequences of pleading guilty, including the imposition of default imprisonment terms which would not be ordered to run concurrently with his current sentence, was explained. The Accused confirmed that he understood and that he wished to plead guilty. His plea of guilt was then recorded without qualification and he was convicted on five charges.
+
+## Prescribed penalty
+
+11     The prescribed penalty for an offence under s 16 of the Act is a fine of not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+## Antecedents
+
+12     The Accused was untraced for similar offences.
+
+## Submissions on sentence and mitigation
+
+13     The prosecution sought the night court tariff, namely, a fine between $500 to $600 per charge.
+
+14     The Accused did not say anything in mitigation.
+
+## Sentence
+
+15     As the Prosecution submitted, the usual fines imposed for such cases in night court is between $500 and $600 per charge. For cases heard in Court 7A, the usual fines are between $600 and $800 per charge. These tariffs are calibrated having regard to the composition rates offered by the URA.
+
+16     I noted that the Accused was in remand when his case was first mentioned in Court 4A(N). Accordingly, even though the case was being heard in Court 7A, I was of the view that the night court tariff should apply. Considering the Accused’s early plea of guilt, I determined that a fine of $500 per charge, which is at the lower end of the usual range of night court tariffs, to be appropriate and so imposed.
+
+17     As for the default term of imprisonment, I was of the view that 2 days’ imprisonment per charge was appropriate and not crushing on the Accused. I ordered that the default sentences were to commence at the expiry of his current sentence being served.
+
+## Conclusion
+
+18     I imposed a fine of $500 in default 2 days’ imprisonment per charge. The aggregate sentence is a fine of $2,500 in default 10 days’ imprisonment. The sentences, individually and in aggregate, cannot be said to be manifestly excessive.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F29035-SSP.xml)
